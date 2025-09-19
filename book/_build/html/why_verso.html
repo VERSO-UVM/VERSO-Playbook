@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>VERSO Playbook &#8212; My sample book</title>
+    <title>Why VERSO Was Created &#8212; My sample book</title>
   
   
   
@@ -60,10 +60,11 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'why_verso';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Why VERSO Was Created" href="why_verso.html" />
+    <link rel="next" title="Context and Landscape" href="context_and_landscape.html" />
+    <link rel="prev" title="VERSO Playbook" href="intro.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   <meta name="docsearch:version" content="" />
@@ -115,8 +116,6 @@
       
       
       
-        
-      
       <dialog id="pst-primary-sidebar-modal"></dialog>
       <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
@@ -136,7 +135,7 @@
     
   
 
-<a class="navbar-brand logo" href="#">
+<a class="navbar-brand logo" href="intro.html">
   
   
   
@@ -163,14 +162,14 @@
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1 current active">
-                <a class="reference internal" href="#">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
                     VERSO Playbook
                 </a>
             </li>
         </ul>
-        <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Why VERSO Was Created</a></li>
 <li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
 <li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">The Spark – From Idea to Initiative</a></li>
 
@@ -252,7 +251,7 @@
       
       
       
-      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fintro.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2Fwhy_verso.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -282,7 +281,7 @@
       
       
       
-      <li><a href="_sources/intro.md" target="_blank"
+      <li><a href="_sources/why_verso.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -345,7 +344,9 @@
 <button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
 </button>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -356,11 +357,22 @@
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>VERSO Playbook</h1>
+    <h1>Why VERSO Was Created</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction"><strong>Introduction</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-problem-we-saw"><strong>1.1 The Problem We Saw</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-vision"><strong>1.2 The Vision</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-an-ospo-in-academia"><strong>1.3 Why an OSPO in Academia?</strong></a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -370,24 +382,43 @@
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="verso-playbook">
-<h1>VERSO Playbook<a class="headerlink" href="#verso-playbook" title="Link to this heading">#</a></h1>
-<p>Open source has transformed the way knowledge is created, shared, and sustained. Yet, in academic research, the adoption of open source principles often faces structural and cultural barriers. The Vermont Research Open Source Program Office (VERSO) was born out of a simple question: How can a university systematically support open source as a pillar of research and innovation? This playbook tells the story of VERSO’s creation at the University of Vermont—its vision, its struggles, its successes, and its pivots. It is both a roadmap and a candid reflection for anyone seeking to build an Open Source Program Office in an academic setting.</p>
-<div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
-<li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
-<li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">The Spark – From Idea to Initiative</a></li>
-<li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html#chapter-3-structuring-the-office"><strong>Chapter 3: Structuring the Office</strong></a></li>
-<li class="toctree-l1"><a class="reference internal" href="structuring_the_office.html">Structuring the Office</a></li>
-<li class="toctree-l1"><a class="reference internal" href="defining_scope_and_service.html">Defining Scope and Services</a></li>
-<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling Across Programs</a></li>
-<li class="toctree-l1"><a class="reference internal" href="tools_infrastructure_and_policies.html">Tools, Infrastructure, and Policies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="measuring_impact.html">Measuring Impact</a></li>
-<li class="toctree-l1"><a class="reference internal" href="failures_and_lessons_learned.html">Failures, Pivots, and Adaptations</a></li>
-<li class="toctree-l1"><a class="reference internal" href="sustainability_and_the_future.html">Sustainability and the Future</a></li>
+  <section class="tex2jax_ignore mathjax_ignore" id="why-verso-was-created">
+<h1>Why VERSO Was Created<a class="headerlink" href="#why-verso-was-created" title="Link to this heading">#</a></h1>
+<section id="introduction">
+<h2><strong>Introduction</strong><a class="headerlink" href="#introduction" title="Link to this heading">#</a></h2>
+<p>Open source has become a cornerstone of modern research and innovation, yet academic institutions often lack the structures to support it effectively. Researchers at universities frequently create software, data, and tools that could have a broader impact if shared openly, but barriers such as licensing, compliance, sustainability, and community engagement stand in the way.</p>
+<p>The Vermont Research Open Source Program Office (VERSO) was established at the University of Vermont to address these challenges. Our mission was simple but ambitious: <strong>to make open source a first-class citizen in research</strong>—not an afterthought. This chapter explores the motivations behind VERSO, the gaps it aimed to fill, and the principles that guided its creation.</p>
+</section>
+<hr class="docutils" />
+<section id="the-problem-we-saw">
+<h2><strong>1.1 The Problem We Saw</strong><a class="headerlink" href="#the-problem-we-saw" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Fragmentation</strong>: Researchers were reinventing the wheel in isolation.</p></li>
+<li><p><strong>Compliance Risks</strong>: Lack of clarity on licensing and intellectual property.</p></li>
+<li><p><strong>Sustainability</strong>: Projects often died when a grant ended.</p></li>
+<li><p><strong>Missed Opportunities</strong>: Open source could amplify research impact, but there was no institutional support.</p></li>
 </ul>
-</div>
+</section>
+<hr class="docutils" />
+<section id="the-vision">
+<h2><strong>1.2 The Vision</strong><a class="headerlink" href="#the-vision" title="Link to this heading">#</a></h2>
+<p>VERSO was built on three core principles:</p>
+<ol class="arabic simple">
+<li><p><strong>Enablement</strong>: Lower barriers for researchers to release and maintain open source projects.</p></li>
+<li><p><strong>Community</strong>: Foster collaboration within and beyond the university.</p></li>
+<li><p><strong>Sustainability</strong>: Ensure that open source outputs live beyond individual grants or projects.</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="why-an-ospo-in-academia">
+<h2><strong>1.3 Why an OSPO in Academia?</strong><a class="headerlink" href="#why-an-ospo-in-academia" title="Link to this heading">#</a></h2>
+<p>While Open Source Program Offices (OSPOs) are common in industry, they are rare in higher education. We believed that universities—where knowledge creation is central—should lead in open source adoption. VERSO aimed to:</p>
+<ul class="simple">
+<li><p>Provide governance and best practices.</p></li>
+<li><p>Offer training and resources.</p></li>
+<li><p>Advocate for open source as a strategic asset for research.</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -420,12 +451,21 @@
                 <footer class="prev-next-footer d-print-none">
                   
 <div class="prev-next-area">
+    <a class="left-prev"
+       href="intro.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">VERSO Playbook</p>
+      </div>
+    </a>
     <a class="right-next"
-       href="why_verso.html"
+       href="context_and_landscape.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Why VERSO Was Created</p>
+        <p class="prev-next-title">Context and Landscape</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -435,6 +475,25 @@
             </div>
             
             
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction"><strong>Introduction</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-problem-we-saw"><strong>1.1 The Problem We Saw</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-vision"><strong>1.2 The Vision</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#why-an-ospo-in-academia"><strong>1.3 Why an OSPO in Academia?</strong></a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
