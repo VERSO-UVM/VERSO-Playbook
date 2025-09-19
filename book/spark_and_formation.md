@@ -1,64 +1,39 @@
 # The Spark – From Idea to Initiative
 
-## **2.1 How It Started**
-Every program begins with a question. For VERSO, it was:  
+Every transformative program begins with a question. For VERSO, that question was simple yet profound:  
 *“Why isn’t there a systematic way to support open source in research at UVM?”*  
 
-The idea emerged during conversations among faculty, research administrators, and technologists who recognized that open source was both a research output and an enabler of collaboration. Yet, there was no institutional framework to manage it.
+This question emerged from a growing awareness that open source was no longer a niche activity—it was central to modern science. Yet, at the University of Vermont, as at many universities, open-source practices were ad hoc, unsupported, and often invisible. The spark that ignited VERSO came from conversations among faculty, research administrators, and technologists who saw both the problem and the opportunity.
+
+## How It Started
+The idea for VERSO didn’t come from a single meeting or memo; it evolved through a series of informal discussions. Faculty members frustrated by the lack of guidance on licensing, IT staff concerned about compliance risks, and administrators eager to enhance research impact all recognized the same gap: there was no institutional framework for managing open source. These conversations coalesced into a shared vision—an office dedicated to enabling open-source practices across the university.
 
 ---
 
-## **2.2 Early Champions**
-- **Faculty Advocates**: Researchers who saw open source as critical to reproducibility.
-- **IT Partners**: Staff who understood the infrastructure needs.
-- **Administration**: Leaders willing to experiment with new models.
+## *Early Champions
+No initiative succeeds without champions, and VERSO had several from the start:
+- **Faculty Advocates** who understood that reproducibility and transparency were essential for credible science.
+- **IT Partners** who saw the need for infrastructure to support collaborative development.
+- **Administrative Leaders** willing to experiment with new models of research support.
+
+These early advocates provided not just ideas, but credibility and momentum. They helped frame open source as a strategic priority rather than a technical afterthought.
 
 ---
 
-## **2.3 The First Pitch**
-The initial proposal was simple:
-- Create a small, centralized office to provide guidance on licensing, governance, and sustainability.
-- Start with pilot projects to demonstrate value.
-- Build a community of practice around open source research.
+## The First Pitch
+The initial proposal was ambitious in vision but pragmatic in scope. We didn’t promise to transform the entire university overnight. Instead, we proposed:
+- Creating a small, centralized office to provide guidance on licensing, governance, and sustainability.
+- Launching a handful of pilot projects to demonstrate value.
+- Building a community of practice that could grow organically over time.
+
+This approach allowed us to start small, learn quickly, and scale strategically.
 
 ---
 
-## **2.4 Securing Buy-In**
-Getting institutional support required:
-- Aligning with UVM’s strategic goals.
-- Demonstrating how open source could enhance research impact and funding competitiveness.
-- Showing that the risks of *not* doing this (compliance, IP issues) were real.
+## Securing Buy-In
+Gaining institutional support required more than enthusiasm—it required alignment with UVM’s strategic goals. We framed VERSO as a way to:
+- Enhance research impact and visibility.
+- Improve compliance with emerging open science mandates.
+- Reduce risks associated with unmanaged intellectual property.
 
----
-
-# **Chapter 3: Structuring the Office**
-
-## **3.1 Governance Model**
-VERSO adopted a **hub-and-spoke** model:
-- **Hub**: A small core team providing expertise and resources.
-- **Spokes**: Research groups and departments integrating open source practices.
-
----
-
-## **3.2 Funding and Resources**
-Initial funding came from:
-- Internal innovation grants.
-- Cost-sharing with research projects.
-- Later, external grants to support open source sustainability.
-
----
-
-## **3.3 Roles and Responsibilities**
-- **Director**: Strategic leadership and advocacy.
-- **Program Manager**: Day-to-day operations and community building.
-- **Technical Lead**: Infrastructure and tooling.
-- **Advisory Board**: Faculty and external experts guiding priorities.
-
----
-
-## **3.4 Policies and Frameworks**
-Key early deliverables:
-- Open source licensing guidelines.
-- Contribution and governance templates.
-- Compliance checklists for research projects.
-
+We also made the case that the cost of doing nothing was high: missed funding opportunities, reputational risks, and lost potential for collaboration. This framing resonated with leadership and laid the groundwork for the next phase—structuring the office.

@@ -60,6 +60,8 @@
     <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'intro';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -173,10 +175,9 @@
 <li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
 <li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
 <li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">The Spark – From Idea to Initiative</a></li>
-
 <li class="toctree-l1"><a class="reference internal" href="structuring_the_office.html">Structuring the Office</a></li>
 <li class="toctree-l1"><a class="reference internal" href="defining_scope_and_service.html">Defining Scope and Services</a></li>
-<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling Across Programs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling and Other Challenges</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tools_infrastructure_and_policies.html">Tools, Infrastructure, and Policies</a></li>
 <li class="toctree-l1"><a class="reference internal" href="measuring_impact.html">Measuring Impact</a></li>
 <li class="toctree-l1"><a class="reference internal" href="failures_and_lessons_learned.html">Failures, Pivots, and Adaptations</a></li>
@@ -345,7 +346,9 @@
 <button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
 </button>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -361,6 +364,15 @@
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-the-university-of-vermont">About the University of Vermont</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-verso">About VERSO</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -373,20 +385,16 @@
   <section class="tex2jax_ignore mathjax_ignore" id="verso-playbook">
 <h1>VERSO Playbook<a class="headerlink" href="#verso-playbook" title="Link to this heading">#</a></h1>
 <p>Open source has transformed the way knowledge is created, shared, and sustained. Yet, in academic research, the adoption of open source principles often faces structural and cultural barriers. The Vermont Research Open Source Program Office (VERSO) was born out of a simple question: How can a university systematically support open source as a pillar of research and innovation? This playbook tells the story of VERSO’s creation at the University of Vermont—its vision, its struggles, its successes, and its pivots. It is both a roadmap and a candid reflection for anyone seeking to build an Open Source Program Office in an academic setting.</p>
+<section id="about-the-university-of-vermont">
+<h2>About the University of Vermont<a class="headerlink" href="#about-the-university-of-vermont" title="Link to this heading">#</a></h2>
+<p>The University of Vermont (UVM), founded in 1791, is one of the oldest universities in the United States and the fifth-oldest in New England. Located in Burlington, Vermont, UVM sits on a 460-acre campus overlooking Lake Champlain, with the Green Mountains to the east and the Adirondacks to the west. The university enrolls nearly 14,000 students across more than 100 undergraduate majors and 100+ graduate programs, organized into nine schools and colleges. UVM is nationally recognized for its commitment to sustainability, research excellence, and community engagement, earning a Top-100 Research University ranking and a spot among the Top 50 Green Colleges. The surrounding area offers a unique blend of a vibrant small city and abundant outdoor recreation, making Burlington a hub for culture, innovation, and environmental stewardship.</p>
+<p>In February 2025, the University of Vermont earned the prestigious R1 designation from the Carnegie Classification of Institutions of Higher Education, placing it among the top-tier research universities in the United States. This classification, established in 1973, recognizes institutions with “very high research activity,” defined by metrics such as annual research expenditures exceeding <span class="math notranslate nohighlight">\(50 million and the production of at least 70 research doctorates per year. UVM far surpassed these thresholds, reporting \)</span>266 million in research funding and awarding 78 doctoral degrees in fiscal year 2024. Achieving R1 status reflects decades of investment in research infrastructure, faculty excellence, and interdisciplinary collaboration.</p>
+</section>
+<section id="about-verso">
+<h2>About VERSO<a class="headerlink" href="#about-verso" title="Link to this heading">#</a></h2>
+<p>The <strong>Vermont Research Open Source Program Office (VERSO)</strong> is the University of Vermont’s initiative to make open source a strategic asset for research, education, and community engagement. Established as one of the first academic OSPOs in the United States, VERSO provides governance, training, and infrastructure to help researchers create, share, and sustain open-source software. Rooted in UVM’s land-grant mission, VERSO also partners with Vermont communities, nonprofits, and industry to co-develop solutions that address real-world challenges. By documenting its processes and lessons learned, VERSO serves as a model for other universities seeking to integrate open-source practices into their research ecosystems.</p>
+</section>
 <div class="toctree-wrapper compound">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
-<li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
-<li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">The Spark – From Idea to Initiative</a></li>
-<li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html#chapter-3-structuring-the-office"><strong>Chapter 3: Structuring the Office</strong></a></li>
-<li class="toctree-l1"><a class="reference internal" href="structuring_the_office.html">Structuring the Office</a></li>
-<li class="toctree-l1"><a class="reference internal" href="defining_scope_and_service.html">Defining Scope and Services</a></li>
-<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling Across Programs</a></li>
-<li class="toctree-l1"><a class="reference internal" href="tools_infrastructure_and_policies.html">Tools, Infrastructure, and Policies</a></li>
-<li class="toctree-l1"><a class="reference internal" href="measuring_impact.html">Measuring Impact</a></li>
-<li class="toctree-l1"><a class="reference internal" href="failures_and_lessons_learned.html">Failures, Pivots, and Adaptations</a></li>
-<li class="toctree-l1"><a class="reference internal" href="sustainability_and_the_future.html">Sustainability and the Future</a></li>
-</ul>
 </div>
 </section>
 
@@ -435,6 +443,23 @@
             </div>
             
             
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-the-university-of-vermont">About the University of Vermont</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#about-verso">About VERSO</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

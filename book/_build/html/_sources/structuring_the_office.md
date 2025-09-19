@@ -1,29 +1,24 @@
 # Structuring the Office
 
-## **3.1 Governance Model**
-VERSO adopted a **hub-and-spoke** model:
-- **Hub**: A small core team providing expertise and resources.
-- **Spokes**: Research groups and departments integrating open source practices.
+## Placement of VERSO
+
+The grant that created VERSO was originally support by the UVM Library through Library Dean [Bryn Geffert](https://www.uvm.edu/president/profile/bryn-geffert) and [Juniper Lovato](https://www.uvm.edu/cems/cs/profile/juniper-lovato) at the College of Engineering and Mathematical Sciences (CEMS). This placed the office between a college and a cross-campus department and provided connections to students, faculty and staff that are most likely to be in the open source programming space while also giving it reach to move beyond CEMS to support a broader spectrum of the community. The first physical office was places in Howe Library building in a basement office. While the space was gracious, it was located inside of another office which by necessity was only accessible with key card to a small selection of staff. 
+
+## Governance Model
+While and advisory group was created when the office first formed, it proved difficult at create an ongoing meeting or input. For much of the first couple of years the office acted
+
+## Funding and Resources
+Initial funding came from the Alfred P. Sloan Foundation in the form of a \$635,000 grant over two years. This was meant to support the positions of a director and community specialists. 
 
 ---
 
-## **3.2 Funding and Resources**
-Initial funding came from:
-- Internal innovation grants.
-- Cost-sharing with research projects.
-- Later, external grants to support open source sustainability.
+## Roles and Responsibilities
+
+While original positions did shift, the importance of a multi-disciplinary director was impactful in the initial direction of the office. 
 
 ---
 
-## **3.3 Roles and Responsibilities**
-- **Director**: Strategic leadership and advocacy.
-- **Program Manager**: Day-to-day operations and community building.
-- **Technical Lead**: Infrastructure and tooling.
-- **Advisory Board**: Faculty and external experts guiding priorities.
-
----
-
-## **3.4 Policies and Frameworks**
+## Policies and Frameworks
 Key early deliverables:
 - Open source licensing guidelines.
 - Contribution and governance templates.

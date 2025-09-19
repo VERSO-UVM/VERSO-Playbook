@@ -64,7 +64,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Measuring Impact" href="measuring_impact.html" />
-    <link rel="prev" title="Scaling Across Programs" href="scaling_and_other_challenges.html" />
+    <link rel="prev" title="Scaling and Other Challenges" href="scaling_and_other_challenges.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   <meta name="docsearch:version" content="" />
@@ -172,10 +172,9 @@
 <li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
 <li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
 <li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">The Spark – From Idea to Initiative</a></li>
-
 <li class="toctree-l1"><a class="reference internal" href="structuring_the_office.html">Structuring the Office</a></li>
 <li class="toctree-l1"><a class="reference internal" href="defining_scope_and_service.html">Defining Scope and Services</a></li>
-<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling Across Programs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling and Other Challenges</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Tools, Infrastructure, and Policies</a></li>
 <li class="toctree-l1"><a class="reference internal" href="measuring_impact.html">Measuring Impact</a></li>
 <li class="toctree-l1"><a class="reference internal" href="failures_and_lessons_learned.html">Failures, Pivots, and Adaptations</a></li>
@@ -367,9 +366,12 @@
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-technical-foundation"><strong>6.1 Building the Technical Foundation</strong></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#licensing-and-compliance"><strong>6.2 Licensing and Compliance</strong></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#security-and-risk-management"><strong>6.3 Security and Risk Management</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-technical-foundation">Building the Technical Foundation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#licensing-and-compliance">Licensing and Compliance</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#security-and-risk-management">Security and Risk Management</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-this-matters">Why This Matters</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -383,36 +385,28 @@
                   
   <section class="tex2jax_ignore mathjax_ignore" id="tools-infrastructure-and-policies">
 <h1>Tools, Infrastructure, and Policies<a class="headerlink" href="#tools-infrastructure-and-policies" title="Link to this heading">#</a></h1>
+<p>Open source is not just a philosophy—it’s a practice that depends on the right tools, infrastructure, and policies. Without these foundations, even the most enthusiastic researchers struggle to share their work effectively. From the beginning, VERSO recognized that enabling open source at UVM meant more than offering advice; it required building systems that made openness practical, sustainable, and secure. This chapter explores the technical and policy frameworks we developed to support researchers and ensure compliance with institutional and funding requirements.</p>
 <section id="building-the-technical-foundation">
-<h2><strong>6.1 Building the Technical Foundation</strong><a class="headerlink" href="#building-the-technical-foundation" title="Link to this heading">#</a></h2>
-<p>To support open source research, VERSO needed more than policies—it needed infrastructure. We focused on:</p>
-<ul class="simple">
-<li><p><strong>Version Control</strong>: Standardizing on GitHub and GitLab for project hosting.</p></li>
-<li><p><strong>CI/CD Pipelines</strong>: Encouraging automated testing and deployment.</p></li>
-<li><p><strong>Documentation Standards</strong>: Templates for READMEs, contribution guides, and governance.</p></li>
-</ul>
+<h2>Building the Technical Foundation<a class="headerlink" href="#building-the-technical-foundation" title="Link to this heading">#</a></h2>
+<p>One of VERSO’s first priorities was to establish a <strong>technical backbone</strong> for open-source development. Many research groups were already using platforms like GitHub, but often in inconsistent or insecure ways. We standardized on <strong>GitHub and GitLab</strong> for version control and repository hosting, providing guidance on best practices for repository structure, branching strategies, and issue tracking.</p>
+<p>To improve quality and reproducibility, we introduced <strong>Continuous Integration/Continuous Deployment (CI/CD) pipelines</strong>, enabling automated testing and deployment for projects that needed it. We also created <strong>documentation templates</strong>—for READMEs, contribution guidelines, and governance documents—so that projects could onboard new contributors quickly and maintain clarity over time.</p>
 </section>
 <hr class="docutils" />
 <section id="licensing-and-compliance">
-<h2><strong>6.2 Licensing and Compliance</strong><a class="headerlink" href="#licensing-and-compliance" title="Link to this heading">#</a></h2>
-<p>One of the most common questions from researchers was:<br />
-<em>“Which license should I use?”</em><br />
-We developed:</p>
-<ul class="simple">
-<li><p><strong>License Selection Guides</strong>: Explaining permissive vs. copyleft licenses.</p></li>
-<li><p><strong>Compliance Checklists</strong>: Ensuring projects met grant and institutional requirements.</p></li>
-<li><p><strong>Policy Alignment</strong>: Working with legal and tech transfer offices to avoid conflicts.</p></li>
-</ul>
+<h2>Licensing and Compliance<a class="headerlink" href="#licensing-and-compliance" title="Link to this heading">#</a></h2>
+<p>Licensing was one of the most common pain points for researchers. Many had never chosen an open-source license before and were unsure of the implications. VERSO developed <strong>license selection guides</strong> that explained the differences between permissive and copyleft licenses in plain language. We also created <strong>compliance checklists</strong> to ensure that projects met university policies and funding agency requirements.</p>
+<p>To reduce risk, we worked closely with UVM’s legal and technology transfer offices, aligning our recommendations with institutional policies. This collaboration allowed us to provide researchers with clear, actionable advice without stepping into the role of legal counsel.</p>
 </section>
 <hr class="docutils" />
 <section id="security-and-risk-management">
-<h2><strong>6.3 Security and Risk Management</strong><a class="headerlink" href="#security-and-risk-management" title="Link to this heading">#</a></h2>
-<p>Open source introduces security considerations:</p>
-<ul class="simple">
-<li><p><strong>Dependency Scanning</strong>: Identifying vulnerabilities in third-party libraries.</p></li>
-<li><p><strong>Responsible Disclosure</strong>: Establishing a process for reporting security issues.</p></li>
-<li><p><strong>Data Privacy</strong>: Ensuring compliance with IRB and data protection rules.</p></li>
-</ul>
+<h2>Security and Risk Management<a class="headerlink" href="#security-and-risk-management" title="Link to this heading">#</a></h2>
+<p>Open source introduces unique security considerations, especially when research software depends on third-party libraries. VERSO implemented <strong>dependency scanning tools</strong> to identify vulnerabilities and provided guidance on patching and version management. We also established a <strong>responsible disclosure process</strong> for security issues, ensuring that vulnerabilities could be reported and addressed without compromising sensitive data.</p>
+<p>Data privacy was another critical concern. Many projects involved human subjects or sensitive datasets, requiring compliance with IRB protocols and data protection regulations. VERSO worked with compliance offices to develop policies that balanced openness with ethical and legal obligations.</p>
+<hr class="docutils" />
+<section id="why-this-matters">
+<h3>Why This Matters<a class="headerlink" href="#why-this-matters" title="Link to this heading">#</a></h3>
+<p>Tools and policies may seem like the unglamorous side of open source, but they are what make openness sustainable. By providing infrastructure, clear guidelines, and risk management strategies, VERSO turned open source from an informal, ad hoc activity into a structured, reliable practice that researchers could trust.</p>
+</section>
 </section>
 </section>
 
@@ -452,7 +446,7 @@ We developed:</p>
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Scaling Across Programs</p>
+        <p class="prev-next-title">Scaling and Other Challenges</p>
       </div>
     </a>
     <a class="right-next"
@@ -481,9 +475,12 @@ We developed:</p>
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-technical-foundation"><strong>6.1 Building the Technical Foundation</strong></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#licensing-and-compliance"><strong>6.2 Licensing and Compliance</strong></a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#security-and-risk-management"><strong>6.3 Security and Risk Management</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-technical-foundation">Building the Technical Foundation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#licensing-and-compliance">Licensing and Compliance</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#security-and-risk-management">Security and Risk Management</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-this-matters">Why This Matters</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
