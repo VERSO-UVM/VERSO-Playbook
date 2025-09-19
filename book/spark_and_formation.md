@@ -1,4 +1,4 @@
-# The Spark – From Idea to Initiative
+# Spark and Formation
 
 Every transformative program begins with a question. For VERSO, that question was simple yet profound:  
 *“Why isn’t there a systematic way to support open source in research at UVM?”*  
