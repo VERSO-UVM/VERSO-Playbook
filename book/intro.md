@@ -2,10 +2,10 @@
 
 Open source has transformed the way knowledge is created, shared, and sustained. Yet, in academic research, the adoption of open source principles often faces structural and cultural barriers. The Vermont Research Open Source Program Office (VERSO) was born out of a simple question: How can a university systematically support open source as a pillar of research and innovation? This playbook tells the story of VERSO’s creation at the University of Vermont—its vision, its struggles, its successes, and its pivots. It is both a roadmap and a candid reflection for anyone seeking to build an Open Source Program Office in an academic setting.
 
-```{tableofcontents}
-```
 ## About the University of Vermont
 
 The University of Vermont (UVM), founded in 1791, is one of the oldest universities in the United States and the fifth-oldest in New England. Located in Burlington, Vermont, UVM sits on a 460-acre campus overlooking Lake Champlain, with the Green Mountains to the east and the Adirondacks to the west. The university enrolls nearly 14,000 students across more than 100 undergraduate majors and 100+ graduate programs, organized into nine schools and colleges. UVM is nationally recognized for its commitment to sustainability, research excellence, and community engagement, earning a Top-100 Research University ranking and a spot among the Top 50 Green Colleges. The surrounding area offers a unique blend of a vibrant small city and abundant outdoor recreation, making Burlington a hub for culture, innovation, and environmental stewardship.
 
 In February 2025, the University of Vermont earned the prestigious R1 designation from the Carnegie Classification of Institutions of Higher Education, placing it among the top-tier research universities in the United States. This classification, established in 1973, recognizes institutions with “very high research activity,” defined by metrics such as annual research expenditures exceeding $50 million and the production of at least 70 research doctorates per year. UVM far surpassed these thresholds, reporting $266 million in research funding and awarding 78 doctoral degrees in fiscal year 2024. Achieving R1 status reflects decades of investment in research infrastructure, faculty excellence, and interdisciplinary collaboration. 
+
+## About VERSO
