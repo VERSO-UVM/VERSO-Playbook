@@ -19,10 +19,6 @@ The open-source movement in research is not just about technology; it represents
 
 ---
 
-Here’s an expanded version of **2.2 The University of Vermont Research Ecosystem**:
-
----
-
 ##  The University of Vermont Research Ecosystem
 
 The University of Vermont (UVM) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
