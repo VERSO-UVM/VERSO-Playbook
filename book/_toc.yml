@@ -4,8 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: why_verso
 - file: context_and_landscape
+- file: why_verso
 - file: spark_and_formation
 - file: structuring_the_office
 - file: defining_scope_and_service
