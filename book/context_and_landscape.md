@@ -25,16 +25,6 @@ The open-source movement in research is not just about technology; it represents
 
 The [University of Vermont (UVM)](https://www.uvm.edu/) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
 
-### Research Strengths
-UVM’s research portfolio is diverse and interdisciplinary, with notable strengths in:
-- **Life Sciences**: Genomics, microbiology, health sciences, and biomedical engineering.
-- **Data Science and AI**: Machine learning, computational modeling, and big data analytics.
-- **Environmental and Climate Research**: Sustainability, renewable energy, and climate adaptation.
-- **Agriculture and Food Systems**: Precision agriculture, soil health, and food security.
-- **Social and Behavioral Sciences**: Public health, education, and rural community development.
-
-This breadth of expertise positions UVM as a leader in addressing complex, real-world challenges that require cross-disciplinary collaboration in the state of Vermont.
-
 ### Institutional Context
 As a **land-grant university**, UVM has a statutory obligation to ensure that its research and educational outputs benefit the people of Vermont. This includes a strong emphasis on community engagement, applied research, and knowledge dissemination. [UVM Extension](https://www.uvm.edu/extension) and the [Office of Engagement](https://www.uvm.edu/engagement) maintain deep partnerships with local communities, businesses, and nonprofits, creating a natural bridge between academic research and societal needs.
 
