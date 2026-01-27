@@ -13,7 +13,7 @@ The benefits of open source can include:
 - **Equity and Access**: Open source reduces barriers for under-resourced institutions and researchers, democratizing participation in cutting-edge science.
 - **Innovation**: By lowering entry costs and encouraging community contributions, open source accelerates the pace of technological advancement.
 
-Despite these advantages, adoption in academia remains uneven. Many researchers release code informally—often as supplementary material or in personal repositories—without clear licensing, governance, or documentation. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
+Despite these advantages adoption in academia remains uneven. Many researchers release code informally as supplementary material or in personal repositories without clear licensing, governance, or documentation {cite}`alzahrani_encoding_2024` as further efforts cost too much {cite}`cadwallader_survey_2022`. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
 
 The reasons for this behavior is broad and often a set of complex interactions. Incentives for going above just publishing code to making it functional for others is often lacking, either in prestige, recognition for metrics to get tenure to purely the lack of financial incentive to keep a project active after grant funding has expired. In addition the skills necessary to run an open source project are not taught, or even fully understood. The emergence of the National Science Foundation programs like [Pathways to enable Open Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) start to recognize and support the work required for successful open source research software.
 
@@ -24,16 +24,6 @@ The open-source movement in research is not just about technology; it represents
 ##  The University of Vermont Research Ecosystem
 
 The [University of Vermont (UVM)](https://www.uvm.edu/) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
-
-### Research Strengths
-UVM’s research portfolio is diverse and interdisciplinary, with notable strengths in:
-- **Life Sciences**: Genomics, microbiology, health sciences, and biomedical engineering.
-- **Data Science and AI**: Machine learning, computational modeling, and big data analytics.
-- **Environmental and Climate Research**: Sustainability, renewable energy, and climate adaptation.
-- **Agriculture and Food Systems**: Precision agriculture, soil health, and food security.
-- **Social and Behavioral Sciences**: Public health, education, and rural community development.
-
-This breadth of expertise positions UVM as a leader in addressing complex, real-world challenges that require cross-disciplinary collaboration in the state of Vermont.
 
 ### Institutional Context
 As a **land-grant university**, UVM has a statutory obligation to ensure that its research and educational outputs benefit the people of Vermont. This includes a strong emphasis on community engagement, applied research, and knowledge dissemination. [UVM Extension](https://www.uvm.edu/extension) and the [Office of Engagement](https://www.uvm.edu/engagement) maintain deep partnerships with local communities, businesses, and nonprofits, creating a natural bridge between academic research and societal needs.
