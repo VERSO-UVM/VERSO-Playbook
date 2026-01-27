@@ -1,48 +1,37 @@
 # Context and Landscape
 
-Understanding the environment in which VERSO was created is essential to appreciating its purpose and impact. This chapter explores the broader open-source movement in research, the unique characteristics of the University of Vermont, and the institutional and cultural factors that shaped VERSO’s design. By examining the opportunities and challenges within academia—and at UVM specifically—we set the stage for why an Open Source Program Office was both necessary and transformative.
+Understanding the environment in which VERSO was created is essential to appreciating its purpose and impact. This chapter explores the broader open-source movement in research, the unique characteristics of the University of Vermont, and the institutional and cultural factors that shaped VERSO’s design.
 
 ## The Open Source Movement in Research
 
-Open source has become a cornerstone of modern science and technology. From machine learning frameworks like **TensorFlow** to bioinformatics platforms such as **Bioconductor**, open-source tools accelerate discovery by making knowledge transparent, reproducible, and widely accessible. These tools enable researchers to build on each other’s work, reduce duplication of effort, and foster innovation at a global scale.
+Open source has become a cornerstone of modern science and technology. From machine learning frameworks like [**TensorFlow**](https://www.tensorflow.org/) to bioinformatics platforms such as [**Bioconductor**](https://www.bioconductor.org/), open-source tools accelerate discovery by making knowledge transparent, reproducible, and widely accessible. These tools enable researchers to build on each other’s work, reduce duplication of effort, and foster innovation at a global scale.
 
-The benefits of open source in research are profound:
+The benefits of open source can include:
 
 - **Reproducibility**: Open code and data allow others to validate findings and build upon them, addressing the reproducibility crisis in science.
-- **Collaboration**: Shared tools break down disciplinary silos, enabling cross-institutional and international partnerships.
-- **Equity and Access**: Open source reduces barriers for under-resourced institutions and researchers in the Global South, democratizing participation in cutting-edge science.
+- **Collaboration**: Shared tools and standards break down disciplinary silos, enabling cross-institutional and international partnerships.
+- **Equity and Access**: Open source reduces barriers for under-resourced institutions and researchers, democratizing participation in cutting-edge science.
 - **Innovation**: By lowering entry costs and encouraging community contributions, open source accelerates the pace of technological advancement.
 
-Despite these advantages, adoption in academia remains uneven. Many researchers release code informally—often as supplementary material or in personal repositories—without clear licensing, governance, or documentation. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
+Despite these advantages adoption in academia remains uneven. Many researchers release code informally as supplementary material or in personal repositories without clear licensing, governance, or documentation {cite}`alzahrani_encoding_2024` as further efforts cost too much {cite}`cadwallader_survey_2022`. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
 
-The open-source movement in research is not just about technology; it represents a cultural shift toward transparency, collaboration, and shared stewardship of knowledge. Universities have a unique opportunity—and responsibility—to lead this transformation by embedding open-source practices into the research lifecycle. This is the context in which VERSO was conceived: to provide the infrastructure, policies, and community support needed to make open source a strategic asset for academic research.
+The reasons for this behavior is broad and often a set of complex interactions. Incentives for going above just publishing code to making it functional for others is often lacking, either in prestige, recognition for metrics to get tenure to purely the lack of financial incentive to keep a project active after grant funding has expired. In addition the skills necessary to run an open source project are not taught, or even fully understood. The emergence of the National Science Foundation programs like [Pathways to enable Open Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) start to recognize and support the work required for successful open source research software.
+
+The open-source movement in research is not just about technology; it represents a cultural shift toward transparency, collaboration, and shared stewardship of knowledge. Universities have a unique opportunity to lead this transformation by embedding open-source practices into the research lifecycle. This is the context in which VERSO was created: to provide the infrastructure, policies, and community support needed to make open source a strategic asset for academic research.
 
 ---
 
 ##  The University of Vermont Research Ecosystem
 
-The University of Vermont (UVM) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
-
-### Research Strengths
-UVM’s research portfolio is diverse and interdisciplinary, with notable strengths in:
-- **Life Sciences**: Genomics, microbiology, health sciences, and biomedical engineering.
-- **Data Science and AI**: Machine learning, computational modeling, and big data analytics.
-- **Environmental and Climate Research**: Sustainability, renewable energy, and climate adaptation.
-- **Agriculture and Food Systems**: Precision agriculture, soil health, and food security.
-- **Social and Behavioral Sciences**: Public health, education, and rural community development.
-
-This breadth of expertise positions UVM as a leader in addressing complex, real-world challenges that require cross-disciplinary collaboration.
+The [University of Vermont (UVM)](https://www.uvm.edu/) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
 
 ### Institutional Context
-As a **land-grant university**, UVM has a statutory obligation to ensure that its research and educational outputs benefit the people of Vermont. This includes a strong emphasis on **community engagement**, **applied research**, and **knowledge dissemination**. UVM Extension and the Office of Engagement maintain deep partnerships with local communities, businesses, and nonprofits, creating a natural bridge between academic research and societal needs.
+As a **land-grant university**, UVM has a statutory obligation to ensure that its research and educational outputs benefit the people of Vermont. This includes a strong emphasis on community engagement, applied research, and knowledge dissemination. [UVM Extension](https://www.uvm.edu/extension) and the [Office of Engagement](https://www.uvm.edu/engagement) maintain deep partnerships with local communities, businesses, and nonprofits, creating a natural bridge between academic research and societal needs.
 
 ### The Gap in Open Source Support
-Despite this vibrant research ecosystem, UVM lacked **formal systems to support open-source software development**. Individual labs often released code informally, without standardized licensing, governance, or sustainability planning. This led to:
-- **Redundancy**: Multiple groups solving similar problems in isolation.
-- **Compliance Risks**: Unclear intellectual property and licensing practices.
-- **Short Project Lifespans**: Software often abandoned after a grant cycle or student graduation.
+Despite this vibrant research ecosystem, UVM had a minimal formal systems to support open-source software development. While the institution had a Gitlab, individual labs often released code informally on alternative platforms, without standardized licensing, governance, or sustainability planning. There was no institutional open data repository either, meaning there was no clear pathway for data access or sustainability. There was no community activities that recognized open source work where norms, collaboration and recognition could be shared.
 
-These gaps highlighted the need for an institutional framework—one that could **enable open-source practices, foster collaboration, and ensure long-term impact**. VERSO was designed to fill this void and position UVM as a national leader in academic open source.
+These gaps highlighted the need for an institutional framework—one that could enable open-source practices, foster collaboration, and ensure long-term impact. VERSO was designed to fill this void and position UVM as a national leader in academic open source.
 
 ---
 
