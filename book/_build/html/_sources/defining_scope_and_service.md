@@ -3,7 +3,12 @@
 
 ## What VERSO Does
 
-From the very beginning, we understood that clarity of scope would be essential to VERSO’s success. Our mission was never to manage every open-source project at UVM, but rather to empower researchers to succeed with open source by providing the guidance, resources, and community they need to thrive.
+From the very beginning, we understood that clarity of scope would be essential to VERSO’s success.  It has also proven quite elusive as our understanding of the open source community at UVM, the incentives and roadblocks and the opportunities keep on growing and shifting.
+
+Our original intent in 2022 had a focus on research on open source through the OCEAN followed by John Meluso, who joined on June 1, 2022, as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
+
+
+ Our mission was never to manage every open-source project at UVM, but rather to empower researchers to succeed with open source by providing the guidance, resources, and community they need to thrive.
 
 One of our first priorities was licensing guidance. For many researchers, choosing an open-source license can feel like navigating a legal maze. VERSO stepped in to demystify this process, helping faculty and students understand the implications of different licenses and select the one that best aligns with their goals. This not only reduced compliance risks but also gave researchers confidence that their work could be shared and reused responsibly.
 
