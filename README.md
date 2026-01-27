@@ -20,3 +20,6 @@ The Playbook is designed as a transparent, continually evolving collection of gu
 - Sharing VERSO’s methods, workflows, and design‑driven approach to community building
 
 For additional context on why the Playbook exists and how VERSO approaches open‑work strategy, see the related VERSO Playbook overview on the VERSO website. [2](https://verso.w3.uvm.edu/verso-playbook/)
+
+To build the book after edits
+jupyter-book toc from-project .
