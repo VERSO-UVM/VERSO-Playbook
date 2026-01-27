@@ -23,11 +23,20 @@ Students are the engine of VERSO and ORCA. Their participation and professional 
 
 **Core metrics include:**
 
-- **Total ORCA student participants per year**
-- **Cumulative hours students contribute to real open work**
-- **Retention and progression**, such as students returning for multiple semesters or advancing to lead roles
-- **Career outcomes**, including internships, research positions, or employment related to open‑source skills
-- **Skill benchmarks**, such as the first merged PR, first release, or first public presentation
+- **Total ORCA student participants per year** - Unique count of students in the program each year, includes all semesters
+    -   2023 - 5
+    -   2024 - 25
+    -   2025 - 30
+- **Hours students contribute to real open work in ORCA** - Total hours worked for paid projects (this does not include volunteer work)
+    -   2023 - 338 hours
+    -   2024 - 4414 hours
+    -   2025 - 3166 hours
+- **Retention** - Students returning for multiple semesters by year, this includes if a student continued from a previous year or went into the next year
+    -   2023 - 60% (3/5 students)
+    -   2024 - 72% (18/25 students)
+    -   2025 - 73% (22/30 students)
+- **Career outcomes** - Including internships, research positions, or employment related to open‑source skills
+    - This is a qualitative metric as student's post-graduation are not required to send back any information to ORCA, but in once case a student actually works in UVM in IT, another from the zoning atlas team joined a Town Planning Office, another went to be a Public Works Intern, another to be a Field Geologist. 
 
 These metrics illuminate how VERSO prepares students for open‑source practice and supports a workforce trained in real production‑quality tools and methods.
 
@@ -37,10 +46,18 @@ These metrics illuminate how VERSO prepares students for open‑source practice 
 
 As VERSO’s work expanded, the number and diversity of open‑source projects became a tangible measure of impact. We began tracking:
 
-- **Total active VERSO and ORCA projects**, updated each semester
-- **Project categories**, including research software, community tools, mapping systems, analytics platforms, and documentation projects
-- **Project maturity metrics**, such as completed milestones, release cycles, or adoption by users beyond UVM
-- **Technical contributions**, including issues resolved, documentation improved, pull requests merged, and new features created
+- **Total active VERSO and ORCA projects** - All repositories (public and private) by year, and approximate projects that had some form of contribution that year. This includes ORCA and Non-ORCA supported projects
+    -   2022 - 1 total repos (private and public) ~1 being actively worked on during that year
+    -   2023 - 4 total repos (private and public) ~4 being actively worked on during that year
+    -   2024 - 23 total repos (private and public) ~17 being actively worked on during that year
+    -   2025 - 42 total repos (private and public) ~14 being actively worked on during that year
+- **Project categories** - Approximate count of projects by category as of 2026.
+    -   Community Tool - 10 Projects
+    -   Research Tool - 4 Projects
+    -   Data Collection or Visualization - 10 projects
+    -   Documentation - 7 projects
+    -   Class Exercise - 3 projects
+- **Project maturity metrics** - Metrics of completed milestones, release cycles, or adoption by users beyond UVM would be ideal to collect, but developing the api call to receive these stats has not happened yet
 
 These indicators help quantify VERSO’s ability to produce high‑quality, open, and reusable software aligned with academic research needs.
 
@@ -52,10 +69,14 @@ A healthy open ecosystem can only thrive through collaboration. Over time, VERSO
 
 **Metrics include:**
 
-- **Number of UVM research collaborators**, such as labs, institutes, and centers
-- **External partners**, including nonprofits, state agencies, local governments, and other universities
-- **Repeat or long‑term partners**, measuring trust, satisfaction, and ongoing engagement
-- **Collaborative outputs**, such as co‑developed tools, datasets, or publications
+- **Number of UVM research collaborators** - Count of institutes, labs, or a researcher if there is just one by year. This is approximate, this is not stored in an easy to find system. This can also range from consulting conversations to submitting grants to running an ORCA team on a project.
+    -   2023 - 25 (1 ORCA Research Project)
+    -   2024 - 45 (2 research ORCA project)
+    -   2025 - 60 (4 research ORCA projects)
+- **External partners** - Collaboration with nonprofits, state agencies, local governments, and other universities either from project exploration to building software. This is approximate, this is not stored in an easy to find system, especially year to year as once a partnership is created it may be in a semi-active state.
+    -   2023 - Unknown
+    -   2024 - 14 (3 Community ORCA project)
+    -   2025 - 25 (4 Community ORCA project)
 
 These metrics reflect how well VERSO strengthens UVM’s connections to regional, national, and international open‑source communities.
 
@@ -63,14 +84,18 @@ These metrics reflect how well VERSO strengthens UVM’s connections to regional
 
 ## 4. Open Data Adoption & Dataverse Utilization
 
-With the launch of the UVM Dataverse, VERSO gained new visibility into open‑data practices across campus.
+With the launch of the UVM Dataverse, VERSO gained new visibility into open‑data practices across campus. The UVM Dataverse was only launched in 2025, metrics only will go back to that year
 
 **Key metrics include:**
 
-- **Datasets published** by faculty, students, and research units  
-- **Download and access counts**, which signal community interest and impact  
-- **Dataset diversity**, identifying which disciplines are engaging in open‑data publishing  
-- **Citation and reuse metrics**, where available, showing downstream influence  
+- **Datasets published** - Count of datasets and dataverses published by faculty, students, and research units  
+    -   2025 - 4 Dataverses and 57 datasets
+- **Download and access counts** - Count of Downloads, this is a rough estimate based on estimates given a sample size until API reporting is implemented
+    -   2025 - ~195 downloads
+- **Number of Users** - Count of users and superusers
+    -   2025 - 16 users
+- **Citation and reuse metrics** - Count of citations where available, showing downstream influence 
+    -   2025 - Unknown
 
 These measures help track the spread of open‑data culture and provide evidence of real‑world impact.
 
@@ -80,10 +105,25 @@ These measures help track the spread of open‑data culture and provide evidence
 
 Building an open culture is long‑term work, and many of its indicators do not appear immediately. As awareness grew, however, VERSO began monitoring:
 
-- **New GitHub/GitLab organizations** created by labs or research groups  
-- **Growth of openly licensed repositories**  
-- **Requests for consultations**, training sessions, curriculum support, or infrastructure guidance  
-- **Faculty and staff participation** in open‑work initiatives, workshops, and project collaborations  
+- **New GitHub/GitLab organizations** - Count of created Gitlab or Github organizations by labs or research groups where VERSO was involved in the setup or maintenance. Each organization is only counted once
+    -   2022 - 1
+    -   2023 - 1
+    -   2024 - 3
+    -   2025 - 4
+- **Growth of openly licensed repositories** -  Count of Gitlab or Github openly licensed repositories.This is more a minimum as it is impossible to see all repos and while we have unknown here, we do no
+    -   2022 - unknown
+    -   2023 - unknown
+    -   2024 - unknown
+    -   2025 - unknown
+- **Requests for consultations** - Count of class guest lectures by VERSO
+    -   2022-2023 Academic Year - 8
+    -   2023-2024 Academic Year - 6
+    -   2024-2025 Academic Year - 7
+- **Faculty and staff participation** - Cumulative count of participants from UVM in open‑work initiatives, workshops, and conferences
+    -   2022 - ~10
+    -   2023 - ~30
+    -   2024 - ~20
+    -   2025 - ~30
 
 These indicators provide insight into how open‑source thinking is taking root across the university.
 
@@ -95,11 +135,16 @@ As VERSO expanded its educational programs, event‑based metrics became valuabl
 
 **Metrics include:**
 
-- **Workshops, lectures, and events hosted**  
-- **Attendance levels and return rates**  
-- **Number and diversity of presenters**  
-- **Sponsorships and external support**, demonstrating validation and institutional buy‑in  
-- **Feedback and qualitative evaluations**, reflecting participant experience  
+- **Workshops, Presenations, and Conferences** - Count of all presentations both internal and external to UVM from small events to big events 
+    -   2022 - 2
+    -   2023 - 7
+    -   2024 - 20
+    -   2025 - 11
+- **Attendance levels** - Cumulative number of total attendees to VERSO organized events
+    -   2022 - ~20
+    -   2023 - ~150
+    -   2024 - ~120
+    -   2025 - ~240   
 
 These metrics highlight VERSO’s role in cultivating a vibrant, informed, and engaged open‑source community.
 
