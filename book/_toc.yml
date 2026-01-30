@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: verso_timeline
 - file: context_and_landscape
 - file: why_verso
 - file: spark_and_formation

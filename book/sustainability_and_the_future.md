@@ -20,19 +20,6 @@ Our goal was to diversify funding streams so that VERSO would not depend on a si
 
 ---
 
-## Evolving Role of OSPOs in Academia
-
-As open science policies gain momentum, the role of OSPOs in universities is expanding. Initially, VERSO focused on software, but the boundaries between code, data, and publications are increasingly blurred. Future OSPOs will likely:
-
-- Support **FAIR data principles** (Findable, Accessible, Interoperable, Reusable).
-- Integrate with **reproducibility initiatives** and research integrity programs.
-- Serve as **bridges between academia and industry**, facilitating technology transfer through open collaboration.
-- Advocate for **policy changes** that recognize software and data as scholarly outputs in tenure and promotion.
-
-In short, OSPOs are becoming central to the infrastructure of open science, and VERSO is positioning itself to lead in this space.
-
----
-
 ## The Road Ahead
 
 Looking forward, our priorities include:
