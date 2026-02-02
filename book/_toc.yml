@@ -4,14 +4,14 @@
 format: jb-book
 root: intro
 chapters:
-- file: verso_timeline
+- file: timeline
 - file: context_and_landscape
 - file: why_verso
 - file: spark_and_formation
-- file: structuring_the_office
 - file: defining_scope_and_service
 - file: scaling_and_other_challenges
 - file: tools_infrastructure_and_policies
 - file: measuring_impact
+- file: student_engagement_through_ORCA
 - file: failures_and_lessons_learned
 - file: sustainability_and_the_future
