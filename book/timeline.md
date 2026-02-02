@@ -6,299 +6,367 @@ The Vermont Research Open Source Program Office (VERSO) emerged from a vision to
 
 ## 2021–2022: Vision and Foundation
 
-### Early 2021: Initial Conversations
-- Faculty, IT staff, and administrators at UVM recognize the lack of institutional support for open-source practices in research.
-- Informal discussions coalesce around a shared vision: creating a dedicated office to support open source across the university.
+### Spring 2021
+- **Early 2021: Initial Conversations**
+  - Faculty, IT staff, and administrators at UVM recognize the lack of institutional support for open-source practices in research.
+  - Informal discussions coalesce around a shared vision: creating a dedicated office to support open source across the university.
 
-### 2022: The Sloan Foundation Grant
-- VERSO receives a $635,000 grant from the Alfred P. Sloan Foundation over two years to establish an academic Open Source Program Office.
-- This positions VERSO as one of the first academic OSPOs in the United States.
+### Spring 2022
+- **2022: The Sloan Foundation Grant**
+  - VERSO receives a $635,000 grant from the Alfred P. Sloan Foundation over two years to establish an academic Open Source Program Office.
+  - This positions VERSO as one of the first academic OSPOs in the United States.
 
-### April 24, 2022: Kendall Fortney Appointed Program Director
-- Kendall Fortney assumes the role of VERSO Program Director, providing strategic leadership and coordination.
+- **April 24, 2022: Kendall Fortney Appointed Program Director**
+  - Kendall Fortney assumes the role of VERSO Program Director, providing strategic leadership and coordination.
 
-### June 1, 2022: John Meluso Joins as Postdoctoral Fellow
-- John Meluso is hired as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
+### Summer 2022
+- **June 1, 2022: John Meluso Joins as Postdoctoral Fellow**
+  - John Meluso is hired as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
 
-### Mid-2022: Infrastructure Development Begins
-- VERSO secures office space in Howe Library's Center for Teaching and Learning (basement office).
-- Collaborations with UVM TechTransfer establish processes for open-source licensing.
-- A GitLab repository is set up through UVM IT to support project development.
-- RFP process for open-source projects is launched.
-- VERSO website is created to serve as a hub for resources and engagement.
+- **Mid-2022: Infrastructure Development Begins**
+  - VERSO secures office space in Howe Library's Center for Teaching and Learning (basement office).
+  - Collaborations with UVM TechTransfer establish processes for open-source licensing.
+  - A GitLab repository is set up through UVM IT to support project development.
+  - RFP process for open-source projects is launched.
+  - VERSO website is created to serve as a hub for resources and engagement.
 
-### Summer 2022: First Six Months' Achievements
-- **Six pilot projects launched:**
-  1. Allotaxonometer Project – Translating proprietary tool to open-source
-  2. Boston Library Consortium Digital Lending Project
-  3. GIS Open Data Portal
-  4. Share Grant Resource Library
-  5. UVM Computes Project (Sloan-funded browser-based supercomputer)
-  6. UVM Press
+- **Summer 2022: First Six Months' Achievements**
+  - **Six pilot projects launched:**
+    1. Allotaxonometer Project – Translating proprietary tool to open-source
+    2. Boston Library Consortium Digital Lending Project
+    3. GIS Open Data Portal
+    4. Share Grant Resource Library
+    5. UVM Computes Project (Sloan-funded browser-based supercomputer)
+    6. UVM Press
+  - **Community Engagement:** Over 1,500 contributors involved; 9% increase in GitLab users since January 2022.
+  - **Key Outputs:** Open-source licensing guidelines, contribution templates, governance frameworks, and compliance checklists published.
+  - **Academic Publications Begin:** First research papers in development.
 
-- **Community Engagement:** Over 1,500 contributors involved; 9% increase in GitLab users since January 2022.
-- **Key Outputs:** Open-source licensing guidelines, contribution templates, governance frameworks, and compliance checklists published.
-- **Academic Publications Begin:** First research papers in development.
+- **August 22, 2022: EPSCoR Track 1 Proposal Submitted**
+  - VERSO submits proposal for continued funding, seeking to support 50% of the OSPO Director's salary and expand infrastructure across Vermont institutions.
 
-### August 22, 2022: EPSCoR Track 1 Proposal Submitted
-- VERSO submits proposal for continued funding, seeking to support 50% of the OSPO Director's salary and expand infrastructure across Vermont institutions.
+### Fall 2022
+- **September 2022: Conference Speaking Begins**
+  - **RIT Open Symposium 2022** (September 7-9, 2022) – Kendall Fortney participates in panel "OSPOs in Academia: What do they do? What could they do?" ([video](https://www.youtube.com/watch?v=OkpWxa2PPK8))
+  - **UC Santa Cruz Open Source Symposium 2022** (September 27-29, 2022) – Kendall Fortney participates in panel "OSPOs in Academia"
 
-### Fall 2022: Educational Pipeline Development
-- Weekly office hours established for student training in Git and open-source practices.
-- Planning begins for upper-level course on open-source principles (scheduled for January 2024).
+- **October 2022: Community Engagement Events**
+  - **Burlington Data Scientist Meetup: How to Create, Find and Work with Open Data** (October 27, 2022) – Kendall Fortney and Jean-Gabriel Young (Assistant Professor in Statistics) speak at Hula in Burlington
 
-### August 2022–2023: Active Project Portfolio
-- **Active Projects:** ~1 major project in active development (Allotaxonometer).
-- **Total Repositories:** 1 (private/public) primary focus.
+- **Fall 2022: Guest Lectures Begin**
+  - UVM – CDAE 060 Design Innovation I (Sarah Williamson) – October 3, 2022
+  - UVM – CS 120 QR: Advanced Programming (Lisa Dion) – October 25, 2022
+  - UVM – CDAE 395: Ecological Economics Applications (Joshua Farley) – October 25, 2022
 
-### September 2022: Conference Speaking Begins
-- **RIT Open Symposium 2022** (September 7-9, 2022) – Kendall Fortney participates in panel "OSPOs in Academia: What do they do? What could they do?" ([video](https://www.youtube.com/watch?v=OkpWxa2PPK8))
-- **UC Santa Cruz Open Source Symposium 2022** (September 27-29, 2022) – Kendall Fortney participates in panel "OSPOs in Academia"
+- **Fall 2022: Educational Pipeline Development**
+  - Weekly office hours established for student training in Git and open-source practices.
+  - Planning begins for upper-level course on open-source principles (scheduled for January 2024).
 
-### October 2022: Community Engagement Events
-- **Burlington Data Scientist Meetup: How to Create, Find and Work with Open Data** (October 27, 2022) – Kendall Fortney and Jean-Gabriel Young (Assistant Professor in Statistics) speak at Hula in Burlington
-  
-### Fall 2022: Guest Lectures Begin
-- UVM – CDAE 060 Design Innovation I (Sarah Williamson) – October 3, 2022
-- UVM – CS 120 QR: Advanced Programming (Lisa Dion) – October 25, 2022
-- UVM – CDAE 395: Ecological Economics Applications (Joshua Farley) – October 25, 2022
+- **August 2022–2023: Active Project Portfolio**
+  - **Active Projects:** ~1 major project in active development (Allotaxonometer).
+  - **Total Repositories:** 1 (private/public) primary focus.
 
 ---
 
 ## 2023: Growth and Institutionalization
 
-### Early 2023: Community Manager Role Restructured
-- Community manager position is revised to include research component.
-- A postdoctoral researcher is hired to focus on open-source ecosystems and inclusion.
+### Winter 2022–2023 & Spring 2023
+- **Early 2023: Community Manager Role Restructured**
+  - Community manager position is revised to include research component.
+  - A postdoctoral researcher is hired to focus on open-source ecosystems and inclusion.
 
-### 2023: Research Output Expansion
-- **Publication:** *The Penumbra of Open-Source* published in EPJ Data Science, exploring longevity and collaboration in decentralized open-source projects.
-- **Dataset Released:** *The OCEAN Mailing List Dataset* published on arXiv, presenting network analysis across mailing lists and code repositories.
+- **Research Output Expansion**
+  - **Publication:** *The Penumbra of Open-Source* published in EPJ Data Science, exploring longevity and collaboration in decentralized open-source projects.
+  - **Dataset Released:** *The OCEAN Mailing List Dataset* published on arXiv, presenting network analysis across mailing lists and code repositories.
 
-### 2023: Student Engagement Metrics
-- **Total ORCA Student Participants:** 5
-- **Student Hours on Real Open-Source Work:** 338 hours
-- **Student Retention:** 60% (3/5 students return)
-- **Research Collaborators:** ~25 (1 ORCA Research Project)
+- **January 31, 2023: Vermont Council on World Affairs**
+  - International Visitors Kyrgyzstan Innovation and Entrepreneurship – Kendall Fortney presents
 
-### 2023: Project Portfolio Growth
-- **Total Repositories:** 4 (private/public)
-- **Active Projects:** ~4 during the year
-- **Project Categories:** Community tools, research tools, data visualization, documentation
+- **January 30, 2023: Champlain College Guest Lecture**
+  - Strategic Community Management (Becky Holt)
 
-### 2023: External Partnerships
-- Early partnerships with community organizations begin to emerge.
-- Engagement with Vermont agencies and nonprofits identified as priority.
+- **February 22, 2023: UVM Guest Lecture**
+  - CDAE 195 Narrative Data Design (Sarah Williamson)
 
-### 2023: Conference and Speaking Activities
-- **Vermont Council on World Affairs** (ongoing) – Kendall Fortney presents to international visitor groups:
-  - International Visitors Kyrgyzstan Innovation and Entrepreneurship (January 31, 2023)
-  - International Visitors International Cybersecurity from Industry, Government and NGOs (April 5, 2023)
-  - International Fellow (May 15, 2023)
+- **March 20-21, 2023: UVM Guest Lecture**
+  - CS 120 QR: Advanced Programming (Lisa Dion)
 
-- **Champlain College Guest Lecture** (January 30, 2023) – Strategic Community Management (Becky Holt)
+- **April 5, 2023: Vermont Council on World Affairs**
+  - International Visitors International Cybersecurity from Industry, Government and NGOs – Kendall Fortney presents
 
-- **UVM Guest Lectures:**
-  - CDAE 195 Narrative Data Design (Sarah Williamson) – February 22, 2023
-  - CS 120 QR: Advanced Programming (Lisa Dion) – March 20-21, 2023
-  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney) – April 20, 2023
+- **April 3-4, 2023: CNI Annual Meeting Spring 2023** (Denver, CO)
+  - Kendall Fortney participates in panel "Early Lessons from Open Source Program Offices" ([video](https://youtu.be/1V_Ugdb6Nhk), [page](https://www.cni.org/topics/digital-curation/early-lessons-learned-from-university-open-source-programs-offices))
 
-- **CNI Annual Meeting Spring 2023** (April 3-4, 2023, Denver, CO) – Kendall Fortney participates in panel "Early Lessons from Open Source Program Offices" ([video](https://youtu.be/1V_Ugdb6Nhk), [page](https://www.cni.org/topics/digital-curation/early-lessons-learned-from-university-open-source-programs-offices))
+- **April 20, 2023: UVM Guest Lecture**
+  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney)
 
-- **Open Source Festival 2023 + Sustain** (June 15-17, 2023, Lagos, Nigeria) – John Meluso provides keynote address "Building Thriving Communities: Learning Through Research With African Open Source Communities" with Tamutswa Mahari. VERSO is a sponsor of the event.
+- **May 15, 2023: Vermont Council on World Affairs**
+  - International Fellow – Kendall Fortney presents
 
-- **United Nations OSPOS for Good** (June 21, 2023, New York City) – Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
+### Summer 2023
+- **June 15-17, 2023: Open Source Festival 2023 + Sustain** (Lagos, Nigeria)
+  - John Meluso provides keynote address "Building Thriving Communities: Learning Through Research With African Open Source Communities" with Tamutswa Mahari
+  - VERSO is a sponsor of the event
 
-- **Code for BTV: Vermont Flooding: Open Street Mapping** (July 11, 2023, Virtual) – Joint virtual event between VERSO, Code for BTV, and Burlington Data Scientist Meetup
+- **June 21, 2023: United Nations OSPOS for Good** (New York City)
+  - Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
 
-- **UX Speakeasy: Design Sprint** (August 15, 2023, Bluehouse Group, Burlington) – Collaborative design sprint with Dr. Justin DeAngelis on medical app user experience
+- **July 18-21, 2023: Earth Science Information Partnership (ESIP) Annual Meeting** (Burlington, VT)
+  - Kendall Fortney participates in panel "Expanding use of the open-source geospatial analytics ecosystem: perspectives from developers, universities, and data centers"
 
-- **Open Source Connector - Exploring Open Source Licenses** (September 27, 2023) – David Kopec (Champlain College) discusses open-source license fundamentals ([recording](https://youtu.be/rtS8tUccATI))
+- **July 11, 2023: Code for BTV: Vermont Flooding: Open Street Mapping** (Virtual)
+  - Joint virtual event between VERSO, Code for BTV, and Burlington Data Scientist Meetup
 
-- **Earth Science Information Partnership (ESIP) Annual Meeting** (July 18-21, 2023, Burlington, VT) – Kendall Fortney participates in panel "Expanding use of the open-source geospatial analytics ecosystem: perspectives from developers, universities, and data centers"
+- **August 15, 2023: UX Speakeasy: Design Sprint** (Bluehouse Group, Burlington)
+  - Collaborative design sprint with Dr. Justin DeAngelis on medical app user experience
 
-- **UX/UI Design Jam - City of Burlington Open Data Portal** (October 11, 2023, 6:00 PM - 8:00 PM) – Collaborative design jam with Nancy Stetson and Warren Rich to improve Burlington's Open Data Portal
+### Fall 2023
+- **September 19, 2023: UVM Guest Lecture**
+  - CDAE 1600 Design Innovation (Sarah Williamson)
 
-- **Interdisciplinary Open Practices Workshop (IOP)** (October 27-28, 2023, Old Mill John F. Dewey Lounge, UVM) – Bridges gaps between disciplines on openness practices
+- **September 27, 2023: Open Source Connector - Exploring Open Source Licenses**
+  - David Kopec (Champlain College) discusses open-source license fundamentals ([recording](https://youtu.be/rtS8tUccATI))
 
-- **UVM Guest Lectures:**
-  - CS 2300 Advanced Programming (Lisa Dion) – October 24, 2023
-  - BUS 2990 Creativity and Innovation (Erik Monsen) – October 26, 2023
-  - CDAE 6920 Graduate Seminar (Kate Mays) – October 2, 2023
-  - CDAE 1600 Design Innovation (Sarah Williamson) – September 19, 2023
+- **October 2, 2023: UVM Guest Lecture**
+  - CDAE 6920 Graduate Seminar (Kate Mays)
+
+- **October 11, 2023: UX/UI Design Jam - City of Burlington Open Data Portal** (6:00 PM - 8:00 PM)
+  - Collaborative design jam with Nancy Stetson and Warren Rich to improve Burlington's Open Data Portal
+
+- **October 24, 2023: UVM Guest Lecture**
+  - CS 2300 Advanced Programming (Lisa Dion)
+
+- **October 26, 2023: UVM Guest Lecture**
+  - BUS 2990 Creativity and Innovation (Erik Monsen)
+
+- **October 27-28, 2023: Interdisciplinary Open Practices Workshop (IOP)** (Old Mill John F. Dewey Lounge, UVM)
+  - Bridges gaps between disciplines on openness practices
+
+### 2023: Year-End Metrics
+- **Student Engagement Metrics**
+  - **Total ORCA Student Participants:** 5
+  - **Student Hours on Real Open-Source Work:** 338 hours
+  - **Student Retention:** 60% (3/5 students return)
+  - **Research Collaborators:** ~25 (1 ORCA Research Project)
+
+- **Project Portfolio Growth**
+  - **Total Repositories:** 4 (private/public)
+  - **Active Projects:** ~4 during the year
+  - **Project Categories:** Community tools, research tools, data visualization, documentation
+
+- **External Partnerships**
+  - Early partnerships with community organizations begin to emerge.
+  - Engagement with Vermont agencies and nonprofits identified as priority.
 
 ---
 
 ## 2024: Expansion and Repositioning
 
-### Early 2024: Course Launch
-- Upper-level course on open-source principles co-taught by Juniper Lovato and Kendall Fortney launches in January.
-- Course materials made available both for credit and as free MOOC on YouTube.
-- Expanded training offerings increase accessibility to open-source knowledge.
+### Winter 2023–2024 & Spring 2024
+- **Early 2024: Course Launch**
+  - Upper-level course on open-source principles co-taught by Juniper Lovato and Kendall Fortney launches in January.
+  - Course materials made available both for credit and as free MOOC on YouTube.
+  - Expanded training offerings increase accessibility to open-source knowledge.
 
-### Mid 2024: Jonathan St-Onge Hired
-- Jonathan St-Onge joins as VERSO Ph.D. Fellow, bringing research expertise to the initiative.
+- **January 9, 2024: UVM Day of Data Techniques and Tools**
+  - Kendall Fortney presents "Empowering Research: Open Data Platforms in Academia"
 
-### 2024: Organizational Restructuring
-- VERSO moves from the UVM Library under the Vermont Complex Systems Center.
-- Becomes more independent as it develops into an institute under the Office of the Vice President of Research.
-- This transition strengthens interdisciplinary work across all colleges.
-- Deepens connections with the Office of Engagement for community-focused research translation.
+- **April 9, 2024: Leadership Champlain – Energy and Environment Day** (Burlington Electric)
+  - Kendall Fortney and Yoshi Bird present on the Vermont Zoning Atlas
 
-### January 2024: Kendall Fortney's Academic Role Expansion
-- Director Fortney receives part-time lecturer position at the College of Engineering and Mathematical Sciences (CEMS).
-- Assumes responsibility for teaching student internship class (ORCA course).
+- **April 11, 2024: UVM Guest Lectures**
+  - CS 2300 Advanced Programming (Lisa Dion)
+  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney)
 
-### 2024: Significant Student Growth
-- **Total ORCA Student Participants:** 25 (5x increase from 2023)
-- **Student Hours on Real Open-Source Work:** 4,414 hours (13x increase from 2023)
-- **Student Retention:** 72% (18/25 students)
-- **Career Outcomes Begin to Show:** Early graduates securing internships and positions related to open-source skills
+- **2024: Organizational Restructuring**
+  - VERSO moves from the UVM Library under the Vermont Complex Systems Center.
+  - Becomes more independent as it develops into an institute under the Office of the Vice President of Research.
+  - This transition strengthens interdisciplinary work across all colleges.
+  - Deepens connections with the Office of Engagement for community-focused research translation.
 
-### 2024: Research Collaborator Growth
-- **UVM Research Collaborators:** ~45 (compared to 25 in 2023)
-- **ORCA Research Projects:** 2 active research projects
-- **External Partnerships:** 14 partnerships with nonprofits, state agencies, and local governments
-- **ORCA Community Projects:** 3 active community projects
+- **January 2024: Kendall Fortney's Academic Role Expansion**
+  - Director Fortney receives part-time lecturer position at the College of Engineering and Mathematical Sciences (CEMS).
+  - Assumes responsibility for teaching student internship class (ORCA course).
 
-### 2024: Major Project Portfolio Expansion
-- **Total Repositories:** 23 (private/public)
-- **Active Projects:** ~17 during the year
-- **Project Diversity:** Expansion into multiple domains including zoning, community planning, public works, and geospatial analysis
+### Spring 2024
+- **Mid 2024: Jonathan St-Onge Hired**
+  - Jonathan St-Onge joins as VERSO Ph.D. Fellow, bringing research expertise to the initiative.
 
-### 2024: Dataverse Partnership Development
-- Planning underway for institutional open-data infrastructure.
-- Collaboration with library systems to support open-data publishing.
+### Summer 2024
+- **June 19-21, 2024: 2024 Rural Entrepreneurship Symposium** (University of Vermont)
+  - Kendall Fortney presents "Empowering Innovation: The Journey from Academic Research to Open Source Impact"
 
-### 2024: Infrastructure and Policy Development
-- Continued refinement of institutional policies for open-source software.
-- Enhanced documentation and templates for project governance.
-- Improved compliance frameworks for research projects.
+- **June 24-25, 2024: RISE Summit 2024** (UVM)
+  - Kendall Fortney participates in panel "Placemaking Tools: Maps, Drones, and Data" with Holly Morehouse, Paige Brochu, and facilitator Chris Campany
 
-### 2024: Major Conferences and Speaking Engagements
-- **UVM Day of Data Techniques and Tools** (January 9, 2024) – Kendall Fortney presents "Empowering Research: Open Data Platforms in Academia"
+- **June 27, 2024: CURIOSS Members Summer Workshop 2024** (Hula, Burlington)
+  - Kendall Fortney organizes and facilitates member-only workshop exploring challenges and opportunities for open source in academia ([details](https://verso.w3.uvm.edu/curioss-summer-workshop-2024/))
 
-- **UVM Guest Lectures:**
-  - CS 2300 Advanced Programming (Lisa Dion) – April 11, 2024
-  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney) – April 11, 2024
-  - CS 2300 Advanced Programming (Lisa Dion) – October 24, 2023
+- **July 9-10, 2024: United Nations OSPOS for Good 2024** (United Nations Building, New York City)
+  - Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
 
-- **Leadership Champlain – Energy and Environment Day** (April 9, 2024, Burlington Electric) – Kendall Fortney and Yoshi Bird present on the Vermont Zoning Atlas
+- **July 11, 2024: Linux Foundation – What's Next for Open Source?**
+  - Kendall Fortney participates in working group on starting an OSPO in academic institutions
 
-- **2024 Rural Entrepreneurship Symposium** (June 19-21, 2024, University of Vermont) – Kendall Fortney presents "Empowering Innovation: The Journey from Academic Research to Open Source Impact"
+- **July 29-30, 2024: PyData Vermont 2024** (Main Street Landing, Burlington)
+  - Kendall Fortney organizes the event with NumFOCUS and runs interactive session on "Future of PyData Vermont" ([link](https://pydata.org/vermont2024/))
 
-- **RISE Summit 2024** (June 24-25, 2024, UVM) – Kendall Fortney participates in panel "Placemaking Tools: Maps, Drones, and Data" with Holly Morehouse, Paige Brochu, and facilitator Chris Campany
+### Fall 2024
+- **September 12, 2024: Innova802 Podcast Recording: Activate with UVM's Open Source**
+  - Kendall Fortney discusses the power of open-source community in shaping human-scaled technology solutions
 
-- **CURIOSS Members Summer Workshop 2024** (June 27, 2024, Hula, Burlington) – Kendall Fortney organizes and facilitates member-only workshop exploring challenges and opportunities for open source in academia ([details](https://verso.w3.uvm.edu/curioss-summer-workshop-2024/))
+- **September 16, 2024: UVM Guest Lecture**
+  - CDAE 1600 Design Innovation (Sarah Williamson)
 
-- **PyData Vermont 2024** (July 29-30, 2024, Main Street Landing, Burlington) – Kendall Fortney organizes the event with NumFOCUS and runs interactive session on "Future of PyData Vermont" ([link](https://pydata.org/vermont2024/))
+- **October 18, 2024: FSRC Sustainability Metrics Open Data Discussion**
+  - Kendall Fortney presents on logistics of open data for projects
 
-- **United Nations OSPOS for Good 2024** (July 9-10, 2024, United Nations Building, New York City) – Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
+- **October 24, 2024: UVM Guest Lecture**
+  - CS 2300 Advanced Programming (Lisa Dion)
 
-- **Linux Foundation – What's Next for Open Source?** (July 11, 2024) – Kendall Fortney participates in working group on starting an OSPO in academic institutions
+- **October 30, 2024: UVM Guest Lecture**
+  - Data Science 1 (Alice Patania)
 
-- **Innova802 Podcast Recording: Activate with UVM's Open Source** (September 12, 2024) – Kendall Fortney discusses the power of open-source community in shaping human-scaled technology solutions
+- **November 7, 2024: Green Mountain Water Fall Trade Show**
+  - Kendall Fortney, Chris Campany (Windham Regional Planning Commission), and Emma Spett (Leahy Institute) present on Wastewater Infrastructure Mapping project
 
-- **FSRC Sustainability Metrics Open Data Discussion** (October 18, 2024) – Kendall Fortney presents on logistics of open data for projects
+- **November 12, 2024: UVM Guest Lecture**
+  - CS 2300 Advanced Programming (Lisa Dion)
 
-- **Green Mountain Water Fall Trade Show** (November 7, 2024) – Kendall Fortney, Chris Campany (Windham Regional Planning Commission), and Emma Spett (Leahy Institute) present on Wastewater Infrastructure Mapping project
+- **November 14, 2024: Vermont Statewide Housing Conference** (Burlington)
+  - Kendall Fortney and Yoshi Bird present on Vermont Zoning Atlas Project
 
-- **Vermont Statewide Housing Conference** (November 14, 2024, Burlington) – Kendall Fortney and Yoshi Bird present on Vermont Zoning Atlas Project
+### 2024: Year-End Metrics
+- **2024: Significant Student Growth**
+  - **Total ORCA Student Participants:** 25 (5x increase from 2023)
+  - **Student Hours on Real Open-Source Work:** 4,414 hours (13x increase from 2023)
+  - **Student Retention:** 72% (18/25 students)
+  - **Career Outcomes Begin to Show:** Early graduates securing internships and positions related to open-source skills
 
-- **UVM Guest Lectures:**
-  - CDAE 1600 Design Innovation (Sarah Williamson) – September 16, 2024
-  - CS 2300 Advanced Programming (Lisa Dion) – November 12, 2024
-  - Data Science 1 (Alice Patania) – October 30, 2024
+- **Research Collaborator Growth**
+  - **UVM Research Collaborators:** ~45 (compared to 25 in 2023)
+  - **ORCA Research Projects:** 2 active research projects
+  - **External Partnerships:** 14 partnerships with nonprofits, state agencies, and local governments
+  - **ORCA Community Projects:** 3 active community projects
 
-### 2024: Hosted Community Events
-- **Open Source Connector - Exploring Open Source Licenses** (September 27, 2023) – Inaugural event with David Kopec on license fundamentals
-- **Open Source Connector - Code to Community: Nurturing Unity in the Open Source Ecosystem** (Date TBD, Innovation Hall) – Discussion on growing and supporting open-source communities with lessons learned from African ecosystem
+- **2024: Major Project Portfolio Expansion**
+  - **Total Repositories:** 23 (private/public)
+  - **Active Projects:** ~17 during the year
+  - **Project Diversity:** Expansion into multiple domains including zoning, community planning, public works, and geospatial analysis
+
+- **2024: Infrastructure and Policy Development**
+  - Dataverse Partnership Development (planning underway for institutional open-data infrastructure)
+  - Continued refinement of institutional policies for open-source software.
+  - Enhanced documentation and templates for project governance.
+  - Improved compliance frameworks for research projects.
 
 ---
 
 ## 2025: Maturation and Impact
 
-### Early 2025: University of Vermont R1 Designation
-- In February 2025, UVM earns the prestigious Carnegie Classification R1 designation for "very high research activity."
-- VERSO positioned as strategic asset supporting this research excellence.
-- Annual research expenditures exceed $50 million; 70+ research doctorates awarded annually.
+### Winter 2024–2025 & Spring 2025
+- **February 2025: University of Vermont R1 Designation**
+  - UVM earns the prestigious Carnegie Classification R1 designation for "very high research activity."
+  - VERSO positioned as strategic asset supporting this research excellence.
+  - Annual research expenditures exceed $50 million; 70+ research doctorates awarded annually.
 
-### 2025: Student Engagement Peak
-- **Total ORCA Student Participants:** 30 (continued growth)
-- **Student Hours on Real Open-Source Work:** 3,166 hours (multiple substantive projects in parallel)
-- **Student Retention:** 73% (22/30 students)
-- **Career Outcomes Demonstrated:**
-  - One student transitions to IT position at UVM
-  - Zoning Atlas team member joins Town Planning Office
-  - Public Works Intern positions secured
-  - Field Geologist positions filled
+- **January 7-9, 2025: Data + Open Science Summit** (UVM Campus)
+  - Kendall Fortney organizes event with UVM Library, Vermont Research Open Source Program Office, Graduate College, and Office of the Provost
+  - Free workshops and trainings on data management planning with support from NASA and Software Carpentries
 
-### 2025: Research Ecosystem Expansion
-- **UVM Research Collaborators:** ~60 (compared to 45 in 2024)
-- **ORCA Research Projects:** 4 active research projects
-- **External Partnerships:** 25 partnerships (compared to 14 in 2024)
-- **ORCA Community Projects:** 4 active community projects
+- **January 9, 2025: Innovation Improv: Open Source Resources** (Patrick Leahy Building)
+  - Kendall Fortney presents on open-source resources at UVM and their use for innovation impact
 
-### 2025: Dataverse Launch
-- UVM Dataverse officially launched, providing open-data publishing infrastructure.
-- **Initial Metrics:**
-  - 4 Dataverses created
-  - 57 datasets published
-  - 16 active users
-  - ~195 downloads in first months
+- **January 23, 2025: Vermont Tech Meetup - Future of Tech in Vermont** (6:30-8:00 PM, UVM Innovation Hall)
+  - Overview of Vermont Technology Alliance with introduction by Kendall Fortney
 
-### 2025: Project Portfolio Maturation
-- **Total Repositories:** 42 (private/public)
-- **Active Projects:** ~14 during the year
-- **Project Categories (Approximate):**
-  - Community Tools: 10 projects
-  - Research Tools: 4 projects
-  - Data Collection/Visualization: 10 projects
-  - Documentation: 7 projects
-  - Class Exercises: 3 projects
+- **January 28, 2025: Economic Development Professionals Gathering** (Colchester Town Offices)
+  - Kendall Fortney and student Zach Winigrad present on Vermont Zoning Atlas and Vermont Liveability Map
 
-### 2025: Documentation and Knowledge Transfer
-- VERSO Playbook development continues, documenting lessons learned and best practices.
-- Resources designed to be openly accessible and adaptable for other institutions.
-- Guest lectures and materials shared widely in the open-source community.
+- **January 30, 2025: VECAP Data and Evaluation Committee**
+  - Kendall Fortney presents "Utilizing Private Partners to Build State Capacity" with overviews of Vermont Zoning Atlas and Wastewater Infrastructure Mapping projects
 
-### 2025: Strategic Sustainability Planning
-- Focus on long-term institutional support beyond initial grant funding.
-- Exploration of diverse funding models: institutional backing, external partnerships, government agencies.
-- Integration of open-source practices into university strategic planning and grant criteria.
+- **February 27, 2025: UVM Guest Lecture**
+  - Data Science 1 (Juniper Lovato)
 
-### 2025: Major Conferences and Speaking Engagements
-- **Data + Open Science Summit** (January 7-9, 2025, UVM Campus) – Kendall Fortney organizes event with UVM Library, Vermont Research Open Source Program Office, Graduate College, and Office of the Provost. Free workshops and trainings on data management planning with support from NASA and Software Carpentries.
+- **February 28, 2025: Vermont Works for Women – Rosie Girls Coding** (South Burlington VT)
+  - Kendall Fortney teaches Arduino single-board microcontroller coding in multiple languages to middle school girls at Community Technical Center
 
-- **Innovation Improv: Open Source Resources** (January 9, 2025, Patrick Leahy Building) – Kendall Fortney presents on open-source resources at UVM and their use for innovation impact
+- **March 6, 2025: Creativity Cornerstone** (UVM Guest Lecture)
+  - Erik Monsen
 
-- **Economic Development Professionals Gathering** (January 28, 2025, Colchester Town Offices) – Kendall Fortney and student Zach Winigrad present on Vermont Zoning Atlas and Vermont Liveability Map
+- **March 6, 2025: Regional Planning Commission (VAPDA) Meeting**
+  - Chris Campany (Windham Regional Planning Commission) and Emma Spett present on Wastewater Infrastructure Mapping project to the Vermont Association of Planning and Development Agencies
 
-- **VECAP Data and Evaluation Committee** (January 30, 2025) – Kendall Fortney presents "Utilizing Private Partners to Build State Capacity" with overviews of Vermont Zoning Atlas and Wastewater Infrastructure Mapping projects
+- **March 17, 2025: Product Management IPD** (UVM Guest Lecture)
+  - Keith Doyle
 
-- **Vermont Tech Meetup - Future of Tech in Vermont** (January 23, 2025, 6:30-8:00 PM, UVM Innovation Hall) – Overview of Vermont Technology Alliance with introduction by Kendall Fortney
+- **March 20, 2025: Ithaka S+R Webinar – University Open Source Program Offices (OSPOs) in Action**
+  - Kendall Fortney participates in panel with Robin Delaloye (George Washington University) and Francesca Vera (Stanford University) to discuss OSPOs in academia ([link](https://sr.ithaka.org/blog/university-open-source-program-offices-ospos-in-action/))
 
-- **Vermont Works for Women – Rosie Girls Coding** (February 28, 2025, South Burlington VT) – Kendall Fortney teaches Arduino single-board microcontroller coding in multiple languages to middle school girls at Community Technical Center
+- **March 25, 2025: Leahy Grants – Cycle 1 Celebration & Pitch Event**
+  - Kendall Fortney and Chris Campany present on Wastewater Infrastructure Mapping project
 
-- **Ithaka S+R Webinar – University Open Source Program Offices (OSPOs) in Action** (March 20, 2025) – Kendall Fortney participates in panel with Robin Delaloye (George Washington University) and Francesca Vera (Stanford University) to discuss OSPOs in academia ([link](https://sr.ithaka.org/blog/university-open-source-program-offices-ospos-in-action/))
+- **April 11, 2025: UVM Guest Lecture**
+  - Advanced Programming (Lisa Dion)
 
-- **Regional Planning Commission (VAPDA) Meeting** (March 6, 2025) – Chris Campany (Windham Regional Planning Commission) and Emma Spett present on Wastewater Infrastructure Mapping project to the Vermont Association of Planning and Development Agencies
+### Upcoming 2025 Events and Workshops
+- **Research Week - Building Better UX for Science** (April 23, 2025, 9:00-11:00 AM, Billings-Ira Allen Lecture Hall I101)
+  - Workshop for domain scientists and research software engineers on UX design methods for scientific software
 
-- **Leahy Grants – Cycle 1 Celebration & Pitch Event** (March 25, 2025) – Kendall Fortney and Chris Campany present on Wastewater Infrastructure Mapping project
+- **Research Week - STRUDEL Kit - UX Clinic** (April 23, 2025, 1:00-3:00 PM, Davis Center 422)
+  - Work sessions with usability designers to refine project usability needs
 
-- **UVM Guest Lectures (2024-2025 Academic Year):**
-  - CDAE 1600 Design Innovation (Sarah Williamson) – September 16, 2024
-  - Data Science 1 (Alice Patania) – October 30, 2024
-  - CS 2300 Advanced Programming (Lisa Dion) – November 12, 2024
-  - Data Science 1 (Juniper Lovato) – February 27, 2025
-  - Creativity Cornerstone (Erik Monsen) – March 6, 2025
-  - Product Management IPD (Keith Doyle) – March 17, 2025
-  - Advanced Programming (Lisa Dion) – April 11, 2025
+### Summer 2025
+(None documented yet)
 
-### 2025: Upcoming Events and Workshops
-- **Research Week - Building Better UX for Science** (April 23, 2025, 9:00-11:00 AM, Billings-Ira Allen Lecture Hall I101) – Workshop for domain scientists and research software engineers on UX design methods for scientific software
+### Fall 2025
+(None documented yet)
 
-- **Research Week - STRUDEL Kit - UX Clinic** (April 23, 2025, 1:00-3:00 PM, Davis Center 422) – Work sessions with usability designers to refine project usability needs
+### 2025: Year-End Metrics and Status
+- **2025: Student Engagement Peak**
+  - **Total ORCA Student Participants:** 30 (continued growth)
+  - **Student Hours on Real Open-Source Work:** 3,166 hours (multiple substantive projects in parallel)
+  - **Student Retention:** 73% (22/30 students)
+  - **Career Outcomes Demonstrated:**
+    - One student transitions to IT position at UVM
+    - Zoning Atlas team member joins Town Planning Office
+    - Public Works Intern positions secured
+    - Field Geologist positions filled
+
+- **2025: Research Ecosystem Expansion**
+  - **UVM Research Collaborators:** ~60 (compared to 45 in 2024)
+  - **ORCA Research Projects:** 4 active research projects
+  - **External Partnerships:** 25 partnerships (compared to 14 in 2024)
+  - **ORCA Community Projects:** 4 active community projects
+
+- **2025: Dataverse Launch**
+  - UVM Dataverse officially launched, providing open-data publishing infrastructure.
+  - **Initial Metrics:**
+    - 4 Dataverses created
+    - 57 datasets published
+    - 16 active users
+    - ~195 downloads in first months
+
+- **2025: Project Portfolio Maturation**
+  - **Total Repositories:** 42 (private/public)
+  - **Active Projects:** ~14 during the year
+  - **Project Categories (Approximate):**
+    - Community Tools: 10 projects
+    - Research Tools: 4 projects
+    - Data Collection/Visualization: 10 projects
+    - Documentation: 7 projects
+    - Class Exercises: 3 projects
+
+- **2025: Documentation and Knowledge Transfer**
+  - VERSO Playbook development continues, documenting lessons learned and best practices.
+  - Resources designed to be openly accessible and adaptable for other institutions.
+  - Guest lectures and materials shared widely in the open-source community.
+
+- **2025: Strategic Sustainability Planning**
+  - Focus on long-term institutional support beyond initial grant funding.
+  - Exploration of diverse funding models: institutional backing, external partnerships, government agencies.
+  - Integration of open-source practices into university strategic planning and grant criteria.
 
 ---
 

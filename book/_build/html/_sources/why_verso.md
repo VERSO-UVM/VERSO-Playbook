@@ -1,6 +1,5 @@
 # Why VERSO Was Created 
 
-## **Introduction**
 Open source has become a cornerstone of modern research and innovation, yet academic institutions often lack the structures to support it effectively. Researchers at universities frequently create software, data, and tools that could have a broader impact if shared openly, but barriers such as licensing, compliance, sustainability, and community engagement stand in the way.  
 
 The Vermont Research Open Source Program Office (VERSO) was established at the University of Vermont to address these challenges. Our mission was simple but ambitious: **to make open source a first-class citizen in research**—not an afterthought. This chapter explores the motivations behind VERSO, the gaps it aimed to fill, and the principles that guided its creation.
