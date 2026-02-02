@@ -1,17 +1,15 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-
-format: jb-book
-root: intro
-chapters:
-- file: timeline
+root: bibliography
+entries:
 - file: context_and_landscape
-- file: why_verso
-- file: spark_and_formation
-- file: defining_scope_and_service
-- file: scaling_and_other_challenges
-- file: tools_infrastructure_and_policies
-- file: measuring_impact
-- file: student_engagement_through_ORCA
 - file: failures_and_lessons_learned
+- file: intro
+- file: measuring_impact
+- file: scaling_and_other_challenges
+- file: spark_and_formation
+- file: student_engagement_through_ORCA
 - file: sustainability_and_the_future
+- file: the_first_year
+- file: timeline
+- file: tools_infrastructure_and_policies
+- file: why_verso
+

@@ -1,0 +1,585 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>VERSO’s First Year &#8212; VERSO Playbook</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'VERSOs_first_year';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/logo.png" class="logo__image only-light" alt="VERSO Playbook - Home"/>
+    <script>document.write(`<img src="_static/logo.png" class="logo__image only-dark" alt="VERSO Playbook - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    VERSO Playbook
+                </a>
+            </li>
+        </ul>
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="timeline.html">Timeline</a></li>
+<li class="toctree-l1"><a class="reference internal" href="context_and_landscape.html">Context and Landscape</a></li>
+<li class="toctree-l1"><a class="reference internal" href="why_verso.html">Why VERSO Was Created</a></li>
+<li class="toctree-l1"><a class="reference internal" href="spark_and_formation.html">Spark and Formation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="scaling_and_other_challenges.html">Scaling and Other Challenges</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tools_infrastructure_and_policies.html">Tools, Infrastructure, and Policies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="measuring_impact.html">Measuring Impact</a></li>
+
+
+<li class="toctree-l1"><a class="reference internal" href="student_engagement_through_ORCA.html">Student Engagement Through ORCA</a></li>
+<li class="toctree-l1"><a class="reference internal" href="failures_and_lessons_learned.html">Failures, Pivots, and Adaptations</a></li>
+<li class="toctree-l1"><a class="reference internal" href="sustainability_and_the_future.html">Sustainability and the Future</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/executablebooks/jupyter-book/issues/new?title=Issue%20on%20page%20%2FVERSOs_first_year.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/VERSOs_first_year.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>VERSO’s First Year</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-verso-does-not-do">What VERSO Does <em>Not</em> Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-verso-does-do">What VERSO Does Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#launching-and-building-foundation">Launching and Building Foundation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-team-and-launching-the-program">Building the Team and Launching the Program</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#establishing-infrastructure-and-systems">Establishing Infrastructure and Systems</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#engaging-the-community">Engaging the Community</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#planning-for-sustainability">Planning for Sustainability</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#publishing-the-ospo-playbook">Publishing the OSPO Playbook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-changes-and-strategic-decisions">Key Changes and Strategic Decisions</a></li>
+</ul>
+</li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="verso-s-first-year">
+<h1>VERSO’s First Year<a class="headerlink" href="#verso-s-first-year" title="Permalink to this heading">#</a></h1>
+<section id="what-verso-does-not-do">
+<h2>What VERSO Does <em>Not</em> Do<a class="headerlink" href="#what-verso-does-not-do" title="Permalink to this heading">#</a></h2>
+<p>Defining what VERSO would not do was just as important as clarifying what it would. From the outset, we recognized that an OSPO could easily become a catch-all for anything related to software, technology, or research support. Without clear boundaries, the office risked being stretched too thin and losing focus on its core mission. We arrived at:</p>
+<ul class="simple">
+<li><p><strong>We are not legal counsel</strong>. VERSO provides guidance on open-source licensing and intellectual property best practices, but we do not replace university counsel. Legal determinations, contractual obligations, and formal legal advice remain the responsibility of UVM’s Office of the General Counsel. Our role is to interpret and translate legal concepts into practical, actionable guidance for researchers—not to provide legal representation or binding legal opinions.</p></li>
+<li><p><strong>We are not a compliance enforcement body</strong>. VERSO does not audit faculty, staff, or students, nor do we mandate adherence to open-source practices. We do not function as a reporting or policing organization except in cases of serious legal or ethical concern. Our approach is educational and supportive, helping researchers understand best practices while respecting their autonomy to make informed decisions about their work.</p></li>
+<li><p><strong>We do not control research directions or claim project ownership</strong>. VERSO exists to support and amplify the work of researchers, not to dictate it. We respect academic freedom and disciplinary expertise. Our role is advisory and facilitative rather than prescriptive or managerial. We help researchers share their work openly and sustainably, but intellectual leadership, project governance, and research direction always remain with faculty and their teams.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="what-verso-does-do">
+<h2>What VERSO Does Do<a class="headerlink" href="#what-verso-does-do" title="Permalink to this heading">#</a></h2>
+<p>With clear boundaries in place, VERSO focuses on four core areas of support that directly enable open-source success:</p>
+<ul class="simple">
+<li><p><strong>We provide guidance on licensing, intellectual property, and open-source practices</strong>. VERSO helps everyone navigate the landscape of open-source licenses, understand intellectual property implications, and make informed decisions about how to share their work. We demystify complex concepts, offer practical recommendations tailored to specific research contexts, and help researchers select licensing strategies that align with their goals. We also develop templates, checklists, and frameworks that researchers can adapt for their own projects, reducing the burden of building these structures from scratch.</p></li>
+<li><p><strong>We build infrastructure, tools, and digital spaces that enable open-source work</strong>. VERSO establishes and maintains the technical systems—repositories, version control platforms, data storage solutions, and collaborative tools that make open-source collaboration possible. We work with university IT partners to ensure these systems are secure, scalable, and integrated with campus technology ecosystems. We also create physical spaces (like co-working environments) and virtual spaces (Discord channels, discussion forums, documentation sites) where researchers and students can collaborate, share knowledge, and build community.</p></li>
+<li><p><strong>We educate researchers and students in open-source skills and practices</strong>. VERSO offers training through internships, workshops, conferences and mentorship in version control, documentation, project management, code review, collaborative development workflows, and open-science practices. We tailor these educational offerings to different audiences and disciplines—from computer scientists to social scientists to domain specialists—recognizing that open-source principles apply across the academy. Through the ORCA student internship program, we provide hands-on learning opportunities where students gain real workplace skills while contributing to meaningful projects.</p></li>
+<li><p><strong>We foster community and advance open-source research through events, partnerships, and scholarship</strong>. VERSO hosts and participates in conferences, workshops, hackathons, and community events that bring researchers together, showcase open-source projects, and build connections with external partners and networks. We conduct and support research on open-source ecosystems, collaboration dynamics, and institutional adoption, contributing to the broader scholarly understanding of how open-source communities succeed. We also build partnerships—with faculty, with community organizations, with other universities, with industry—that expand VERSO’s capacity and extend the reach of open-source practices beyond UVM.</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="launching-and-building-foundation">
+<h2>Launching and Building Foundation<a class="headerlink" href="#launching-and-building-foundation" title="Permalink to this heading">#</a></h2>
+<section id="building-the-team-and-launching-the-program">
+<h3>Building the Team and Launching the Program<a class="headerlink" href="#building-the-team-and-launching-the-program" title="Permalink to this heading">#</a></h3>
+<p>VERSO officially began with the successful hiring and onboarding of its core leadership and research team. Kendall Fortney joined as the VERSO Program Director on April 24, 2022, bringing strategic direction and coordination to the initiative, followed by John Meluso, who joined on June 1, 2022, as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, &amp; Inclusion. With these key hires, VERSO was well-positioned to begin its mission. In 2025 the team was expanded to include Jonathan St-Onge as a research software engineer</p>
+</section>
+<section id="establishing-infrastructure-and-systems">
+<h3>Establishing Infrastructure and Systems<a class="headerlink" href="#establishing-infrastructure-and-systems" title="Permalink to this heading">#</a></h3>
+<p>VERSO quickly moved to establish its organizational infrastructure at UVM. Collaborations with UVM Innovations led to the development of processes for open-source licensing, while the OSPO secured office space within the UVM Library’s Center for Teaching and Learning. A formal RFP process for open-source projects was launched, and documentation on licensing was made available through the VERSO website. Additional partnerships with the UVM Library supported the adoption of Diamond Access journals and the creation of UVM Press. A GitLab repository, managed by UVM IT, was also established to support project development.</p>
+</section>
+<section id="engaging-the-community">
+<h3>Engaging the Community<a class="headerlink" href="#engaging-the-community" title="Permalink to this heading">#</a></h3>
+<p>In the first year VERSO met its goal of engaging with faculty, student, and community-driven projects. Projects included:</p>
+<ol class="arabic simple">
+<li><p><a class="reference external" href="https://github.com/VERSO-UVM/allotaxp"><strong>Allotaxonometer Project</strong></a> – Translating a proprietary tool into open-source with interactive features. Allotaxonometer is an interactive Observable notebook for comparing two ranked distributions (e.g., word frequencies or species counts). It computes rank‑turbulence divergence and visualizes differences with a diamond plot, balance view, and word‑shift chart, letting users explore how elements move between ranks and contribute to change. It supports example datasets and user‑uploaded files for side‑by‑side comparison.</p></li>
+<li><p><strong>Boston Library Consortium Digital Lending Project</strong> – Collaborating on tools that support the sharing and lending of digital books with the Boston Library Consortium and UVM Library. Controlled Digital Lending (CDL) is an emerging method that allows libraries to loan print books to digital patrons in a “lend like print” fashion. Through CDL, libraries use technical controls to ensure a consistent “owned-to-loaned” ratio, meaning the library circulates the exact number of copies of a specific title it owns, regardless of format, putting controls in place to prevent users from redistributing or copying the digitized version. This project stopped after a legal decision making this practice illegal.</p></li>
+<li><p><strong>GIS Open Data Portal</strong> – Building a centralized ArcGIS Hub at <a class="reference external" href="https://ope-uvm.hub.arcgis.com/">https://ope-uvm.hub.arcgis.com/</a> to publish public-facing maps, datasets, and dashboards, making UVM geospatial research easier to discover, reuse, and connect across projects. This project later on led to the UVM Dataverse</p></li>
+<li><p><strong>UVM Press</strong> – Supporting Diamond open‑access journals hosted on the UVM Press platform by helping with publishing workflows, metadata standards, and the software pipelines through the open source software OJS to manage submissions, peer review, and dissemination.</p></li>
+<li><p><strong>UVM Compute</strong> - We attempted to restart the UVM Compute project (<a class="github reference external" href="https://github.com/UVMComputes/uvmc-api">UVMComputes/uvmc-api</a>), which aggregated spare compute power from website visitors into a distributed “supercomputer” (similar to SETI&#64;home). The concept was promising and could have been impactful with additional development, but the project ultimately stalled.</p></li>
+<li><p><strong>Open Source Grant Resource Library</strong> – We identified a need for an open grant resource library through interviews with UVM Research Development (<a class="reference external" href="https://www.uvm.edu/ovpr/research-development">https://www.uvm.edu/ovpr/research-development</a>). The team wanted templates that explain the context, format, and requirements of specific grants and had started building a structure to support it, but asked for help designing the project to be as open as possible. The structure could be shared beyond UVM, while the content would remain internal; a future step could include inviting faculty to contribute sample grant sections as inspiration for applicants.</p></li>
+</ol>
+<p>Faculty across departments played a central role in each initiative, and efforts are underway to increase student participation through a dedicated Git training pipeline.</p>
+</section>
+<section id="planning-for-sustainability">
+<h3>Planning for Sustainability<a class="headerlink" href="#planning-for-sustainability" title="Permalink to this heading">#</a></h3>
+<p>To ensure long-term viability, VERSO actively pursued funding opportunities. Proposals submitted included a successful EPSCoR Track 1 (August 2022), which supported 50% of the OSPO Director’s salary and expanded open-source infrastructure across Vermont institutions.</p>
+</section>
+<section id="publishing-the-ospo-playbook">
+<h3>Publishing the OSPO Playbook<a class="headerlink" href="#publishing-the-ospo-playbook" title="Permalink to this heading">#</a></h3>
+<p>VERSO was developing a comprehensive playbook to guide academic OSPO activities. Initial content was already available on the VERSO website, including guest lecture materials and documentation on organizational growth strategies. These resources were designed to be openly accessible and adaptable for other institutions.</p>
+</section>
+<section id="key-changes-and-strategic-decisions">
+<h3>Key Changes and Strategic Decisions<a class="headerlink" href="#key-changes-and-strategic-decisions" title="Permalink to this heading">#</a></h3>
+<p>Two notable adjustments were made during this period:</p>
+<ol class="arabic simple">
+<li><p>The community manager role was restructured to include a research component, leading to the hiring of a postdoc John Meluso focused on open-source ecosystems and inclusion.</p></li>
+<li><p>VERSO opted for supporting the already existing institutional GitLab license administered through UVM ETS, but still utilized GitHub where appropriate.</p></li>
+</ol>
+</section>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-verso-does-not-do">What VERSO Does <em>Not</em> Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-verso-does-do">What VERSO Does Do</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#launching-and-building-foundation">Launching and Building Foundation</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#building-the-team-and-launching-the-program">Building the Team and Launching the Program</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#establishing-infrastructure-and-systems">Establishing Infrastructure and Systems</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#engaging-the-community">Engaging the Community</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#planning-for-sustainability">Planning for Sustainability</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#publishing-the-ospo-playbook">Publishing the OSPO Playbook</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-changes-and-strategic-decisions">Key Changes and Strategic Decisions</a></li>
+</ul>
+</li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Kendall Fortney
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+<div class="extra_footer">
+  © Copyright 2026.
+</div>
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

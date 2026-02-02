@@ -1,7 +1,7 @@
 
-# Defining Scope and Services
+# VERSO's First Year
 
-## **What VERSO Does *Not* Do**
+## What VERSO Does *Not* Do
 
 Defining what VERSO would not do was just as important as clarifying what it would. From the outset, we recognized that an OSPO could easily become a catch-all for anything related to software, technology, or research support. Without clear boundaries, the office risked being stretched too thin and losing focus on its core mission. We arrived at:
 
@@ -13,7 +13,7 @@ Defining what VERSO would not do was just as important as clarifying what it wou
 
 ---
 
-## **What VERSO Does Do**
+## What VERSO Does Do
 
 With clear boundaries in place, VERSO focuses on four core areas of support that directly enable open-source success:
 
@@ -27,7 +27,7 @@ With clear boundaries in place, VERSO focuses on four core areas of support that
 
 ---
 
-## VERSO's First Year: Launching and Building Foundation
+## Launching and Building Foundation
 
 ### Building the Team and Launching the Program
 VERSO officially began with the successful hiring and onboarding of its core leadership and research team. Kendall Fortney joined as the VERSO Program Director on April 24, 2022, bringing strategic direction and coordination to the initiative, followed by John Meluso, who joined on June 1, 2022, as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion. With these key hires, VERSO was well-positioned to begin its mission. In 2025 the team was expanded to include Jonathan St-Onge as a research software engineer
@@ -36,12 +36,14 @@ VERSO officially began with the successful hiring and onboarding of its core lea
 VERSO quickly moved to establish its organizational infrastructure at UVM. Collaborations with UVM Innovations led to the development of processes for open-source licensing, while the OSPO secured office space within the UVM Library’s Center for Teaching and Learning. A formal RFP process for open-source projects was launched, and documentation on licensing was made available through the VERSO website. Additional partnerships with the UVM Library supported the adoption of Diamond Access journals and the creation of UVM Press. A GitLab repository, managed by UVM IT, was also established to support project development.
 
 ### Engaging the Community
-VERSO met its goal of engaging with six faculty, student, and community-driven projects. Projects included:
+In the first year VERSO met its goal of engaging with faculty, student, and community-driven projects. Projects included:
 
-1. **Allotaxonometer Project** – Translating a proprietary tool into open-source with interactive features.
-2. **Boston Library Consortium Digital Lending Project** – Collaborating on open-source software design.
-3. **GIS Open Data Portal** – Creating a centralized hub for ArcGIS projects.
-6. **UVM Press** – Supporting open journals and associated software pipelines.
+1. [**Allotaxonometer Project**](https://github.com/VERSO-UVM/allotaxp) – Translating a proprietary tool into open-source with interactive features. Allotaxonometer is an interactive Observable notebook for comparing two ranked distributions (e.g., word frequencies or species counts). It computes rank‑turbulence divergence and visualizes differences with a diamond plot, balance view, and word‑shift chart, letting users explore how elements move between ranks and contribute to change. It supports example datasets and user‑uploaded files for side‑by‑side comparison.
+2. **Boston Library Consortium Digital Lending Project** – Collaborating on tools that support the sharing and lending of digital books with the Boston Library Consortium and UVM Library. Controlled Digital Lending (CDL) is an emerging method that allows libraries to loan print books to digital patrons in a “lend like print” fashion. Through CDL, libraries use technical controls to ensure a consistent “owned-to-loaned” ratio, meaning the library circulates the exact number of copies of a specific title it owns, regardless of format, putting controls in place to prevent users from redistributing or copying the digitized version. This project stopped after a legal decision making this practice illegal.
+3. **GIS Open Data Portal** – Building a centralized ArcGIS Hub at [https://ope-uvm.hub.arcgis.com/](https://ope-uvm.hub.arcgis.com/) to publish public-facing maps, datasets, and dashboards, making UVM geospatial research easier to discover, reuse, and connect across projects. This project later on led to the UVM Dataverse
+4. **UVM Press** – Supporting Diamond open‑access journals hosted on the UVM Press platform by helping with publishing workflows, metadata standards, and the software pipelines through the open source software OJS to manage submissions, peer review, and dissemination.
+5. **UVM Compute** - We attempted to restart the UVM Compute project (https://github.com/UVMComputes/uvmc-api), which aggregated spare compute power from website visitors into a distributed “supercomputer” (similar to SETI@home). The concept was promising and could have been impactful with additional development, but the project ultimately stalled.
+6. **Open Source Grant Resource Library** – We identified a need for an open grant resource library through interviews with UVM Research Development (https://www.uvm.edu/ovpr/research-development). The team wanted templates that explain the context, format, and requirements of specific grants and had started building a structure to support it, but asked for help designing the project to be as open as possible. The structure could be shared beyond UVM, while the content would remain internal; a future step could include inviting faculty to contribute sample grant sections as inspiration for applicants.
 
 Faculty across departments played a central role in each initiative, and efforts are underway to increase student participation through a dedicated Git training pipeline.
 

@@ -1,4 +1,4 @@
-# VERSO Timeline
+# Timeline
 
 The Vermont Research Open Source Program Office (VERSO) emerged from a vision to systematically support open-source practices at the University of Vermont. This timeline documents the key milestones, decisions, and moments that shaped VERSO's development from inception through 2025.
 
