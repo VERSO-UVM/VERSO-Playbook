@@ -498,7 +498,85 @@ The following simplified examples illustrate how DMPs might look for different t
 
 ---
 
-## Getting Started with Your Open Data Management Plan
+## Reviewing and Evaluating an OSDMP: Checklist for Researchers and Reviewers
+
+Whether you're developing your own plan or reviewing someone else's, this checklist helps ensure completeness and quality.
+
+### General Considerations
+
+- [ ] Plan fits within page limit (typically 2 pages for funded proposals)
+- [ ] Plan follows required template (if applicable)
+- [ ] Plan is clear and avoids vague language ("data will be shared upon request" is insufficient)
+- [ ] Responsibilities and timelines are explicitly assigned
+- [ ] Budget for open science activities is included in proposal budget
+- [ ] Plan is realistic given project scope and resources
+
+### Data Management Component
+
+- [ ] **Types and formats:** Expected data types, formats, and volumes clearly described
+- [ ] **Standards:** Plans for metadata standards, naming conventions, and documentation
+- [ ] **FAIR principles:** How data will be made Findable, Accessible, Interoperable, Reusable
+- [ ] **Archiving strategy:** Specific repositories identified; commitment to preservation addressed
+- [ ] **Public access:** Timeline for sharing data (typically no later than publication or end of performance period)
+- [ ] **Exemptions:** Any data types exempt from open sharing, with justification
+- [ ] **Format choice:** Open, non-proprietary formats chosen where possible
+
+### Software Management Component
+
+- [ ] **Software types:** Expected software, programming languages, and scope clearly described
+- [ ] **Development practices:** Version control, code review, and testing procedures explained
+- [ ] **Public availability:** When and where code will be publicly accessible
+- [ ] **Licensing:** Clear open-source license specified (e.g., MIT, Apache 2.0, GPL)
+- [ ] **Contributing guidelines:** Whether and how others can contribute (CONTRIBUTING.md)
+- [ ] **Archiving and preservation:** Releases archived with DOIs (e.g., Zenodo)
+- [ ] **Maintenance:** Clear statement about maintenance period and support expectations
+- [ ] **Dependencies:** Third-party dependencies and constraints documented
+
+### Publications and Open Results Component
+
+- [ ] **Publication strategy:** Expected publication types and venues identified
+- [ ] **Open access:** Plan for making publications openly accessible (open-access journals, preprints, author's copy)
+- [ ] **Timing:** When publications will be shared relative to acceptance/publication
+- [ ] **Additional outputs:** Other research products (technical reports, notebooks, datasets) described
+- [ ] **Licensing:** Copyright and licensing approach clarified
+
+### Governance and Roles
+
+- [ ] **Clear responsibilities:** Who is responsible for each aspect (data, software, publications)?
+- [ ] **Timeline:** When will each task occur?
+- [ ] **Contact information:** Key personnel identified
+- [ ] **Decision-making:** How will decisions about open science be made?
+
+### Strengths to Look For
+
+- ✓ Publications shared as preprints on discipline-appropriate servers (arXiv, bioRxiv)
+- ✓ Contributing to existing open-source projects
+- ✓ Commitment to well-maintained, documented code
+- ✓ Use of established, community-standard data formats
+- ✓ Clear, detailed metadata planning
+- ✓ Specific repository choices (not vague "appropriate repository")
+- ✓ Realistic timeline and resource allocation
+- ✓ Strong commitment to accessibility and documentation
+
+### Weaknesses to Avoid
+
+- ✗ "Data will be shared upon request" (insufficient)
+- ✗ Vague repositories ("some open access repository TBD")
+- ✗ No consideration of long-term preservation
+- ✗ Proprietary formats without strong justification
+- ✗ No clear roles or responsibilities
+- ✗ No budget allocation for open science activities
+- ✗ Publishing exclusively in predatory or vanity journals
+- ✗ Code with no documentation or contribution guidelines
+
+### Neutral Factors (Usually)
+
+- Choice of programming language
+- Use of commercial software (if justified by scientific need)
+- Journal impact factor (focus on fit, not prestige)
+- Whether code is in GitHub vs. GitLab vs. institutional repository
+
+---
 
 1. **Check requirements**: Identify funder and institutional requirements for your research.
 2. **Gather your team**: Meet with collaborators and your institution's data steward.
