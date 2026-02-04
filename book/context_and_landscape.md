@@ -78,3 +78,6 @@ At the same time, industry had already demonstrated the power of structured open
 Within UVM, leadership was actively seeking ways to enhance research impact and visibility. The university’s land-grant mission emphasized public engagement and knowledge dissemination, making open source a natural fit. However, without institutional support, researchers faced cultural, legal, and technical barriers that limited their ability to share and sustain their work. This gap presented a unique opportunity: to create one of the first academic OSPOs in the country, positioning UVM as a leader in open science and providing a model for other universities to follow.
 
 VERSO was conceived as a response to this convergence of forces—federal policy shifts, industry best practices, and institutional priorities. It aimed to transform open source from an informal, fragmented activity into a strategic asset for research, education, and community engagement.
+
+
+
