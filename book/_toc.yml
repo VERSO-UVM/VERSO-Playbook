@@ -1,15 +1,18 @@
 root: bibliography
 entries:
-- file: context_and_landscape
-- file: failures_and_lessons_learned
 - file: intro
-- file: measuring_impact
-- file: scaling_and_other_challenges
+- file: context_and_landscape
+- file: defining_scope_and_service
 - file: spark_and_formation
-- file: student_engagement_through_ORCA
-- file: sustainability_and_the_future
-- file: the_first_year
-- file: timeline
-- file: tools_infrastructure_and_policies
+- file: structuring_the_office
 - file: why_verso
+- file: timeline
+- file: measuring_impact
+- file: open_data_management_plans
+- file: failures_and_lessons_learned
+- file: scaling_and_other_challenges
+- file: sustainability_and_the_future
+- file: tools_infrastructure_and_policies
+- file: student_engagement_through_ORCA
+- file: the_first_year
 
