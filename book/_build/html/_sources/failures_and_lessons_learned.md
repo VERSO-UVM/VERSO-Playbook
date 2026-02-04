@@ -15,7 +15,7 @@ October 27 & 28, 2023 that explored research and understanding of open source pr
 
 ## The Capacity Problem
 
-Interviews with researchers from that program showed that even where people believed in following open science practices, the lack of time and capacity (and maybe incentives) greatly hindered any successful output.
+Interviews with researchers indicated that even where people believed in following open science practices, the lack of time and capacity (and maybe incentives) greatly hindered any successful output.
 
 To solve that gap we created the Open Research Community Accelerator student internship program. The original idea was to add student efforts to doing some of the gruntwork of making an open source project successful, like adding documentation or comments to the code.
 
@@ -27,7 +27,7 @@ After the first ORCA project, a graduate student at the Vermont Complex Systems 
 
 This was not a software problem but a data problem, we utilized Github as version control for the data but as the CS program at UVM did not have a geospatial data focus, we reached out to the agricultural program which did to find students. 
 
-This project proved the viability of this pivot
+This project proved the viability of this pivot into non-research projects. At this point of the multiple projects we work on, only two have been research software.
 
 ---
 
