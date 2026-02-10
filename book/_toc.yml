@@ -1,18 +1,31 @@
-root: bibliography
+root: intro
 entries:
-- file: intro
-- file: context_and_landscape
-- file: defining_scope_and_service
-- file: spark_and_formation
-- file: structuring_the_office
 - file: why_verso
-- file: timeline
-- file: measuring_impact
-- file: open_data_management_plans
-- file: failures_and_lessons_learned
-- file: scaling_and_other_challenges
-- file: sustainability_and_the_future
-- file: tools_infrastructure_and_policies
-- file: student_engagement_through_ORCA
+  title: Why VERSO Was Created
+- file: context_and_landscape
+  title: Context and Landscape
+- file: spark_and_formation
+  title: Spark and Formation
+- file: structuring_the_office
+  title: Structuring the Office
 - file: the_first_year
+  title: The First Year
+- file: timeline
+  title: Timeline
+- file: tools_infrastructure_and_policies
+  title: Tools, Infrastructure, and Policies
+- file: student_engagement_through_ORCA
+  title: Student Engagement Through ORCA
+- file: open_data_management_plans
+  title: Making Open Data Management Plans
+- file: measuring_impact
+  title: Measuring Impact
+- file: failures_and_lessons_learned
+  title: Failures, Pivots, and Adaptations
+- file: scaling_and_other_challenges
+  title: Scaling and Other Challenges
+- file: sustainability_and_the_future
+  title: Sustainability and the Future
+- file: bibliography
+  title: Bibliography
 

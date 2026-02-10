@@ -2,7 +2,15 @@
 # The First Year
 
 The first year of VERSO established the program’s scope, clarified what the office would and would not do, and laid the operational foundation for sustainable support of open research at UVM. This section captures the early decisions, infrastructure build‑out, community partnerships, and pilot projects that shaped VERSO’s identity, while documenting the initial research outputs and strategic pivots that set the trajectory for future growth.
+## Defining Scope and Services
 
+From the very beginning, we understood that clarity of scope would be essential to VERSO's success. It has also proven quite elusive as our understanding of the open source community at UVM, the incentives and roadblocks and the opportunities keep on growing and shifting.
+
+Our original intent in 2022 had a focus on research on open source through the OCEAN lab. Our mission was never to manage every open-source project at UVM, but rather to empower researchers to succeed with open source by providing the guidance, resources, and community they need to thrive.
+
+Without clear boundaries, an OSPO can become a catch-all for anything "open." By defining scope early, we avoided mission creep and built credibility as a focused, strategic resource.
+
+---
 ## What VERSO Does *Not* Do
 
 Defining what VERSO would not do was just as important as clarifying what it would. From the outset, we recognized that an OSPO could easily become a catch-all for anything related to software, technology, or research support. Without clear boundaries, the office risked being stretched too thin and losing focus on its core mission. We arrived at:
