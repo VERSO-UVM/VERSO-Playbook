@@ -4,8 +4,6 @@ entries:
   title: Why VERSO Was Created
 - file: context_and_landscape
   title: Context and Landscape
-- file: spark_and_formation
-  title: Spark and Formation
 - file: structuring_the_office
   title: Structuring the Office
 - file: the_first_year
@@ -16,8 +14,6 @@ entries:
   title: Tools, Infrastructure, and Policies
 - file: student_engagement_through_ORCA
   title: Student Engagement Through ORCA
-- file: open_data_management_plans
-  title: Making Open Data Management Plans
 - file: measuring_impact
   title: Measuring Impact
 - file: failures_and_lessons_learned
