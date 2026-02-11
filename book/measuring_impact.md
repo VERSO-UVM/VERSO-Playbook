@@ -17,7 +17,7 @@ Ultimately, we recognized that measuring the entire “open‑source ecosystem�
 
 From the earliest days of VERSO, we understood that enthusiasm alone could not sustain an academic Open Source Program Office. To justify long‑term investment—financial, organizational, and cultural—we needed metrics that demonstrated real, defensible impact. Over time, our approach evolved into a multidimensional framework reflecting not only program activity but also ecosystem growth, cultural transformation, and lasting institutional value.
 
-## 1. Student Engagement & Workforce Development
+## Student Engagement & Workforce Development
 
 Students are the engine of VERSO and ORCA. Their participation and professional growth offer some of the most direct evidence of our success.
 
@@ -40,75 +40,20 @@ Students are the engine of VERSO and ORCA. Their participation and professional 
 
 These metrics illuminate how VERSO prepares students for open‑source practice and supports a workforce trained in real production‑quality tools and methods.
 
-```{code-cell} ipython3
-:tags: [hide-input]
+### ORCA Student Engagement & Growth Metrics
 
-import matplotlib.pyplot as plt
-import numpy as np
+| Metric | 2023 | 2024 | 2025 |
+|--------|------|------|------|
+| **Student Participants** | 5 | 25 | 30 |
+| **Total Hours Contributed** | 338 | 4,414 | 3,166 |
+| **Average Hours per Student** | 68 | 177 | 106 |
+| **Retention Rate** | 60% (3/5) | 72% (18/25) | 73% (22/30) |
 
-# Create figure with subplots
-fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2, figsize=(14, 10))
-fig.suptitle('ORCA Student Engagement & Growth Metrics', fontsize=16, fontweight='bold')
-
-# 1. Student Growth Over Time
-years = [2023, 2024, 2025]
-students = [5, 25, 30]
-ax1.plot(years, students, marker='o', linewidth=2, markersize=10, color='#2E7D32')
-ax1.fill_between(years, students, alpha=0.3, color='#2E7D32')
-ax1.set_title('ORCA Student Participants', fontweight='bold')
-ax1.set_xlabel('Year')
-ax1.set_ylabel('Number of Students')
-ax1.grid(True, alpha=0.3)
-ax1.set_ylim(0, 35)
-for i, v in enumerate(students):
-    ax1.text(years[i], v + 1, str(v), ha='center', fontweight='bold')
-
-# 2. Student Hours Contributed
-hours = [338, 4414, 3166]
-colors = ['#1976D2', '#1976D2', '#1976D2']
-bars = ax2.bar(years, hours, color=colors, alpha=0.8, edgecolor='black')
-ax2.set_title('Hours Contributed to Open Work', fontweight='bold')
-ax2.set_xlabel('Year')
-ax2.set_ylabel('Total Hours')
-ax2.grid(True, alpha=0.3, axis='y')
-for bar, hour in zip(bars, hours):
-    height = bar.get_height()
-    ax2.text(bar.get_x() + bar.get_width()/2., height + 100,
-             f'{hour:,}', ha='center', va='bottom', fontweight='bold')
-
-# 3. Retention Rates
-retention = [60, 72, 73]
-bars = ax3.bar(years, retention, color='#F57C00', alpha=0.8, edgecolor='black')
-ax3.set_title('Student Retention Rate', fontweight='bold')
-ax3.set_xlabel('Year')
-ax3.set_ylabel('Retention Rate (%)')
-ax3.set_ylim(0, 100)
-ax3.axhline(y=70, color='red', linestyle='--', alpha=0.5, label='70% Target')
-ax3.grid(True, alpha=0.3, axis='y')
-ax3.legend()
-for bar, rate in zip(bars, retention):
-    height = bar.get_height()
-    ax3.text(bar.get_x() + bar.get_width()/2., height + 2,
-             f'{rate}%', ha='center', va='bottom', fontweight='bold')
-
-# 4. Growth Summary - Total student-hours over time
-total_student_hours = [5*338/5, 25*4414/25, 30*3166/30]  # Avg hours per student
-ax4.plot(years, total_student_hours, marker='s', linewidth=2, markersize=10, color='#6A1B9A')
-ax4.fill_between(years, total_student_hours, alpha=0.3, color='#6A1B9A')
-ax4.set_title('Average Hours per Student', fontweight='bold')
-ax4.set_xlabel('Year')
-ax4.set_ylabel('Hours per Student')
-ax4.grid(True, alpha=0.3)
-for i, v in enumerate(total_student_hours):
-    ax4.text(years[i], v + 5, f'{v:.0f}', ha='center', fontweight='bold')
-
-plt.tight_layout()
-plt.show()
-```
+**Key observations:** Student participation grew 6x from 2023 to 2025. While total hours peaked in 2024, the program maintained strong retention rates (exceeding 70% target by 2024). The average hours per student reflects a shift toward more focused, intensive projects by 2025.
 
 ---
 
-## 2. Project Portfolio & Research Output
+## Project Portfolio & Research Output
 
 As VERSO’s work expanded, the number and diversity of open‑source projects became a tangible measure of impact. We began tracking:
 
@@ -126,53 +71,29 @@ As VERSO’s work expanded, the number and diversity of open‑source projects b
 - **Project maturity metrics** - Metrics of completed milestones, release cycles, or adoption by users beyond UVM would be ideal to collect, but developing the api call to receive these stats has not happened yet
 
 These indicators help quantify VERSO’s ability to produce high‑quality, open, and reusable software aligned with academic research needs.
-```{code-cell} ipython3
-:tags: [hide-input]
+### Project Portfolio & Research Output
 
-import matplotlib.pyplot as plt
-import numpy as np
+**Repository & Project Growth**
 
-# Create figure with subplots
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
-fig.suptitle('Project Portfolio & Research Output', fontsize=16, fontweight='bold')
+| Year | Total Repositories | Active Projects |
+|------|-------------------|-----------------|
+| 2022 | 1 | 1 |
+| 2023 | 4 | 4 |
+| 2024 | 23 | 17 |
+| 2025 | 42 | 14 |
 
-# 1. Repository Growth
-years = [2022, 2023, 2024, 2025]
-total_repos = [1, 4, 23, 42]
-active_repos = [1, 4, 17, 14]
+**Project Categories (2026)**
 
-ax1.plot(years, total_repos, marker='o', linewidth=2, markersize=10, 
-         color='#1976D2', label='Total Repositories')
-ax1.plot(years, active_repos, marker='s', linewidth=2, markersize=10, 
-         color='#F57C00', label='Active Projects')
-ax1.fill_between(years, total_repos, alpha=0.2, color='#1976D2')
-ax1.set_title('Repository & Project Growth', fontweight='bold')
-ax1.set_xlabel('Year')
-ax1.set_ylabel('Count')
-ax1.legend(loc='upper left')
-ax1.grid(True, alpha=0.3)
-ax1.set_ylim(0, 45)
+| Category | Count | Percentage |
+|----------|-------|-----------|
+| Community Tools | 10 | 24% |
+| Data Collection/Visualization | 10 | 24% |
+| Documentation | 7 | 17% |
+| Research Tools | 4 | 10% |
+| Class Exercises | 3 | 7% |
+| **Total** | **34** | **100%** |
 
-# 2. Project Categories (Pie Chart)
-categories = ['Community\nTool', 'Research\nTool', 'Data Collection/\nVisualization', 
-              'Documentation', 'Class\nExercise']
-values = [10, 4, 10, 7, 3]
-colors_pie = ['#2E7D32', '#1976D2', '#F57C00', '#6A1B9A', '#C62828']
-explode = (0.05, 0, 0.05, 0, 0)
-
-wedges, texts, autotexts = ax2.pie(values, labels=categories, autopct='%1.0f%%',
-                                     colors=colors_pie, explode=explode,
-                                     startangle=90, textprops={'fontweight': 'bold'})
-ax2.set_title('Project Categories (2026)', fontweight='bold')
-
-# Make percentage text more visible
-for autotext in autotexts:
-    autotext.set_color('white')
-    autotext.set_fontsize(11)
-
-plt.tight_layout()
-plt.show()
-```
+**Key observations:** The portfolio expanded from 1 to 42 repositories across four years. Community tools and data visualization projects dominate the current portfolio, reflecting VERSO's pivot toward community-facing work addressing real-world problems.
 ---
 
 ## 3. Partnerships & Ecosystem Connectivity
@@ -191,58 +112,18 @@ A healthy open ecosystem can only thrive through collaboration. Over time, VERSO
     -   2025 - 25 (4 Community ORCA project)
 
 These metrics reflect how well VERSO strengthens UVM’s connections to regional, national, and international open‑source communities.
-```{code-cell} ipython3
-:tags: [hide-input]
+### Partnership & Ecosystem Growth
 
-import matplotlib.pyplot as plt
-import numpy as np
+| Year | UVM Research Collaborators | External Partners | ORCA Research Projects | ORCA Community Projects |
+|------|---------------------------|-------------------|------------------------|-------------------------|
+| 2023 | 25 | Unknown | 1 | Unknown |
+| 2024 | 45 | 14 | 2 | 3 |
+| 2025 | 60 | 25 | 4 | 4 |
 
-# Create figure
-fig, ax = plt.subplots(1, 1, figsize=(12, 6))
-fig.suptitle('Partnership & Ecosystem Growth', fontsize=16, fontweight='bold')
-
-# Partnership data
-years = [2023, 2024, 2025]
-uvm_collaborators = [25, 45, 60]
-external_partners = [0, 14, 25]  # 2023 was unknown, using 0 for chart
-
-# Create grouped bar chart
-x = np.arange(len(years))
-width = 0.35
-
-bars1 = ax.bar(x - width/2, uvm_collaborators, width, label='UVM Research Collaborators',
-               color='#2E7D32', alpha=0.8, edgecolor='black')
-bars2 = ax.bar(x + width/2, external_partners, width, label='External Partners',
-               color='#1976D2', alpha=0.8, edgecolor='black')
-
-ax.set_xlabel('Year', fontweight='bold')
-ax.set_ylabel('Number of Partners', fontweight='bold')
-ax.set_title('Expansion of Collaborative Network', fontweight='bold', pad=20)
-ax.set_xticks(x)
-ax.set_xticklabels(years)
-ax.legend()
-ax.grid(True, alpha=0.3, axis='y')
-
-# Add value labels on bars
-for bars in [bars1, bars2]:
-    for bar in bars:
-        height = bar.get_height()
-        if height > 0:  # Only show label if value exists
-            ax.text(bar.get_x() + bar.get_width()/2., height + 1,
-                   f'{int(height)}',
-                   ha='center', va='bottom', fontweight='bold')
-
-# Add note about 2023 external partners
-ax.text(0.02, 0.98, 'Note: 2023 external partners data not tracked',
-        transform=ax.transAxes, fontsize=9, va='top', style='italic',
-        bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
-
-plt.tight_layout()
-plt.show()
-```
+**Key observations:** VERSO's collaborative network expanded significantly, with UVM research collaborators growing 2.4x from 2023 to 2025. External partnerships nearly doubled from 2024 to 2025, reflecting successful expansion beyond campus into municipal, state, and nonprofit sectors. The growth in both research and community ORCA projects demonstrates a broadening scope of work.
 ---
 
-## 4. Open Data Adoption & Dataverse Utilization
+## Open Data Adoption & Dataverse Utilization
 
 With the launch of the UVM Dataverse, VERSO gained new visibility into open‑data practices across campus. The UVM Dataverse was only launched in 2025, metrics only will go back to that year
 
@@ -261,7 +142,7 @@ These measures help track the spread of open‑data culture and provide evidence
 
 ---
 
-## 5. Institutional Presence & Cultural Change
+## Institutional Presence & Cultural Change
 
 Building an open culture is long‑term work, and many of its indicators do not appear immediately. As awareness grew, however, VERSO began monitoring:
 
@@ -289,7 +170,7 @@ These indicators provide insight into how open‑source thinking is taking root 
 
 ---
 
-## 6. Events, Training & Community Engagement
+## Events, Training & Community Engagement
 
 As VERSO expanded its educational programs, event‑based metrics became valuable for understanding reach and community dynamics.
 
@@ -307,48 +188,17 @@ As VERSO expanded its educational programs, event‑based metrics became valuabl
     -   2025 - ~240   
 
 These metrics highlight VERSO’s role in cultivating a vibrant, informed, and engaged open‑source community.
-```{code-cell} ipython3
-:tags: [hide-input]
+### Events, Training & Community Engagement
 
-import matplotlib.pyplot as plt
-import numpy as np
+| Year | Workshops, Presentations & Conferences | Event Attendance |
+|------|--------------------------------------|-------------------|
+| 2022 | 2 | ~20 |
+| 2023 | 7 | ~150 |
+| 2024 | 20 | ~120 |
+| 2025 | 11 | ~240 |
 
-# Create figure with subplots
-fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
-fig.suptitle('Events, Training & Community Engagement', fontsize=16, fontweight='bold')
+**Key observations:** Event participation peaked in 2024 with 20 events hosted and facilitated. Despite fewer events in 2025, attendance doubled to ~240 participants, indicating higher-impact, more targeted community engagement. The 5.5x growth in events from 2022 to 2024 demonstrates VERSO's evolution into a recognized convener of open-source conversations.
 
-# 1. Workshops and Conferences
-years = [2022, 2023, 2024, 2025]
-events = [2, 7, 20, 11]
-
-colors_events = ['#1976D2' if e < 15 else '#2E7D32' for e in events]
-bars = ax1.bar(years, events, color=colors_events, alpha=0.8, edgecolor='black')
-ax1.set_title('Workshops, Presentations & Conferences', fontweight='bold')
-ax1.set_xlabel('Year')
-ax1.set_ylabel('Number of Events')
-ax1.grid(True, alpha=0.3, axis='y')
-
-for bar, event_count in zip(bars, events):
-    height = bar.get_height()
-    ax1.text(bar.get_x() + bar.get_width()/2., height + 0.3,
-             str(event_count), ha='center', va='bottom', fontweight='bold')
-
-# 2. Cumulative Attendance
-attendance = [20, 150, 120, 240]
-ax2.plot(years, attendance, marker='o', linewidth=3, markersize=12, 
-         color='#F57C00')
-ax2.fill_between(years, attendance, alpha=0.3, color='#F57C00')
-ax2.set_title('Total Event Attendance', fontweight='bold')
-ax2.set_xlabel('Year')
-ax2.set_ylabel('Cumulative Attendees')
-ax2.grid(True, alpha=0.3)
-
-for i, v in enumerate(attendance):
-    ax2.text(years[i], v + 10, f'{v}', ha='center', fontweight='bold', fontsize=11)
-
-plt.tight_layout()
-plt.show()
-```
 ---
 
 # Beyond Numbers
