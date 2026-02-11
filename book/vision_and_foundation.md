@@ -1,4 +1,4 @@
-# The First Year
+# 2021–2022 Vision and Foundation
 
 The first year of VERSO established the program's scope, clarified what the office would and would not do, and laid the operational foundation for sustainable support of open research at UVM. This section captures the early decisions, infrastructure build-out, community partnerships, and pilot projects that shaped VERSO's identity, while documenting the initial research outputs and strategic pivots that set the trajectory for future growth.
 
@@ -11,6 +11,66 @@ VERSO officially began with the successful hiring and onboarding of its core lea
 - **John Meluso** joined on June 1, 2022, as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
 
 In 2025, Jonathan St-Onge transitioned to a research software engineer role. With these key hires, VERSO was well-positioned to begin its mission.
+
+## Timeline
+
+### Spring 2021
+- **Early 2021: Initial Conversations**
+  - Faculty, IT staff, and administrators at UVM recognize the lack of institutional support for open-source practices in research.
+  - Informal discussions coalesce around a shared vision: creating a dedicated office to support open source across the university.
+
+### Spring 2022
+- **2022: The Sloan Foundation Grant**
+  - VERSO receives a $635,000 grant from the Alfred P. Sloan Foundation over two years to establish an academic Open Source Program Office.
+  - This positions VERSO as one of the first academic OSPOs in the United States.
+
+- **April 24, 2022: Kendall Fortney Appointed Program Director**
+  - Kendall Fortney assumes the role of VERSO Program Director, providing strategic leadership and coordination.
+
+### Summer 2022
+- **June 1, 2022: John Meluso Joins as Postdoctoral Fellow**
+  - John Meluso is hired as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
+
+- **Mid-2022: Infrastructure Development Begins**
+  - VERSO secures office space in Howe Library's Center for Teaching and Learning (basement office).
+  - Collaborations with UVM TechTransfer establish processes for open-source licensing.
+  - A GitLab repository is set up through UVM IT to support project development.
+  - RFP process for open-source projects is launched.
+  - VERSO website is created to serve as a hub for resources and engagement.
+
+- **Summer 2022: First Six Months' Achievements**
+  - **Six pilot projects launched:**
+    1. Allotaxonometer Project – Translating proprietary tool to open-source
+    2. Boston Library Consortium Digital Lending Project
+    3. GIS Open Data Portal
+    4. Share Grant Resource Library
+    5. UVM Computes Project (Sloan-funded browser-based supercomputer)
+    6. UVM Press
+  - **Community Engagement:** Over 1,500 contributors involved; 9% increase in GitLab users since January 2022.
+  - **Key Outputs:** Open-source licensing guidelines, contribution templates, governance frameworks, and compliance checklists published.
+  - **Academic Publications Begin:** First research papers in development.
+
+- **August 22, 2022: EPSCoR Track 1 Proposal Submitted**
+  - VERSO submits proposal for continued funding, seeking to support 50% of the OSPO Director's salary and expand infrastructure across Vermont institutions.
+
+### Fall 2022
+- **September 2022: Conference Speaking Begins**
+  - **RIT Open Symposium 2022** (September 7-9, 2022) – Kendall Fortney participates in panel "OSPOs in Academia: What do they do? What could they do?" ([video](https://www.youtube.com/watch?v=OkpWxa2PPK8))
+  - **UC Santa Cruz Open Source Symposium 2022** (September 27-29, 2022) – Kendall Fortney participates in panel "OSPOs in Academia"
+
+- **October 2022: Community Engagement Events**
+  - **Burlington Data Scientist Meetup: How to Create, Find and Work with Open Data** (October 27, 2022) – Kendall Fortney and Jean-Gabriel Young (Assistant Professor in Statistics) speak at Hula in Burlington
+
+
+
+- **Fall 2022: Educational Pipeline Development**
+  - Weekly office hours established for student training in Git and open-source practices.
+  - Planning begins for upper-level course on open-source principles (scheduled for January 2024).
+
+- **August 2022–2023: Active Project Portfolio**
+  - **Active Projects:** ~1 major project in active development (Allotaxonometer).
+  - **Total Repositories:** 1 (private/public) primary focus.
+
 
 ## Establishing Infrastructure and Systems
 
@@ -44,9 +104,13 @@ Faculty across departments played a central role in each initiative, with effort
 
 VERSO made significant strides in training and education:
 
-- A new upper-level course on open-source principles was set to launch in January 2024, co-taught by Lovato and Fortney, with materials available both for credit and as a MOOC on YouTube.
 - The VERSO website served as a hub for learning, featuring blogs, event announcements, and open-source resources.
 - Weekly office hours in the library supported student training in Git and open-source practices.
+
+- **Fall 2022: Guest Lectures Begin**
+  - UVM – CDAE 060 Design Innovation I (Sarah Williamson) – October 3, 2022
+  - UVM – CS 120 QR: Advanced Programming (Lisa Dion) – October 25, 2022
+  - UVM – CDAE 395: Ecological Economics Applications (Joshua Farley) – October 25, 2022
 
 ## Research and Academic Contributions
 

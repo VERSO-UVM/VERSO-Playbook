@@ -1,25 +1,25 @@
-root: bibliography
+root: intro
 entries:
-- file: intro
-  title: VERSO Playbook
 - file: why_verso
   title: Why VERSO Was Created
 - file: context_and_landscape
   title: Context and Landscape
-- file: the_first_year
-  title: The First Year
-- file: timeline
-  title: Timeline
-- file: tools_infrastructure_and_policies
-  title: Tools, Infrastructure, and Policies
+- file: vision_and_foundation
+  title: 2021 to 2022 Vision and Foundation
+- file: growth_and_institutionalization
+  title: 2023 Growth and Institutionalization
+- file: expansion_and_repositioning
+  title: 2024 Expansion and Repositioning
+- file: maturation_and_impact
+  title: 2025 Maturation and Impact
 - file: student_engagement_through_ORCA
   title: Student Engagement Through ORCA
+- file: tools_infrastructure_and_policies
+  title: Tools, Infrastructure, and Policies
 - file: measuring_impact
   title: Measuring Impact
 - file: failures_and_lessons_learned
   title: Failures and Lessons Learned
-- file: scaling_and_other_challenges
-  title: Scaling and Other Challenges
 - file: sustainability_and_the_future
   title: Sustainability and the Future
 
