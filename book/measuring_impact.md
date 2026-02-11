@@ -7,9 +7,7 @@ However, the path to measurement was far from straightforward. What we assumed w
 
 One of the earliest examples of this difficulty came from trying to gather statistics from the UVM‑hosted GitLab instance about the number of public repositories. A first‑pass query showed 43 repositories with open‑source licenses—yet one repository, upon inspection, consisted solely of a README stating: *“I had no idea we had a GitLab.”* The situation on GitHub was even more complicated: while we found nearly 14,000 public repositories referencing “UVM,” attributing them to actual UVM faculty, staff, or students was nearly impossible because most people used personal GitHub accounts. Attempts to catalogue those accounts raised important questions around privacy, autonomy, and the role of a university office in indexing individuals’ digital identities.
 
-Beyond this, broader ecosystem metrics were opaque. UVM’s GitLab instance had low adoption, GitHub attribution was unreliable, and large open‑source projects involving UVM were often co‑owned by collaborators at many institutions. In these cases, what did “UVM ownership” even mean?
-
-Ultimately, we recognized that measuring the entire “open‑source ecosystem” was neither concrete nor functional. Instead, we pivoted toward creating our own projects—initiatives where we could define measurable goals, control data quality, and document clear outcomes.
+Beyond this, broader ecosystem metrics were opaque. UVM’s GitLab instance had low adoption, GitHub attribution was unreliable, and large open‑source projects involving UVM were often co‑owned by collaborators at many institutions. In these cases, what did “UVM ownership” even mean? We recognized that measuring the entire “open‑source ecosystem” was neither concrete nor functional. Instead, we pivoted toward creating our own projects—initiatives where we could define measurable goals, control data quality, and document clear outcomes.
 
 ---
 
@@ -48,8 +46,6 @@ These metrics illuminate how VERSO prepares students for open‑source practice 
 | **Total Hours Contributed** | 338 | 4,414 | 3,166 |
 | **Average Hours per Student** | 68 | 177 | 106 |
 | **Retention Rate** | 60% (3/5) | 72% (18/25) | 73% (22/30) |
-
-**Key observations:** Student participation grew 6x from 2023 to 2025. While total hours peaked in 2024, the program maintained strong retention rates (exceeding 70% target by 2024). The average hours per student reflects a shift toward more focused, intensive projects by 2025.
 
 ---
 
@@ -93,7 +89,6 @@ These indicators help quantify VERSO’s ability to produce high‑quality, open
 | Class Exercises | 3 | 7% |
 | **Total** | **34** | **100%** |
 
-**Key observations:** The portfolio expanded from 1 to 42 repositories across four years. Community tools and data visualization projects dominate the current portfolio, reflecting VERSO's pivot toward community-facing work addressing real-world problems.
 ---
 
 ## 3. Partnerships & Ecosystem Connectivity
@@ -107,20 +102,18 @@ A healthy open ecosystem can only thrive through collaboration. Over time, VERSO
     -   2024 - 45 (2 research ORCA project)
     -   2025 - 60 (4 research ORCA projects)
 - **External partners** - Collaboration with nonprofits, state agencies, local governments, and other universities either from project exploration to building software. This is approximate, this is not stored in an easy to find system, especially year to year as once a partnership is created it may be in a semi-active state.
-    -   2023 - Unknown
     -   2024 - 14 (3 Community ORCA project)
-    -   2025 - 25 (4 Community ORCA project)
+    -   2025 - 25 (10 Community ORCA project)
 
 These metrics reflect how well VERSO strengthens UVM’s connections to regional, national, and international open‑source communities.
 ### Partnership & Ecosystem Growth
 
 | Year | UVM Research Collaborators | External Partners | ORCA Research Projects | ORCA Community Projects |
 |------|---------------------------|-------------------|------------------------|-------------------------|
-| 2023 | 25 | Unknown | 1 | Unknown |
+| 2023 | 25 | 0 | 1 | 0 |
 | 2024 | 45 | 14 | 2 | 3 |
-| 2025 | 60 | 25 | 4 | 4 |
+| 2025 | 60 | 25 | 4 | 10 |
 
-**Key observations:** VERSO's collaborative network expanded significantly, with UVM research collaborators growing 2.4x from 2023 to 2025. External partnerships nearly doubled from 2024 to 2025, reflecting successful expansion beyond campus into municipal, state, and nonprofit sectors. The growth in both research and community ORCA projects demonstrates a broadening scope of work.
 ---
 
 ## Open Data Adoption & Dataverse Utilization
@@ -196,8 +189,6 @@ These metrics highlight VERSO’s role in cultivating a vibrant, informed, and e
 | 2023 | 7 | ~150 |
 | 2024 | 20 | ~120 |
 | 2025 | 11 | ~240 |
-
-**Key observations:** Event participation peaked in 2024 with 20 events hosted and facilitated. Despite fewer events in 2025, attendance doubled to ~240 participants, indicating higher-impact, more targeted community engagement. The 5.5x growth in events from 2022 to 2024 demonstrates VERSO's evolution into a recognized convener of open-source conversations.
 
 ---
 
