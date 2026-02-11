@@ -1,11 +1,11 @@
-root: intro
+root: bibliography
 entries:
+- file: intro
+  title: VERSO Playbook
 - file: why_verso
   title: Why VERSO Was Created
 - file: context_and_landscape
   title: Context and Landscape
-- file: structuring_the_office
-  title: Structuring the Office
 - file: the_first_year
   title: The First Year
 - file: timeline
@@ -17,11 +17,9 @@ entries:
 - file: measuring_impact
   title: Measuring Impact
 - file: failures_and_lessons_learned
-  title: Failures, Pivots, and Adaptations
+  title: Failures and Lessons Learned
 - file: scaling_and_other_challenges
   title: Scaling and Other Challenges
 - file: sustainability_and_the_future
   title: Sustainability and the Future
-- file: bibliography
-  title: Bibliography
 
