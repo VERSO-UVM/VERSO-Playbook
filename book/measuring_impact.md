@@ -42,9 +42,8 @@ These metrics illuminate how VERSO prepares students for open‑source practice 
 
 | Metric | 2023 | 2024 | 2025 |
 |--------|------|------|------|
-| **Student Participants** | 5 | 25 | 30 |
-| **Total Hours Contributed** | 338 | 4,414 | 3,166 |
-| **Average Hours per Student** | 68 | 177 | 106 |
+| **Total Student Participants** | 5 | 25 | 40 |
+| **Total Hours Contributed** | 338 | 4,414 | 7,850 |
 | **Retention Rate** | 60% (3/5) | 72% (18/25) | 73% (22/30) |
 
 ---
@@ -64,9 +63,7 @@ As VERSO’s work expanded, the number and diversity of open‑source projects b
     -   Data Collection or Visualization - 10 projects
     -   Documentation - 7 projects
     -   Class Exercise - 3 projects
-- **Project maturity metrics** - Metrics of completed milestones, release cycles, or adoption by users beyond UVM would be ideal to collect, but developing the api call to receive these stats has not happened yet
 
-These indicators help quantify VERSO’s ability to produce high‑quality, open, and reusable software aligned with academic research needs.
 ### Project Portfolio & Research Output
 
 **Repository & Project Growth**
@@ -77,17 +74,6 @@ These indicators help quantify VERSO’s ability to produce high‑quality, open
 | 2023 | 4 | 4 |
 | 2024 | 23 | 17 |
 | 2025 | 42 | 14 |
-
-**Project Categories (2026)**
-
-| Category | Count | Percentage |
-|----------|-------|-----------|
-| Community Tools | 10 | 24% |
-| Data Collection/Visualization | 10 | 24% |
-| Documentation | 7 | 17% |
-| Research Tools | 4 | 10% |
-| Class Exercises | 3 | 7% |
-| **Total** | **34** | **100%** |
 
 ---
 
@@ -144,11 +130,7 @@ Building an open culture is long‑term work, and many of its indicators do not 
     -   2023 - 1
     -   2024 - 3
     -   2025 - 4
-- **Growth of openly licensed repositories** -  Count of Gitlab or Github openly licensed repositories.This is more a minimum as it is impossible to see all repos and while we have unknown here, we do no
-    -   2022 - unknown
-    -   2023 - unknown
-    -   2024 - unknown
-    -   2025 - unknown
+- **Growth of openly licensed repositories** -  Count of Gitlab or Github openly licensed repositories.This metric proved to be impossible to see all repos and while aspirational is not functional
 - **Requests for consultations** - Count of class guest lectures by VERSO
     -   2022-2023 Academic Year - 8
     -   2023-2024 Academic Year - 6
@@ -167,20 +149,6 @@ These indicators provide insight into how open‑source thinking is taking root 
 
 As VERSO expanded its educational programs, event‑based metrics became valuable for understanding reach and community dynamics.
 
-**Metrics include:**
-
-- **Workshops, Presenations, and Conferences** - Count of all presentations both internal and external to UVM from small events to big events 
-    -   2022 - 2
-    -   2023 - 7
-    -   2024 - 20
-    -   2025 - 11
-- **Attendance levels** - Cumulative number of total attendees to VERSO organized events
-    -   2022 - ~20
-    -   2023 - ~150
-    -   2024 - ~120
-    -   2025 - ~240   
-
-These metrics highlight VERSO’s role in cultivating a vibrant, informed, and engaged open‑source community.
 ### Events, Training & Community Engagement
 
 | Year | Workshops, Presentations & Conferences | Event Attendance |
@@ -195,6 +163,4 @@ These metrics highlight VERSO’s role in cultivating a vibrant, informed, and e
 # Beyond Numbers
 
 While metrics provide snapshots of progress, they cannot capture transformation on their own. The number of workshops held or repositories created illustrates activity but not meaning. To fully understand VERSO’s impact, we must also embrace stories, testimonials, unexpected outcomes, and culture shifts—forms of impact that numbers alone cannot quantify.
-
-Metrics matter. But ultimately, they are only one part of a broader narrative about building a sustainable, equitable, and open ecosystem at UVM.
 

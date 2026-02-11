@@ -1,6 +1,6 @@
 # 2022 Vision and Foundation
 
-The first year of VERSO established the program's scope, clarified what the office would and would not do, and laid the operational foundation for sustainable support of open research at UVM. This section captures the early decisions, infrastructure build-out, community partnerships, and pilot projects that shaped VERSO's identity, while documenting the initial research outputs and strategic pivots that set the trajectory for future growth.
+The first year of VERSO established the program's scope, clarified what the office would and would not do, and laid the operational foundation for sustainable support of open research at UVM. This section captures the early decisions, infrastructure build-out, community partnerships, and pilot projects that shaped VERSO's identity. For additional context on the broader landscape and motivations, see [Why VERSO Was Created](why_verso.md) and [Context and Landscape](context_and_landscape.md).
 
 ## Building the Team and Launching the Program
 
@@ -16,7 +16,7 @@ VERSO received a $635,000 grant from the Alfred P. Sloan Foundation over two yea
 
 ### Summer 2022
 
-Mid-2022 marked a critical phase of infrastructure development for VERSO. The office secured dedicated space in Howe Library's Center for Teaching and Learning, established processes for open-source licensing with UVM TechTransfer, and set up a GitLab repository through UVM IT for project management. VERSO launched a formal RFP process and created a website as a central resource hub. On June 1, 2022, John Meluso joined as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
+Mid-2022 marked a critical phase of infrastructure development for VERSO. The office secured dedicated space in Howe Library's Center for Teaching and Learning, established processes for [open-source licensing](tools_infrastructure_and_policies.md) with UVM TechTransfer, and set up a GitLab repository through UVM IT for project management. VERSO launched a formal RFP process and created a website as a central resource hub. On June 1, 2022, John Meluso joined as the Sloan VERSO Postdoctoral Fellow for Systems, Organizations, & Inclusion.
 
 **Six pilot projects launched:**
 
@@ -24,7 +24,7 @@ Mid-2022 marked a critical phase of infrastructure development for VERSO. The of
 
 2. **Boston Library Consortium Digital Lending Project** – Collaborating on tools that support the sharing and lending of digital books. Controlled Digital Lending (CDL) is a method that allows libraries to loan print books to digital patrons in a "lend like print" fashion, with technical controls to ensure a consistent "owned-to-loaned" ratio. This project stopped after a legal decision made the practice illegal.
 
-3. **[GIS Open Data Portal](https://ope-uvm.hub.arcgis.com/)** – Building a centralized ArcGIS Hub to publish public-facing maps, datasets, and dashboards, making UVM geospatial research easier to discover and reuse. This project later led to the UVM Dataverse.
+3. **[GIS Open Data Portal](https://ope-uvm.hub.arcgis.com/)** – Building a centralized ArcGIS Hub to publish public-facing maps, datasets, and dashboards, making UVM geospatial research easier to discover and reuse. This project laid groundwork that later evolved into the [UVM Dataverse](tools_infrastructure_and_policies.md) infrastructure.
 
 4. **UVM Press** – Supporting Diamond open-access journals hosted on the UVM Press platform by helping with publishing workflows, metadata standards, and the software pipelines through the open source software OJS to manage submissions, peer review, and dissemination.
 
@@ -67,7 +67,7 @@ VERSO began developing a comprehensive playbook to guide academic OSPO activitie
 
 VERSO established itself as one of the first academic Open Source Program Offices in the United States, anchored by a $635,000 grant from the Alfred P. Sloan Foundation. The core team assembled quickly, with Kendall Fortney providing strategic direction as Program Director, Jonathan St-Onge conducting research on coding education, and John Meluso leading organizational development. By mid-2022, critical infrastructure was in place: dedicated office space in Howe Library, a website serving as a resource hub, a GitLab repository for project management, and formalized processes for open-source licensing. Six diverse pilot projects were launched across research, publishing, and community engagement, demonstrating VERSO's capacity to support faculty-led innovation across the university.
 
-Throughout its inaugural year, VERSO built momentum through community engagement and knowledge sharing. The team delivered guest lectures in three UVM courses, established weekly office hours for student training, and participated in major national conferences on open-source practices in academia. Research contributions from team members advanced understanding of open-source ecosystems, while multiple funding proposals—including an EPSCoR Track 1 proposal and Google Open Source renewal—positioned the office for sustainable growth. By fall 2022, VERSO had demonstrated both operational capacity and institutional value, laying a solid foundation for expansion across Vermont institutions and the broader academic community.
+Throughout its inaugural year, VERSO built momentum through community engagement and knowledge sharing. The team delivered guest lectures in three UVM courses, established weekly office hours for student training, and participated in major national conferences on open-source practices in academia. Research contributions from team members advanced understanding of open-source ecosystems, while multiple funding proposals positioned the office for [sustainable growth](sustainability_and_the_future.md). By fall 2022, VERSO had demonstrated both operational capacity and institutional value, laying a solid foundation for the [growth and institutionalization](growth_and_institutionalization.md) that followed in 2023.
 
 
 
