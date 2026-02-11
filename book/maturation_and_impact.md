@@ -68,10 +68,3 @@ External partnerships grew to 25, reflecting VERSO's evolution into a regional h
 
 **Podcast and Media:** Innova802 Podcast on open-source community impact (September 2024)
 
----
-
-## Looking Ahead
-
-As VERSO moves beyond its first three years, it stands at an inflection point. With demonstrated impact on student outcomes, research collaboration, and community engagement, the office is transitioning from a grant-funded pilot program to an integrated institutional asset. The continued growth in partnerships, projects, and participants suggests that VERSO's model—combining enablement, community, and sustainability—resonates across diverse stakeholders.
-
-The timeline of VERSO reflects a broader shift in higher education: the recognition that open-source practices are not peripheral to research, but central to its future. By documenting this journey—successes and struggles alike—VERSO serves as both a record of one institution's transformation and a map for others following a similar path.

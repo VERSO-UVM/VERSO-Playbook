@@ -356,4 +356,4 @@ plt.show()
 While metrics provide snapshots of progress, they cannot capture transformation on their own. The number of workshops held or repositories created illustrates activity but not meaning. To fully understand VERSO’s impact, we must also embrace stories, testimonials, unexpected outcomes, and culture shifts—forms of impact that numbers alone cannot quantify.
 
 Metrics matter. But ultimately, they are only one part of a broader narrative about building a sustainable, equitable, and open ecosystem at UVM.
-``
+
