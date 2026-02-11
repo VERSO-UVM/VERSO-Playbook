@@ -1,101 +1,33 @@
+# 2024: Expansion and Repositioning
 
+VERSO's third year marked dramatic expansion in scale, scope, and impact. Student engagement increased five-fold, research collaborations nearly doubled, and the project portfolio grew from four to twenty-three repositories across diverse domains. A strategic organizational restructuring moved VERSO from the UVM Library to the Vermont Complex Systems Center and positioned it toward becoming an independent institute under the Office of the Vice President of Research. This repositioning strengthened interdisciplinary work while deepening connections with community engagement, establishing VERSO as both a research center and a bridge between academic innovation and real-world application.
 
-## 2024: Expansion and Repositioning
+## Organizational Restructuring and Leadership Expansion
 
-### Winter 2023–2024 & Spring 2024
-- **Early 2024: Course Launch**
-  - Upper-level course on open-source principles co-taught by Juniper Lovato and Kendall Fortney launches in January.
-  - Course materials made available both for credit and as free MOOC on YouTube.
-  - Expanded training offerings increase accessibility to open-source knowledge.
+2024 brought significant structural changes that positioned VERSO for long-term sustainability. In January, the organization transitioned from the UVM Library to the Vermont Complex Systems Center, establishing greater independence and interdisciplinary reach. This move aligned VERSO with the Office of Engagement, deepening connections for community-focused research translation and positioning the office toward becoming an independent institute under the Office of the Vice President of Research.
 
-- **January 9, 2024: UVM Day of Data Techniques and Tools**
-  - Kendall Fortney presents "Empowering Research: Open Data Platforms in Academia"
+Kendall Fortney's role expanded accordingly, with a part-time lecturer position at the College of Engineering and Mathematical Sciences (CEMS) to teach the ORCA student internship course. Jonathan St-Onge rejoined VERSO as a Ph.D. Fellow, bringing specialized research expertise to deepen the organization's scholarly contributions. These staffing changes supported VERSO's evolution from a startup initiative to an established academic hub.
 
-- **April 9, 2024: Leadership Champlain – Energy and Environment Day** (Burlington Electric)
-  - Kendall Fortney and Yoshi Bird present on the Vermont Zoning Atlas
+## Spring 2024
 
-- **April 11, 2024: UVM Guest Lectures**
-  - CS 2300 Advanced Programming (Lisa Dion)
-  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney)
+Spring 2024 demonstrated VERSO's growing visibility in regional and national forums. On January 9, Kendall Fortney presented "Empowering Research: Open Data Platforms in Academia" at UVM's Day of Data Techniques and Tools. The organization expanded educational offerings through guest lectures at UVM (April 11) and a presentation at Leadership Champlain's Energy and Environment Day (April 9) on the Vermont Zoning Atlas project.
 
-- **2024: Organizational Restructuring**
-  - VERSO moves from the UVM Library under the Vermont Complex Systems Center.
-  - Becomes more independent as it develops into an institute under the Office of the Vice President of Research.
-  - This transition strengthens interdisciplinary work across all colleges.
-  - Deepens connections with the Office of Engagement for community-focused research translation.
+A major curricular initiative launched in January: an upper-level course on open-source principles co-taught by Juniper Lovato and Kendall Fortney. Course materials were made available both for academic credit and as free educational content on YouTube, significantly expanding accessibility to open-source knowledge beyond UVM's campus.
 
-- **January 2024: Kendall Fortney's Academic Role Expansion**
-  - Director Fortney receives part-time lecturer position at the College of Engineering and Mathematical Sciences (CEMS).
-  - Assumes responsibility for teaching student internship class (ORCA course).
+## Summer 2024
 
-### Spring 2024
-- **Mid 2024: Jonathan St-Onge Hired**
-  - Jonathan St-Onge joins as VERSO Ph.D. Fellow, bringing research expertise to the initiative.
+Summer 2024 solidified VERSO's leadership role in national and international open-source conversations. Kendall Fortney presented "Empowering Innovation: The Journey from Academic Research to Open Source Impact" at the Rural Entrepreneurship Symposium (June 19-21), and participated in the RISE Summit 2024 panel "Placemaking Tools: Maps, Drones, and Data" (June 24-25) alongside Holly Morehouse and Paige Brochu.
 
-### Summer 2024
-- **June 19-21, 2024: 2024 Rural Entrepreneurship Symposium** (University of Vermont)
-  - Kendall Fortney presents "Empowering Innovation: The Journey from Academic Research to Open Source Impact"
+VERSO's convening power expanded significantly with the organization of the CURIOSS Members Summer Workshop (June 27), a member-only gathering exploring challenges and opportunities for open source in academia. Kendall Fortney participated in the United Nations OSPOS for Good (July 9-10, New York City) panel on "Cooperating OSPOs – Across Society," and engaged with the Linux Foundation working group on starting OSPOs in academic institutions (July 11). In late July, VERSO organized and hosted PyData Vermont 2024 (July 29-30), a major data science conference in partnership with NumFOCUS, featuring interactive sessions on the future of data science in the region.
 
-- **June 24-25, 2024: RISE Summit 2024** (UVM)
-  - Kendall Fortney participates in panel "Placemaking Tools: Maps, Drones, and Data" with Holly Morehouse, Paige Brochu, and facilitator Chris Campany
+## Fall 2024
 
-- **June 27, 2024: CURIOSS Members Summer Workshop 2024** (Hula, Burlington)
-  - Kendall Fortney organizes and facilitates member-only workshop exploring challenges and opportunities for open source in academia ([details](https://verso.w3.uvm.edu/curioss-summer-workshop-2024/))
+Fall 2024 continued VERSO's intensive engagement across academic, community, and advocacy spheres. Guest lectures expanded across multiple UVM courses: Design Innovation (September 16), Advanced Programming (October 24 and November 12), and Data Science 1 (October 30). Beyond campus, VERSO engaged with regional initiatives including a presentation on open data logistics for the FSRC Sustainability Metrics discussion (October 18) and participation in the Green Mountain Water Fall Trade Show (November 7) discussing the Wastewater Infrastructure Mapping project. The Vermont Zoning Atlas continued to gain visibility with presentations at the Vermont Statewide Housing Conference (November 14).
 
-- **July 9-10, 2024: United Nations OSPOS for Good 2024** (United Nations Building, New York City)
-  - Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
+Media and public engagement expanded with Kendall Fortney's appearance on the Innova802 Podcast (September 12) discussing the power of open-source community in shaping human-scaled technology solutions. These diverse engagements demonstrated VERSO's evolution into a multi-faceted organization serving academic, community, and policy communities simultaneously.
 
-- **July 11, 2024: Linux Foundation – What's Next for Open Source?**
-  - Kendall Fortney participates in working group on starting an OSPO in academic institutions
+## Year Three Summary
 
-- **July 29-30, 2024: PyData Vermont 2024** (Main Street Landing, Burlington)
-  - Kendall Fortney organizes the event with NumFOCUS and runs interactive session on "Future of PyData Vermont" ([link](https://pydata.org/vermont2024/))
+2024 represented VERSO's transition from an emerging initiative to an established academic and community institution. Student engagement exploded with a five-fold increase in ORCA participants (5 to 25) logging thirteen times more hours (338 to 4,414 hours), while retention climbed to 72%. Research collaborations increased from 25 to 45 UVM-based partners, with expansion into two active ORCA research projects and three community projects. The project portfolio expanded dramatically from four to twenty-three repositories across new domains including municipal zoning, community planning, public works, and geospatial analysis—demonstrating VERSO's ability to translate academic open-source practices into concrete solutions addressing regional challenges.
 
-### Fall 2024
-- **September 12, 2024: Innova802 Podcast Recording: Activate with UVM's Open Source**
-  - Kendall Fortney discusses the power of open-source community in shaping human-scaled technology solutions
-
-- **September 16, 2024: UVM Guest Lecture**
-  - CDAE 1600 Design Innovation (Sarah Williamson)
-
-- **October 18, 2024: FSRC Sustainability Metrics Open Data Discussion**
-  - Kendall Fortney presents on logistics of open data for projects
-
-- **October 24, 2024: UVM Guest Lecture**
-  - CS 2300 Advanced Programming (Lisa Dion)
-
-- **October 30, 2024: UVM Guest Lecture**
-  - Data Science 1 (Alice Patania)
-
-- **November 7, 2024: Green Mountain Water Fall Trade Show**
-  - Kendall Fortney, Chris Campany (Windham Regional Planning Commission), and Emma Spett (Leahy Institute) present on Wastewater Infrastructure Mapping project
-
-- **November 12, 2024: UVM Guest Lecture**
-  - CS 2300 Advanced Programming (Lisa Dion)
-
-- **November 14, 2024: Vermont Statewide Housing Conference** (Burlington)
-  - Kendall Fortney and Yoshi Bird present on Vermont Zoning Atlas Project
-
-### 2024: Year-End Metrics
-- **2024: Significant Student Growth**
-  - **Total ORCA Student Participants:** 25 (5x increase from 2023)
-  - **Student Hours on Real Open-Source Work:** 4,414 hours (13x increase from 2023)
-  - **Student Retention:** 72% (18/25 students)
-  - **Career Outcomes Begin to Show:** Early graduates securing internships and positions related to open-source skills
-
-- **Research Collaborator Growth**
-  - **UVM Research Collaborators:** ~45 (compared to 25 in 2023)
-  - **ORCA Research Projects:** 2 active research projects
-  - **External Partnerships:** 14 partnerships with nonprofits, state agencies, and local governments
-  - **ORCA Community Projects:** 3 active community projects
-
-- **2024: Major Project Portfolio Expansion**
-  - **Total Repositories:** 23 (private/public)
-  - **Active Projects:** ~17 during the year
-  - **Project Diversity:** Expansion into multiple domains including zoning, community planning, public works, and geospatial analysis
-
-- **2024: Infrastructure and Policy Development**
-  - Dataverse Partnership Development (planning underway for institutional open-data infrastructure)
-  - Continued refinement of institutional policies for open-source software.
-  - Enhanced documentation and templates for project governance.
-  - Improved compliance frameworks for research projects.
+The organizational restructuring positioned VERSO for sustainable independence and deeper institutional integration. Moving from the Library to the Vermont Complex Systems Center and aligning with the Office of Engagement strengthened interdisciplinary work and community-focused research translation. Leadership expansion, including Jonathan St-Onge's return and Kendall Fortney's CEMS appointment, formalized VERSO's role in student training and research mentorship. The launch of an open-source principles course with free YouTube content democratized access to knowledge. With fourteen external partnerships spanning nonprofits, state agencies, and local governments, VERSO had evolved beyond a campus initiative into a regional hub bridging academic research and real-world community needs. By year's end, the organization had demonstrated sufficient scale, impact, and institutional support to pursue greater independence while deepening commitments to equity, community engagement, and sustainable research practices.

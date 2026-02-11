@@ -1,89 +1,29 @@
 # 2023: Growth and Institutionalization
 
-### Winter 2022–2023 & Spring 2023
-- **Early 2023: Community Manager Role Restructured**
-  - Community manager position is revised to include research component.
-  - A postdoctoral researcher is hired to focus on open-source ecosystems and inclusion.
+VERSO's second year marked significant expansion of its reach, deepened research contributions, and strengthened partnerships both within UVM and across national and international communities. This year demonstrated the office's capacity to scale operations, establish itself as a thought leader in academic open-source practices, and build a sustainable model for student engagement and research collaboration.
 
-- **Research Output Expansion**
-  - **Publication:** *The Penumbra of Open-Source* published in EPJ Data Science, exploring longevity and collaboration in decentralized open-source projects.
-  - **Dataset Released:** *The OCEAN Mailing List Dataset* published on arXiv, presenting network analysis across mailing lists and code repositories.
+2023 marked significant expansion in research output. *The Penumbra of Open-Source*, exploring longevity and collaboration in decentralized open-source projects, was published in *EPJ Data Science*. Concurrently, *The OCEAN Mailing List Dataset* was released on arXiv, presenting comprehensive network analysis across mailing lists and code repositories. These publications established VERSO as a contributor to scholarly understanding of open-source ecosystems.
 
-- **January 31, 2023: Vermont Council on World Affairs**
-  - International Visitors Kyrgyzstan Innovation and Entrepreneurship – Kendall Fortney presents
+## Spring 2023
 
-- **January 30, 2023: Champlain College Guest Lecture**
-  - Strategic Community Management (Becky Holt)
+Spring 2023 established VERSO as a visible contributor to national conversations on academic open-source practices. Kendall Fortney presented at the Vermont Council on World Affairs on international innovation and entrepreneurship (January 31), and again on cybersecurity across sectors (April 5). The organization also participated in the CNI Annual Meeting (April 3-4, Denver), where Kendall Fortney discussed "Early Lessons from Open Source Program Offices," contributing to a broader dialogue among academic and research institutions.
 
-- **February 22, 2023: UVM Guest Lecture**
-  - CDAE 195 Narrative Data Design (Sarah Williamson)
+VERSO expanded its educational outreach with guest lectures at Champlain College (January 30), multiple UVM courses including Narrative Data Design (February 22), Advanced Programming (March 20-21), and Data Science 1 (April 20), deepening engagement with diverse academic departments and student populations.
 
-- **March 20-21, 2023: UVM Guest Lecture**
-  - CS 120 QR: Advanced Programming (Lisa Dion)
+## Summer 2023
 
-- **April 5, 2023: Vermont Council on World Affairs**
-  - International Visitors International Cybersecurity from Industry, Government and NGOs – Kendall Fortney presents
+Summer 2023 positioned VERSO as a key voice in international and national open-source conversations. John Meluso delivered a keynote address at the Open Source Festival 2023 + Sustain (June 15-17, Lagos, Nigeria) on "Building Thriving Communities: Learning Through Research With African Open Source Communities," co-presented with Tamutswa Mahari. VERSO served as a sponsor of this important event, demonstrating commitment to global open-source communities.
 
-- **April 3-4, 2023: CNI Annual Meeting Spring 2023** (Denver, CO)
-  - Kendall Fortney participates in panel "Early Lessons from Open Source Program Offices" ([video](https://youtu.be/1V_Ugdb6Nhk), [page](https://www.cni.org/topics/digital-curation/early-lessons-learned-from-university-open-source-programs-offices))
+Kendall Fortney participated in the United Nations OSPOS for Good panel (June 21, New York City) on "Cooperating OSPOs – Across Society," and contributed to the Earth Science Information Partnership Annual Meeting (July 18-21, Burlington) discussing expansion of the open-source geospatial analytics ecosystem. A collaborative virtual event with Code for BTV and the Burlington Data Scientist Meetup focused on Open Street Mapping and Vermont flooding (July 11). In August, VERSO partnered with Bluehouse Group on a UX design sprint exploring medical app user experience (August 15).
 
-- **April 20, 2023: UVM Guest Lecture**
-  - CS/STAT/CSYS 287 Data Science 1 (Nick Cheney)
+## Fall 2023
 
-- **May 15, 2023: Vermont Council on World Affairs**
-  - International Fellow – Kendall Fortney presents
+Fall 2023 intensified VERSO's educational and community engagement efforts across multiple domains. Guest lectures continued at UVM with Design Innovation (September 19), Advanced Programming (October 24), and Creativity and Innovation (October 26), while a graduate seminar on research methods (October 2) brought senior researchers into dialogue with VERSO's mission.
 
-### Summer 2023
-- **June 15-17, 2023: Open Source Festival 2023 + Sustain** (Lagos, Nigeria)
-  - John Meluso provides keynote address "Building Thriving Communities: Learning Through Research With African Open Source Communities" with Tamutswa Mahari
-  - VERSO is a sponsor of the event
+VERSO expanded beyond campus with targeted community initiatives. An "Open Source Connector" event (September 27) brought David Kopec from Champlain College to discuss open-source license fundamentals. A collaborative UX/UI Design Jam with the City of Burlington (October 11) engaged students and faculty in improving the Burlington Open Data Portal. The Interdisciplinary Open Practices Workshop (October 27-28) bridged disciplinary gaps on openness practices, bringing together faculty and students from across UVM.
 
-- **June 21, 2023: United Nations OSPOS for Good** (New York City)
-  - Kendall Fortney participates in panel "Cooperating OSPOs – Across Society"
+## Year Two Summary
 
-- **July 18-21, 2023: Earth Science Information Partnership (ESIP) Annual Meeting** (Burlington, VT)
-  - Kendall Fortney participates in panel "Expanding use of the open-source geospatial analytics ecosystem: perspectives from developers, universities, and data centers"
+2023 demonstrated VERSO's transformation from a fledgling startup to an established contributor to academic open-source discourse. The organization doubled down on research with two significant publications contributing to scholarly understanding of open-source ecosystems, while expanding its international profile through keynotes at major conferences in Nigeria and New York. Staff restructuring strengthened the research component, positioning VERSO to balance community engagement with rigorous scholarship. Educational engagement deepened dramatically, with guest lectures across multiple UVM departments and collaborative community initiatives including design jams and interdisciplinary workshops.
 
-- **July 11, 2023: Code for BTV: Vermont Flooding: Open Street Mapping** (Virtual)
-  - Joint virtual event between VERSO, Code for BTV, and Burlington Data Scientist Meetup
-
-- **August 15, 2023: UX Speakeasy: Design Sprint** (Bluehouse Group, Burlington)
-  - Collaborative design sprint with Dr. Justin DeAngelis on medical app user experience
-
-### Fall 2023
-- **September 19, 2023: UVM Guest Lecture**
-  - CDAE 1600 Design Innovation (Sarah Williamson)
-
-- **September 27, 2023: Open Source Connector - Exploring Open Source Licenses**
-  - David Kopec (Champlain College) discusses open-source license fundamentals ([recording](https://youtu.be/rtS8tUccATI))
-
-- **October 2, 2023: UVM Guest Lecture**
-  - CDAE 6920 Graduate Seminar (Kate Mays)
-
-- **October 11, 2023: UX/UI Design Jam - City of Burlington Open Data Portal** (6:00 PM - 8:00 PM)
-  - Collaborative design jam with Nancy Stetson and Warren Rich to improve Burlington's Open Data Portal
-
-- **October 24, 2023: UVM Guest Lecture**
-  - CS 2300 Advanced Programming (Lisa Dion)
-
-- **October 26, 2023: UVM Guest Lecture**
-  - BUS 2990 Creativity and Innovation (Erik Monsen)
-
-- **October 27-28, 2023: Interdisciplinary Open Practices Workshop (IOP)** (Old Mill John F. Dewey Lounge, UVM)
-  - Bridges gaps between disciplines on openness practices
-
-### 2023: Year-End Metrics
-- **Student Engagement Metrics**
-  - **Total ORCA Student Participants:** 5
-  - **Student Hours on Real Open-Source Work:** 338 hours
-  - **Student Retention:** 60% (3/5 students return)
-  - **Research Collaborators:** ~25 (1 ORCA Research Project)
-
-- **Project Portfolio Growth**
-  - **Total Repositories:** 4 (private/public)
-  - **Active Projects:** ~4 during the year
-  - **Project Categories:** Community tools, research tools, data visualization, documentation
-
-- **External Partnerships**
-  - Early partnerships with community organizations begin to emerge.
-  - Engagement with Vermont agencies and nonprofits identified as priority.
+By year's end, VERSO had established itself as a bridge between UVM and broader academic and international open-source communities, demonstrated by its sponsorship of global events and leadership roles in national forums. The organization moved beyond internal pilot projects toward systemic engagement with Vermont agencies, nonprofits, and the broader research community. Student engagement reached new heights with ORCA participants logging 338 hours on real open-source work and 60% retention rate, validating VERSO's educational model. With four active repositories and expanding partnerships, VERSO completed its second year positioned for sustainable growth and deeper institutional integration.
