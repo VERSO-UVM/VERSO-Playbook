@@ -24,17 +24,17 @@ Students are the engine of VERSO and ORCA. Their participation and professional 
 - **Total ORCA student participants per year** - Unique count of students in the program each year, includes all semesters
     -   2023 - 5
     -   2024 - 25
-    -   2025 - 30
+    -   2025 - 40
 - **Hours students contribute to real open work in ORCA** - Total hours worked for paid projects (this does not include volunteer work)
     -   2023 - 338 hours
-    -   2024 - 4414 hours
-    -   2025 - 3166 hours
+    -   2024 - 4,414 hours
+    -   2025 - 7,850 hours
 - **Retention** - Students returning for multiple semesters by year, this includes if a student continued from a previous year or went into the next year
     -   2023 - 60% (3/5 students)
     -   2024 - 72% (18/25 students)
     -   2025 - 73% (22/30 students)
 - **Career outcomes** - Including internships, research positions, or employment related to open‑source skills
-    - This is a qualitative metric as student's post-graduation are not required to send back any information to ORCA, but in once case a student actually works in UVM in IT, another from the zoning atlas team joined a Town Planning Office, another went to be a Public Works Intern, another to be a Field Geologist. 
+    - This is a qualitative metric, as students are not required to report back on their post-graduation outcomes. Known examples include one student who now works in UVM IT, another from the Zoning Atlas team who joined a town planning office, another who became a Public Works intern, and another who became a field geologist.
 
 These metrics illuminate how VERSO prepares students for open‑source practice and supports a workforce trained in real production‑quality tools and methods.
 
@@ -89,7 +89,7 @@ A healthy open ecosystem can only thrive through collaboration. Over time, VERSO
     -   2025 - 60 (4 research ORCA projects)
 - **External partners** - Collaboration with nonprofits, state agencies, local governments, and other universities either from project exploration to building software. This is approximate, this is not stored in an easy to find system, especially year to year as once a partnership is created it may be in a semi-active state.
     -   2024 - 14 (3 Community ORCA project)
-    -   2025 - 25 (10 Community ORCA project)
+    -   2025 - 25 (4 Community ORCA project)
 
 These metrics reflect how well VERSO strengthens UVM’s connections to regional, national, and international open‑source communities.
 ### Partnership & Ecosystem Growth
@@ -98,7 +98,7 @@ These metrics reflect how well VERSO strengthens UVM’s connections to regional
 |------|---------------------------|-------------------|------------------------|-------------------------|
 | 2023 | 25 | 0 | 1 | 0 |
 | 2024 | 45 | 14 | 2 | 3 |
-| 2025 | 60 | 25 | 4 | 10 |
+| 2025 | 60 | 25 | 4 | 4 |
 
 ---
 
@@ -162,5 +162,5 @@ As VERSO expanded its educational programs, event‑based metrics became valuabl
 
 # Beyond Numbers
 
-While metrics provide snapshots of progress, they cannot capture transformation on their own. The number of workshops held or repositories created illustrates activity but not meaning. To fully understand VERSO’s impact, we must also embrace stories, testimonials, unexpected outcomes, and culture shifts—forms of impact that numbers alone cannot quantify.
+While metrics provide snapshots of progress, they cannot capture change on their own. The number of workshops held or repositories created illustrates activity but not meaning. To understand VERSO's impact more fully, we also draw on stories, testimonials, unexpected outcomes, and culture shifts—forms of impact that numbers alone cannot quantify.
 

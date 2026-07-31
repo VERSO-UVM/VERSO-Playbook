@@ -1,14 +1,24 @@
 # Student Engagement Through ORCA
 
-The Open Research Collaborative Activities (ORCA) program represents one of VERSO's most transformative initiatives—a student internship program that addresses two interconnected challenges: the need for research translation and the need for workforce-ready graduates. Born from pragmatic necessity and refined through experimentation, ORCA has grown from a modest pilot with 5 students in 2023 to a robust program engaging 30 students by 2025, collectively contributing thousands of hours to production-quality open-source projects while building professional skills that have launched careers in technology, planning, research, and public service.
+The Open Research Collaborative Activities (ORCA) program is one of VERSO's most significant initiatives—a student internship program that addresses two interconnected challenges: the need for research translation and the need for workforce-ready graduates. Born from pragmatic necessity and refined through experimentation, ORCA has grown from a pilot with 5 students in 2023 to a program engaging 40 students by 2025, collectively contributing thousands of hours to production-quality open-source projects while building professional skills that have launched careers in technology, planning, research, and public service.
 
-ORCA's dual mission is to (1) produce impactful, accessible, open-source research tools and community resources by (2) training tomorrow's workforce in marketable open-source skills. This alignment allows students to gain meaningful experience while simultaneously advancing research translation—making research sufficiently accessible and applicable that people in other fields, companies, governments, and communities can effectively implement, mature, and scale up those research advances.
+ORCA's mission is twofold: (1) produce useful, accessible open-source research tools and community resources, and (2) train students in marketable open-source skills. This alignment allows students to gain meaningful experience while advancing research translation—making research accessible and applicable enough that people in other fields, companies, governments, and communities can implement, mature, and scale those research advances.
+
+## ORCA by the Numbers (January 2026)
+
+- **Total students hired:** 44
+- **Hours logged:** 8,850+
+- **Open projects:** 27+
+- **Cumulative pods:** 12+ from Fall 2023 through Spring 2026
+- **Students working two or more semesters:** approximately 70%
+
+By Fall 2025, ORCA had grown from one pod of five students to four concurrent pods. Pods generally settled at four or five students rather than the two or three anticipated in the original proposal, and students often worked across multiple projects so that a stakeholder delay did not idle an entire team. Senior participants also began serving in program-level roles as community manager, technical infrastructure lead, and marketing/outreach lead, distributing organizational work that had previously concentrated on the VERSO Director.
 
 ---
 
 ## Origins: Solving the Capacity Problem
 
-The story of ORCA begins not with a grand vision, but with a frustrating pattern observed across UVM's research community. In interviews with researchers involved in open science initiatives, VERSO staff discovered a persistent challenge: even where faculty and researchers believed in following open science practices, the lack of time, capacity, and perhaps institutional incentives greatly hindered any successful output. Researchers understood the value of well-documented code, clear contribution guidelines, and accessible data—but they simply didn't have the bandwidth to implement these practices while managing their core research obligations.
+ORCA's origin was less a grand vision than a response to a frustrating pattern observed across UVM's research community. In interviews with researchers involved in open science initiatives, VERSO staff discovered a persistent challenge: even where faculty and researchers believed in following open science practices, the lack of time, capacity, and perhaps institutional incentives greatly hindered any successful output. Researchers understood the value of well-documented code, clear contribution guidelines, and accessible data—but they simply didn't have the bandwidth to implement these practices while managing their core research obligations.
 
 This capacity gap became the impetus for creating the Open Research Community Accelerator (ORCA) student internship program. The original concept was straightforward: add student effort to tackle some of the essential but time-intensive work that makes an open-source project successful—tasks like adding documentation, writing code comments, creating examples, and organizing repositories. By pairing student labor with faculty expertise, ORCA would help researchers overcome the capacity bottleneck while simultaneously training students in real open-source practices.
 
@@ -16,7 +26,7 @@ This capacity gap became the impetus for creating the Open Research Community Ac
 
 ## The First Project: Hard Lessons Learned
 
-The inaugural ORCA project in 2023 was ambitious complete rebuild of a research software tool for which only the executable program remained, with no access to the original source code. A team of 5 students took on the challenge, and the experience became a crash course in the realities of software development.
+The inaugural ORCA project in 2023 was an ambitious, complete rebuild of a research software tool for which only the executable program remained, with no access to the original source code. A team of 5 students took on the challenge, and the experience became a crash course in the realities of software development.
 
 The team quickly discovered that managing even a relatively small student development effort required all the architecture and processes of a professional software consulting company. Version control, task assignment, code review, testing protocols, documentation standards, continuous integration—all these practices needed to be established and maintained. The students needed mentorship not just on technical skills, but on professional software development workflows.
 
@@ -28,7 +38,7 @@ More significantly, the project revealed an uncomfortable truth about faculty ex
 
 The second major ORCA project validated this new direction and opened unexpected possibilities. Shortly after the first project wrapped up, a graduate student from the Vermont Complex Systems Center reached out to VERSO about the Vermont Zoning Atlas which was an effort to digitize and standardize zoning data across all Vermont municipalities. The project had started six months earlier with volunteers, but momentum had slowed. An anonymous donation provided funding to complete the work, and ORCA offered the perfect mechanism to hire and manage student workers.
 
-Critically, this was not a software problem but a data problem. The work required systematic data collection, verification, standardization, and documentation—tasks that were labor-intensive but accessible to students. VERSO utilized GitHub as version control for the data itself, treating datasets as code and applying open-source workflows to collaborative data curation.
+This was a data problem, not a software problem. The work required systematic data collection, verification, standardization, and documentation—tasks that were labor-intensive but accessible to students. VERSO utilized GitHub as version control for the data itself, treating datasets as code and applying open-source workflows to collaborative data curation.
 
 The project also required disciplinary flexibility. Since UVM's Computer Science program didn't have a strong geospatial data focus, VERSO reached out to the College of Agriculture and Life Sciences, which did. This cross-disciplinary recruiting strategy proved essential, demonstrating that ORCA could draw talent from across the university based on project needs rather than limiting itself to traditional computer science students.
 
@@ -44,28 +54,28 @@ With two successful pilot projects completed and lessons learned incorporated, O
 
 **Project Diversification**: Building on the Zoning Atlas success, ORCA expanded into multiple domains simultaneously. Projects included geospatial analysis, community planning tools, public works infrastructure mapping, research data curation, and custom application development. This portfolio approach meant students with different skill sets—from GIS specialists to web developers to data scientists—could all find meaningful work within the program.
 
-The results were dramatic:
+The results:
 - **Student participation** grew from 5 in 2023 to 25 in 2024—a 5x increase
 - **Student hours** on real open-source work jumped from 338 hours to 4,414 hours—a 13x increase
 - **Retention rates** reached 72%, with 18 of 25 students continuing for multiple semesters
 - **Project portfolio** expanded to approximately 17 active projects during the year
 - **Research collaborations** nearly doubled, with ORCA supporting 2 active research projects and 3 community projects
 
-Early career outcomes began to emerge as well, with graduates securing internships and positions related to their open-source skills—validation that ORCA was building genuine workforce readiness, not just academic credentials.
+Early career outcomes also began to emerge, with graduates securing internships and positions related to their open-source skills—an early sign that ORCA was building workforce readiness, not just academic credentials.
 
 ---
 
 ## Maturation and Impact (2025)
 
-By 2025, ORCA had matured into a cornerstone of VERSO's operations and a distinctive element of UVM's educational offering. The program engaged 30 students who contributed 3,166 hours of work across 8 active projects—4 research-focused and 4 community-focused. Retention remained strong at 73%, with 22 of 30 students continuing their involvement across multiple semesters, demonstrating sustained engagement and deepening expertise.
+By 2025, ORCA had become a central part of VERSO's operations and a distinctive element of UVM's educational offering. The program engaged 40 students who contributed 7,850 hours of work across 8 active projects—4 research-focused and 4 community-focused. Retention remained strong at 73%, with 22 of 30 returning-eligible students continuing their involvement across multiple semesters.
 
-More importantly, ORCA's career impact became undeniable. Students transitioned from the program into professional positions that directly utilized their open-source experience:
+ORCA's career impact also became clearer. Students transitioned from the program into professional positions that directly used their open-source experience:
 - One student joined UVM's IT department, bringing open-source practices into institutional operations
 - A member of the Zoning Atlas team was hired by a Vermont town planning office
 - ORCA participants secured public works internships
 - Graduates moved into field geologist positions, applying data management skills learned through ORCA
 
-These outcomes reflect ORCA's evolution beyond a traditional internship program. Students weren't simply getting resume lines or course credits—they were acquiring production-quality skills in version control, collaborative workflows, documentation practices, data management, and open-source project operations that employers valued and could immediately apply.
+These outcomes reflect ORCA's evolution beyond a traditional internship program. Students were acquiring production-quality skills in version control, collaborative workflows, documentation practices, data management, and open-source project operations—skills that employers valued and students could apply immediately, beyond a resume line or course credit.
 
 **ORCA as Institutional Infrastructure**
 
@@ -156,7 +166,7 @@ ORCA projects are not simulations or academic exercises. They produce actual too
 Projects operate under **Agile software development practices**, giving students experience with industry-standard methodologies including sprint planning, stand-ups, retrospectives, and iterative development. ORCA fosters inclusive learning environments through platforms like GitHub (for version control and project management), Microsoft Teams (for communication and meetings), and Slack (for quick coordination). This combination of real work with professional tools and practices prepares students for immediate workforce integration.
 
 ### 2. Structured Mentorship
-Every project has faculty or community partner oversight, ensuring students receive expert guidance. VERSO staff provide open-source practice mentorship, teaching version control, issue tracking, code review, and documentation standards throuhg onboarding tasks and coaching where needed. This dual mentorship—domain expertise plus technical practice creates a comprehensive learning environment.
+Every project has faculty or community partner oversight, ensuring students receive expert guidance. VERSO staff provide open-source practice mentorship, teaching version control, issue tracking, code review, and documentation standards through onboarding tasks and coaching where needed. This dual mentorship—domain expertise plus technical practice—creates a well-rounded learning environment.
 
 ### 3. Paid Internships with Academic Credit and Alternative Assessment
 Students are compensated for their work (following UVM Student Employment pay level guidelines), recognizing that time has value and that professional skills deserve professional treatment.
@@ -164,7 +174,7 @@ Students are compensated for their work (following UVM Student Employment pay le
 ### 4. Multi-Semester Continuity and Pod Structure
 ORCA's high retention rates enable students to grow from newcomers to experienced contributors. First-semester students learn fundamentals; returning students take on leadership roles, mentor newcomers, and tackle more complex challenges. This continuity benefits projects (institutional knowledge is retained) and students (deepening expertise leads to better career outcomes).
 
-Work is organized around **Pods**—small teams of 4-5 students who collaborate closely to solve problems. In real working environments, teamwork is a vital skill, and pods help grow students' abilities to work collaboratively and instinctively reach out to peers for troubleshooting and validation. Pods have in-person co-working times at Hills 129 (shared with UVM's ARC program that follows the same idea as ORCA but rather focused on commercialization) where members gather when possible, as this has proven valuable for team cohesion. Team meetings like sprint planning and reviews have required attendance and scheduling has always been difficule given class schedules. In the summer students are generally remote.
+Work is organized around **Pods**—small teams of 4-5 students who collaborate closely to solve problems. In real working environments, teamwork is a vital skill, and pods help grow students' abilities to work collaboratively and instinctively reach out to peers for troubleshooting and validation. Pods have in-person co-working times at Hills 129 (shared with UVM's ARC program that follows the same idea as ORCA but rather focused on commercialization) where members gather when possible, as this has proven valuable for team cohesion. Team meetings like sprint planning and reviews have required attendance, and scheduling has always been difficult given class schedules. In the summer students are generally remote.
 
 Pods are typically organized by focus area. For example:
 - **Sugarbush** - This pod is focused on prototyping and rapid development. It include the VRWA certification app, the City of Burlington Alert app, and other projects as needed.
@@ -183,6 +193,18 @@ Rather than limiting recruitment to computer science majors, ORCA actively seeks
 By maintaining a portfolio spanning research software, community tools, data curation, and documentation, ORCA can match students to projects aligned with their interests and career goals while exposing them to the breadth of open-source practice. It also allows for teams to move to a new project if one is stalled waiting for feedback from a stakeholder.
 
 ---
+
+## Active Projects (July 2026)
+
+ORCA's active portfolio now includes the Heard and Understood App, which is in a Dartmouth Medical pilot; Vermont Zoning Atlas v2; the VRWA Certification Web App; the City of Burlington mobile app; Drinking Water Service Districts and Vermont Bond Bank mapping; the VT PoC interactive data portal; the Vermont Livability Map; the Vermont Town Data Analyzer; the BRIC/Endless Foundation Vermont Cup; and GitMed. Completed work includes the Wastewater Infrastructure Map, which contains more than 222,000 infrastructure features across 256 municipalities and is in use by Vermont's Agency of Natural Resources, as well as the Vermont Wastewater Report 2026.
+
+### Unexpected Wins
+
+Two ORCA students played a central role in establishing Vermont's first Internet Exchange Point, an unplanned contribution to regional digital infrastructure. ORCA projects also prompted UVM Innovations to modify its invention disclosure process to accept open-source inventions. The Heard and Understood App's transition from a student-built prototype to an active clinical pilot at Dartmouth Medical remains ORCA's clearest example of student work reaching a high-stakes production setting.
+
+### Operating Challenges
+
+Stakeholder availability remains a bottleneck for state agencies and nonprofits. VERSO mitigates stalled feedback by placing students on two or three projects at once and is experimenting with AI-based "agentic stakeholders" that can simulate agency perspectives for early feedback. Student demand and partner demand also exceed what the core staff can absorb, making student leadership and the Open Resource Library important parts of scaling without immediately expanding staff. Partner-funded student wages can improve project capacity while making VERSO's own budget forecasting less predictable. Finally, changing CS enrollment patterns associated with AI tools may reduce the future coding pipeline, so ORCA is incorporating AI-assisted coding into its workflows rather than treating it only as a threat.
 
 ## Challenges and Ongoing Questions
 
@@ -225,7 +247,7 @@ ORCA's operations are led by Kendall Fortney, VERSO Director who serves as super
 - Kendall Fortney (Program Director, VERSO)
 - John Meluso (VERSO Postdoctoral Fellow, Complex Systems Center, now Postdoctoral Fellow at Cornell)
 - Erik Monsen (Associate Professor, Grossman School of Business)
-- Jeremiah Onaolapo (Assistant Professor, Computer Science, )
+- Jeremiah Onaolapo (Assistant Professor, Computer Science)
 
 As ORCA enters its fourth year, the program faces questions about its next phase of evolution:
 
@@ -234,6 +256,6 @@ As ORCA enters its fourth year, the program faces questions about its next phase
 - Could ORCA expand to include graduate students, postdocs, or even alumni volunteers, creating a richer ecosystem of contributors?
 - What role might ORCA play in UVM's broader workforce development and community engagement strategies?
 
-What's clear is that ORCA has proven that students—given real responsibility, good mentorship, and meaningful work—can contribute substantively to open-source ecosystems while building career-ready skills. The program demonstrates that universities can be not just consumers but producers and stewards of open-source knowledge, training the next generation of practitioners while serving research and community needs.
+ORCA has shown that students—given real responsibility, good mentorship, and meaningful work—can contribute substantively to open-source ecosystems while building career-ready skills. The program shows that universities can be producers and stewards of open-source knowledge, not just consumers of it, training practitioners while serving research and community needs.
 
-In this sense, ORCA embodies VERSO's core mission: making open source not an abstract ideal but a lived practice woven into the daily work of research, teaching, and community engagement. By drawing on the latest research on openness and learning, ORCA creates environments where students work on legitimate tasks—work that affects real people and could actually go into practice—which research demonstrates is essential for learning an occupation and is far more meaningful for students than simulated projects. 
+In this sense, ORCA reflects VERSO's core mission: treating open source as a practice woven into the daily work of research, teaching, and community engagement, rather than an abstract ideal. Drawing on research on openness and learning, ORCA creates environments where students work on legitimate tasks that affect real people and could go into practice—work that research suggests is both essential for learning an occupation and more meaningful to students than simulated projects.

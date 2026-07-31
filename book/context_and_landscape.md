@@ -13,15 +13,15 @@ The benefits of open source can include:
 - **Equity and Access**: Open source reduces barriers for under-resourced institutions and researchers, democratizing participation in cutting-edge science.
 - **Innovation**: By lowering entry costs and encouraging community contributions, open source accelerates the pace of technological advancement.
 
-Despite these advantages adoption in academia remains uneven. Many researchers release code informally as supplementary material or in personal repositories without clear licensing, governance, or documentation {cite}`alzahrani_encoding_2024` as further efforts cost too much {cite}`cadwallader_survey_2022`. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
+Despite these advantages, adoption in academia remains uneven. Many researchers release code informally as supplementary material or in personal repositories, without clear licensing, governance, or documentation {cite}`alzahrani_encoding_2024`, in part because further efforts require resources they don't have {cite}`cadwallader_survey_2022`. This lack of structure limits reuse, creates compliance risks, and undermines sustainability. Projects frequently disappear when a grant ends or a key contributor graduates, resulting in lost value for the scientific community.
 
-The reasons for this behavior is broad and often a set of complex interactions. Incentives for going above just publishing code to making it functional for others is often lacking, either in prestige, recognition for metrics to get tenure to purely the lack of financial incentive to keep a project active after grant funding has expired. In addition the skills necessary to run an open source project are not taught, or even fully understood. The emergence of the National Science Foundation programs like [Pathways to enable Open Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) start to recognize and support the work required for successful open source research software.
+The reasons for this are varied and often reflect a set of complex interactions. Incentives for going beyond simply publishing code to making it functional for others are often lacking, whether in prestige, in tenure and promotion metrics, or in financial support to keep a project active after grant funding ends. In addition, the skills necessary to run an open-source project are rarely taught or fully understood. National Science Foundation programs such as [Pathways to Enable Open-Source Ecosystems (POSE)](https://www.nsf.gov/funding/opportunities/pose-pathways-enable-open-source-ecosystems) have begun to recognize and support the work required for successful open-source research software.
 
 The open-source movement in research is not just about technology; it represents a cultural shift toward transparency, collaboration, and shared stewardship of knowledge. Universities have a unique opportunity to lead this transformation by embedding open-source practices into the research lifecycle. This is the context in which VERSO was created: to provide the infrastructure, policies, and community support needed to make open source a strategic asset for academic research.
 
 ---
 
-##  The University of Vermont Research Ecosystem
+## The University of Vermont Research Ecosystem
 
 The [University of Vermont (UVM)](https://www.uvm.edu/) is a **public land-grant research university** with a mission rooted in accessibility, community engagement, and the advancement of knowledge for the public good. Founded in **1791**, UVM combines the scale of a research-intensive institution with the collaborative spirit of a smaller university. Its research enterprise spans a wide range of disciplines, reflecting both global priorities and Vermont’s unique needs.
 
@@ -29,15 +29,15 @@ The [University of Vermont (UVM)](https://www.uvm.edu/) is a **public land-grant
 As a **land-grant university**, UVM has a statutory obligation to ensure that its research and educational outputs benefit the people of Vermont. This includes a strong emphasis on community engagement, applied research, and knowledge dissemination. [UVM Extension](https://www.uvm.edu/extension) and the [Office of Engagement](https://www.uvm.edu/engagement) maintain deep partnerships with local communities, businesses, and nonprofits, creating a natural bridge between academic research and societal needs.
 
 ### The Gap in Open Source Support
-Despite this vibrant research ecosystem, UVM had a minimal formal systems to support open-source software development. While the institution had a Gitlab, individual labs often released code informally on alternative platforms, without standardized licensing, governance, or sustainability planning. There was no institutional open data repository either, meaning there was no clear pathway for data access or sustainability. There was no community activities that recognized open source work where norms, collaboration and recognition could be shared.
+Despite this active research ecosystem, UVM had minimal formal systems to support open-source software development. While the institution had a GitLab instance, individual labs often released code informally on other platforms, without standardized licensing, governance, or sustainability planning. There was no institutional open-data repository, so there was no clear pathway for data access or long-term preservation. Nor were there community activities that recognized open-source work, where norms, collaboration, and recognition could be shared.
 
-These gaps highlighted the need for an institutional framework—one that could enable open-source practices, foster collaboration, and ensure long-term impact. VERSO was designed to fill this void and position UVM as a national leader in academic open source.
+These gaps highlighted the need for an institutional framework that could enable open-source practices, foster collaboration, and ensure long-term impact. VERSO was designed to address these gaps and position UVM among the leaders in academic open source.
 
 ---
 
 ## Why Open Source Matters for Academia
 
-Open source is more than a technical choice—it is a cultural and strategic shift that aligns closely with the core values of higher education: transparency, collaboration, and public good. In the context of academic research, open source offers several critical benefits:
+Open source is more than a technical choice—it is a cultural and strategic shift that aligns closely with the core values of higher education: transparency, collaboration, and public good. In the context of academic research, open source offers several notable benefits:
 
 ### Reproducibility
 Science depends on reproducibility, yet many research findings cannot be replicated because the underlying code or data is inaccessible. Open source addresses this by making research artifacts transparent and verifiable. When code and workflows are openly shared, other researchers can validate results, identify errors, and build upon prior work, strengthening the integrity of science.
@@ -71,7 +71,7 @@ These barriers illustrate why an institutional approach is essential. Without de
 
 ## The Opportunity
 
-VERSO emerged at a pivotal moment for both academia and the broader research ecosystem. Across the United States, federal agencies were rolling out open science mandates, requiring researchers to share data, code, and other digital artifacts as part of their funding agreements. These policies signaled a fundamental shift: openness was no longer optional—it was becoming a core expectation of publicly funded research.
+VERSO emerged at a formative moment for both academia and the broader research ecosystem. Across the United States, federal agencies were rolling out open science mandates, requiring researchers to share data, code, and other digital artifacts as part of their funding agreements. These policies signaled a fundamental shift: openness was no longer optional—it was becoming a core expectation of publicly funded research.
 
 At the same time, industry had already demonstrated the power of structured open-source governance. Companies like Google, Microsoft, and IBM had established Open Source Program Offices (OSPOs) to manage compliance, foster collaboration, and strategically leverage open source for innovation. These offices showed that open source could be more than a collection of ad hoc projects; with the right infrastructure, it could become a driver of organizational success. Yet, in academia, similar structures were almost nonexistent.
 

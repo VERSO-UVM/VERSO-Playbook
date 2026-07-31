@@ -2,11 +2,11 @@
 
 Open Source Program Offices (OSPOs) have become standard in the tech industry, providing structure, governance, and strategy for managing open source. However, they remain rare in higher education, despite universities being among the largest producers of open-source software. Academic research generates thousands of software tools, data pipelines, and computational models annually, yet most lack the institutional support needed for sustainability and impact. Researchers frequently create tools with significant potential for broader impact, but barriers such as licensing, compliance, sustainability, and community engagement prevent effective sharing and maintenance.
 
-Universities should lead in open-source adoption. Unlike corporations, universities have a mission rooted in public good, knowledge dissemination, and community engagement—values that align perfectly with open-source principles. Yet without dedicated institutional structures, open-source work in academia typically suffers from fragmentation (individual labs reinventing solutions), compliance risks (unclear licensing and intellectual property policies), and short lifespans (projects disappearing when grants end or contributors graduate).
+Universities are well positioned to lead in open-source adoption. Unlike corporations, universities have a mission rooted in public good, knowledge dissemination, and community engagement—values that align closely with open-source principles. Yet without dedicated institutional structures, open-source work in academia typically suffers from fragmentation (individual labs reinventing solutions), compliance risks (unclear licensing and intellectual property policies), and short lifespans (projects disappearing when grants end or contributors graduate).
 
 The Vermont Research Open Source Program Office (VERSO) was established at the University of Vermont to address these gaps and demonstrate how an academic OSPO can transform research culture. By establishing clear policies for licensing, attribution, and compliance, offering templates for governance and contribution guidelines, and providing workshops, documentation, and one-on-one consultations, VERSO aimed to reduce uncertainty for researchers and drive adoption of open-source practices.
 
-Critically, VERSO positions open source as more than a technical choice—it's a driver of research impact, reproducibility, and collaboration. Advocating for its inclusion in grant proposals, tenure considerations, and institutional strategy is fundamental for the office's long-term sustainability. By creating VERSO, we aimed to make open source a first-class citizen in academic research, ensuring that the tools and knowledge produced at UVM are accessible, sustainable, and impactful.
+VERSO positions open source as more than a technical choice: it is a driver of research impact, reproducibility, and collaboration. Advocating for its inclusion in grant proposals, tenure considerations, and institutional strategy is fundamental to the office's long-term sustainability. In creating VERSO, we aimed to make open source a first-class part of academic research, ensuring that the tools and knowledge produced at UVM are accessible, sustainable, and impactful.
 
 ---
 
@@ -31,11 +31,11 @@ The proposal outlined three core aims:
 
 ## Placement of VERSO
 
-The Aflred P. Sloan grant that created VERSO in 2022 was supported by the UVM Library through Library Dean [Bryn Geffert](https://libraries.uvm.edu/az/employee-directory/geffert-bryn) and [Juniper Lovato](https://www.uvm.edu/cems/cs/profile/juniper-lovato) at the College of Engineering and Mathematical Sciences (CEMS). This placed the new office between a college and a cross-campus department and provided connections to students, faculty and staff that are most likely to be in the open source programming space while also giving it reach to move beyond CEMS to support a broader spectrum of the community.
+The Alfred P. Sloan grant that created VERSO in 2022 was supported by the UVM Library through Library Dean [Bryn Geffert](https://libraries.uvm.edu/az/employee-directory/geffert-bryn) and [Juniper Lovato](https://www.uvm.edu/cems/cs/profile/juniper-lovato) at the College of Engineering and Mathematical Sciences (CEMS). This placed the new office between a college and a cross-campus department and provided connections to students, faculty and staff that are most likely to be in the open source programming space while also giving it reach to move beyond CEMS to support a broader spectrum of the community.
 
-The first physical office was places in Howe Library building in a basement office. By 2024 VERSO had moved under the Vermont Complex Systems Center as it was becoming an independent institute under the Office of the Vice President of Research. The office at that time moved into Innovation Hall. The change provided the base for inter-disciplinary work across all colleges and tied more deeply with community projects and research translation in the Office of Engagement.
+The first physical office was placed in Howe Library, in a basement office. By 2024 VERSO had moved under the Vermont Complex Systems Center as it was becoming an independent institute under the Office of the Vice President of Research. The office at that time moved into Innovation Hall. The change provided the base for inter-disciplinary work across all colleges and tied more deeply with community projects and research translation in the Office of Engagement.
 
-While this change has been beneficial, open source program offices like VERSO often struggle as their activities, like support researchers, or student education, or building infrastructure, or driving policy and running external community events does not fit neatly into any one office on a campus. In some ways the Library made sense as a place to distribute service, but as an office that also needed to get grants to survive, and needing to run student educational programming, it would have presented different kinds of problems.
+While this change has been beneficial, open source program offices like VERSO often struggle because their activities — supporting researchers, student education, building infrastructure, driving policy, and running external community events — do not fit neatly into any one office on a campus. In some ways the Library made sense as a place to house this kind of service, but as an office that also needed to secure grants to survive and run student educational programming, it would have presented a different set of challenges over time.
 
 ---
 
@@ -50,7 +50,7 @@ Enablement means turning good intentions into actionable steps so that open sour
 - Providing clear guidance on licensing and intellectual property.
 - Offering templates for governance, contribution guidelines, and documentation.
 - Delivering training and workshops to build confidence in open-source practices.
-- Creating infrastructure makes it easy to release and maintain open source projects.
+- Creating infrastructure that makes it easy to release and maintain open-source projects.
 
 ### Community
 
@@ -59,7 +59,7 @@ Community is not just about participation; it’s about creating a sense of awar
 - Building a **community of practice** among faculty, students, and staff.
 - Hosting events like hackathons, conferences, workshops, and meetups sessions to connect people across disciplines.
 - Encouraging partnerships with other universities, nonprofits, and industry to expand the reach of UVM’s open-source projects.
-- Creating communication channels contributors can share ideas and solve problems together.
+- Creating communication channels where contributors can share ideas and solve problems together.
 
 ### Sustainability
 
